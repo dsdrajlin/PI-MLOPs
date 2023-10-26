@@ -14,6 +14,7 @@ def PlayTimeGenre(genero: str):
     anio = int(df.loc[df[genero].idxmax()]["year"])
     return {f"Año de lanzamiento con más horas jugadas para Género {genero}" : anio}
 
+
 @app.get("/UFG/{genero}")
 def UserForGenre (genero: str):
     # Crear un dataframe donde las filas son user_id y las columnas géneros.
@@ -37,6 +38,47 @@ def UserForGenre (genero: str):
 
     return {f"Usuario con más horas jugadas para Género {genero}" : user,
             "Horas jugadas": res}
+
+
+@app.get("/UR/{anio}")
+def UsersRecommend(anio: int):
+    # Crear un dataframe con columnas "review_year" (año), "app_name" y 
+    # "recommend" (número de recomendaciones). Solo incluye los 3 juegos 
+    # mas recomendados por año.
+    df = pd.read_csv("./Datasets_API/UsersRecommend.csv")
+
+    if anio in df.review_year.unique(): # Verificar que el año esté presente.
+        # Crear un dataframe filtrando por anio (solo 3 filas).
+        mejores = df[df.review_year == anio].reset_index()
+
+        primero = mejores.loc[0, "app_name"] # Primer juego mas recomendado.
+        segundo = mejores.loc[1, "app_name"] # Segundo juego mas recomendado.
+        tercero = mejores.loc[2, "app_name"] # Tercer juego mas recomendado.
+
+        return [{"Puesto 1" : primero}, {"Puesto 2" : segundo},{"Puesto 3" : tercero}]
+    else:
+        return "Año no encontrado. Intente otro año."
+
+
+@app.get("/UNR/{anio}")
+def UsersNotRecommend(anio: int):
+    # Crear un dataframe con columnas "review_year" (año), "app_name" y 
+    # "score_not_recommend" (score de recomendaciones negativas).
+    df = pd.read_csv("./Datasets_API/UsersNotRecommend.csv")
+
+    if anio in df.review_year.unique(): # Verificar que el año esté presente.
+        # Filtrado df por año y ordenar por "score_not_recommend" ascendente.
+        peores = df[df.review_year == anio].sort_values("score_not_recommend",
+                                                         ascending=False)
+        peores.reset_index(drop=True, inplace=True) # Resetear el indice.
+
+        primero = peores.loc[0, "app_name"] # Primer juego menos recomendado.
+        segundo = peores.loc[1, "app_name"] # Segundo juego menos recomendado.
+        tercero = peores.loc[2, "app_name"] # Tercer juego menos recomendado.
+
+        return [{"Puesto 1" : primero}, {"Puesto 2" : segundo},{"Puesto 3" : tercero}]
+    else:
+        return "Año no encontrado. Intente otro año."
 
 
 @app.get("/SA/{anio}")
