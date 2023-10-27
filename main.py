@@ -96,36 +96,15 @@ def sentiment_analysis(anio: int):
 
 @app.get("/RG/{id_ref}")
 def recomendacion_juego(id_ref: int):
-    # Cargar como dataframe el archivo "recomendacion_juego.csv".
-    df = pd.read_csv("./Datasets_API/recomendacion_juego.csv")
 
-    # Crear un dataframe cuya única fila sea aquella que que contiene el id del
-    # juego pasado como parámetro y las columnas seleccionadas.
-    fila_juego = df.loc[df.id == id_ref,
-                         "genres_Accounting":"specs_Windows Mixed Reality"]
-    
-    # Calcular las similitudes del coseno entre este juego y los demas y 
-    # guardarlos en un array de NumPy.
-    scores_similitud = cosine_similarity(fila_juego,
-                                          df.loc[:, "genres_Accounting":
-                                                 "specs_Windows Mixed Reality"])
-    
-    # Convertir "scores_similitud" a un dataframe.
-    similitud_df = pd.DataFrame(scores_similitud, columns=df.app_name,
-                            index=df[df.id == id_ref].app_name)
-    
-    # Crear una serie en la que se ordenan los juegos de forma descendente 
-    # según su similitud del coseno con el juego de referencia.
-    recommended_games = similitud_df.iloc[0].sort_values(ascending=False)
+    df = pd.read_json("./Datasets_API/top_5_recomendados.json")
 
-    # Crear un diccionario vacio para ser retornado.
+    id_name_df = pd.read_csv("./Datasets_API/id_name.csv")
+
     res = {}
 
-    # Iterar a través de los primeros 5 elementos (excluyendo el propio juego)
-    # y obtener su nombre e id.
-    for idx, val in recommended_games[1:6].items():
-        app_name = idx
-        item_id = df.loc[df.app_name == app_name, "id"].item()
-        res[item_id] = app_name
+    for idx, val in df[id_ref].items():
+        name = id_name_df[id_name_df.id == val].app_name.item()
+        res[val] = name
 
     return res
