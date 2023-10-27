@@ -95,15 +95,22 @@ def sentiment_analysis(anio: int):
 
 @app.get("/RG/{id_ref}")
 def recomendacion_juego(id_ref: int):
-
+    # Crear un dataframe a partir "top_5_recomendados.json".
+    # Las columnas son los id del juego de referencia y las 5 filas los id
+    # de los juegos mas similares.
     df = pd.read_json("./Datasets_API/top_5_recomendados.json")
 
+    # Crear un dataframe a partir "id_name.csv".
     id_name_df = pd.read_csv("./Datasets_API/id_name.csv")
 
-    res = {}
+    res = {} # Crear un diccionario vacio para ser retornado como json.
 
+    # df[id_ref] es una serie de Pandas correspondiente a la columna "id_ref"
+    # del dataframe df. "val" contiene los id de los juegos
     for idx, val in df[id_ref].items():
+        # Se obtiene el nombre del juego.
         name = id_name_df[id_name_df.id == val].app_name.item()
+        # Se guarda en el diccionario el id como llave y el nombre como valor.
         res[val] = name
 
     return res
