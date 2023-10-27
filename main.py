@@ -2,11 +2,20 @@ import pandas as pd
 import numpy as np
 from fastapi import FastAPI
 
-app = FastAPI()
+description = "Esta API permite realizar consultas referidas a la plataforma STEAM."
+
+app = FastAPI(title="STEAM API",
+              description=description,
+              contact={"name": "Sebastian Drajlin",
+                       "url": "https://github.com/dsdrajlin/PI-MLOps",
+                       "email": "dsdrajlin@gmail.com"})
 
 
 @app.get("/PTG/{genero}")
 def PlayTimeGenre(genero: str):
+    """
+    Retornar el género mas jugado por año.
+    """
     # Crear un dataframe donde las filas son años y las columnas géneros.
     df = pd.read_csv("./Datasets_API/PlayTimeGenre.csv")
 
@@ -17,6 +26,9 @@ def PlayTimeGenre(genero: str):
 
 @app.get("/UFG/{genero}")
 def UserForGenre (genero: str):
+    """
+    Retornar el usuario que más jugó a un género y cuántas horas jugó cada año.
+    """
     # Crear un dataframe donde las filas son user_id y las columnas géneros.
     df1 = pd.read_csv("./Datasets_API/UserForGenre1.csv")
 
@@ -42,6 +54,9 @@ def UserForGenre (genero: str):
 
 @app.get("/UR/{anio}")
 def UsersRecommend(anio: int):
+    """
+    Retornar los 3 juegos mas recomendados para el año dado.
+    """
     # Crear un dataframe con columnas "review_year" (año), "app_name" y 
     # "recommend" (número de recomendaciones). Solo incluye los 3 juegos 
     # mas recomendados por año.
@@ -62,6 +77,9 @@ def UsersRecommend(anio: int):
 
 @app.get("/UNR/{anio}")
 def UsersNotRecommend(anio: int):
+    """
+    Retornar los 3 juegos menos recomendados para el año dado.
+    """
     # Crear un dataframe con columnas "review_year" (año), "app_name" y 
     # "score_not_recommend" (score de recomendaciones negativas).
     df = pd.read_csv("./Datasets_API/UsersNotRecommend.csv")
@@ -83,6 +101,9 @@ def UsersNotRecommend(anio: int):
 
 @app.get("/SA/{anio}")
 def sentiment_analysis(anio: int):
+    """
+    Retorna el número de reviews negativas, neutrales y positivas para un año dado.
+    """
     # Crear un dataframe donde las filas son años y las columnas análisis de sentimiento.
     df = pd.read_csv("./Datasets_API/sentiment_analysis.csv")
 
@@ -95,6 +116,9 @@ def sentiment_analysis(anio: int):
 
 @app.get("/RG/{id_ref}")
 def recomendacion_juego(id_ref: int):
+    """
+    Recibe un id de juego y retorna 5 juegos similares recomendados.
+    """
     # Crear un dataframe a partir "top_5_recomendados.json".
     # Las columnas son los id del juego de referencia y las 5 filas los id
     # de los juegos mas similares.
