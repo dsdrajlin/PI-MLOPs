@@ -102,7 +102,7 @@ def UsersNotRecommend(anio: int):
 @app.get("/SA/{anio}")
 def sentiment_analysis(anio: int):
     """
-    Retorna el número de reviews negativas, neutrales y positivas para un año dado.
+    Retornar el número de reviews negativas, neutrales y positivas para un año dado.
     """
     # Crear un dataframe donde las filas son años y las columnas análisis de sentimiento.
     df = pd.read_csv("./Datasets_API/sentiment_analysis.csv")
