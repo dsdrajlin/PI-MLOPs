@@ -127,11 +127,8 @@ def recomendacion_juego(id_ref: int):
     # Crear un dataframe a partir "id_name.csv".
     id_name_df = pd.read_csv("./Datasets_API/id_name.csv")
 
-    # Buscar el nombre del juego de referencia.
-    name_ref = id_name_df[id_name_df.id == id_ref].app_name.item()
-
     # Crear un diccionario vacio para ser retornado como json.
-    res = {"Juego de referencia": (id_ref, name_ref)} 
+    res = {} 
 
     # df[id_ref] es una serie de Pandas correspondiente a la columna "id_ref"
     # del dataframe df. "val" contiene los id de los juegos
