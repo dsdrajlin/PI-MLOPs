@@ -33,7 +33,7 @@ las librerias destacadas son:
 * __langdetect/wordcloud__: operaciones sobre texto.
 * __fastapi/uvicorn__: montado de la API.
 
-Adicionalmente se hizo uso del sitio [__render.com__](www.render.com) para el despliegue de la API.
+Adicionalmente se hizo uso del sitio [__render.com__](https://render.com/) para el despliegue de la API.
 
 ## Archivos
 Los principales archivos de este repositorio son:
