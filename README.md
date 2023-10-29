@@ -34,3 +34,6 @@ las librerias destacadas son:
 Adicionalmente se hizo uso del sitio __render.com__ para el despliegue de la API.
 
 ## Archivos
+Los principales archivos de este repositorio son:
+* [ETL.ipynb](ETL.ipynb)
+* 
