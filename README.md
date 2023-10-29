@@ -33,7 +33,7 @@ las librerias destacadas son:
 * __langdetect/wordcloud__: operaciones sobre texto.
 * __fastapi/uvicorn__: montado de la API.
 
-Adicionalmente se hizo uso del sitio __render.com__ para el despliegue de la API.
+Adicionalmente se hizo uso del sitio [__render.com__](render.com) para el despliegue de la API.
 
 ## Archivos
 Los principales archivos de este repositorio son:
@@ -45,7 +45,7 @@ Los principales archivos de este repositorio son:
 * [RS.ipynb](RS.ipynb): Desarrollo del sistema de recomendación.
 
 ## Demo
-En este [video](https://drive.google.com/file/d/1hYPQDf2RY5MB4PU3TGX8L9DlJ8vP-32b/view?usp=sharing) se muestra el esquema general de trabajo y las consultas a la API.
+En este [video](https://youtu.be/zsVhxv65iCk) se muestra el esquema general de trabajo y las consultas a la API.
 
 ## Despliegue de la API
 En este [link](https://pi-mlops-4j8c.onrender.com/docs) se podrá acceder a la API y realizar consultas.
