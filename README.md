@@ -35,9 +35,9 @@ Adicionalmente se hizo uso del sitio __render.com__ para el despliegue de la API
 
 ## Archivos
 Los principales archivos de este repositorio son:
-* [Diccionario de Datos STEAM.xlsx](Diccionario de Datos STEAM.xlsx) : Información sobre la estructura de los 3 archivos de origen (no incluidos en el repositorio).
+* <a href="Diccionario de Datos STEAM.xlsx" download="Diccionario de Datos STEAM.xlsx">Diccionario de Datos STEAM.xlsx</a>: Información sobre la estructura de los 3 archivos de origen (no incluidos en el repositorio).
 * [ETL.ipynb](ETL.ipynb): ETL de los 3 archivos de origen, junto con un EDA de los mismos.
 * [API.ipynb](API.ipynb): Archivo donde se generan los archivos de consulta de la API.
 * [Datasets_API](Datasets_API/): Carpeta con los archivos de consulta de la API
 * [main.py](main.py): Funciones de la API.
-* [RS.ipynb][RS.ipynb]: Desarrollo del sistema de recomendación. 
+* [RS.ipynb](RS.ipynb): Desarrollo del sistema de recomendación. 
