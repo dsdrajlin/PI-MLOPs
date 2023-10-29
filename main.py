@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 from fastapi import FastAPI
 
 description = "Esta API permite realizar consultas referidas a la plataforma STEAM."
