@@ -8,6 +8,8 @@
 - [Objetivos](#objetivos)
 - [Stack tecnológico](#stack-tecnológico)
 - [Archivos](#archivos)
+- [Demo](#demo)
+- [Despliegue de la API](#despliegue-de-la-api)
 
 
 ## Descripción
@@ -40,4 +42,10 @@ Los principales archivos de este repositorio son:
 * [API.ipynb](API.ipynb): Archivo donde se generan los archivos de consulta de la API.
 * [Datasets_API](Datasets_API/): Carpeta con los archivos de consulta de la API
 * [main.py](main.py): Funciones de la API.
-* [RS.ipynb](RS.ipynb): Desarrollo del sistema de recomendación. 
+* [RS.ipynb](RS.ipynb): Desarrollo del sistema de recomendación.
+
+## Demo
+En este [video](https://drive.google.com/file/d/1hYPQDf2RY5MB4PU3TGX8L9DlJ8vP-32b/view?usp=sharing) se muestra el esquema general de trabajo y las consultas a la API.
+
+## Despliegue de la API
+En este [link](https://pi-mlops-4j8c.onrender.com/docs) se podrá acceder a la API y realizar consultas.
