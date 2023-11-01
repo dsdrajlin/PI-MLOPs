@@ -1,7 +1,7 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/8/87/New_Steam_Logo_with_name.jpg)
 
 <h1 align="center"><b> Steam Game Recommender </b></h1>
-
+<hr>
 
 ## Tabla de contenidos  <!-- omit in toc -->
 - [Descripción](#descripción)
@@ -41,7 +41,7 @@ Los principales archivos de este repositorio son:
 * [ETL.ipynb](ETL.ipynb): ETL de los 3 archivos de origen, junto con un EDA de los mismos.
 * [API.ipynb](API.ipynb): Archivo donde se generan los archivos de consulta de la API.
 * [RS.ipynb](RS.ipynb): Desarrollo del sistema de recomendación.
-* [Datasets_API](Datasets_API/): Carpeta con los archivos de consulta de la API
+* [Datasets_API](Datasets_API/): Carpeta con los archivos de consulta de la API.
 * [main.py](main.py): Funciones de la API.
 
 ## Demo

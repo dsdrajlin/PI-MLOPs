@@ -22,20 +22,20 @@ review_year,app_name,score_not_recommend
 2014.0,Chime,-0.5
 2010.0,Civilization IV: Beyond the Sword,0.0
 2013.0,Civilization IV: Beyond the Sword,0.0
-2010.0,Counter-Strike: Source,-0.4810126582278481
-2011.0,Counter-Strike: Source,0.5189873417721519
-2012.0,Counter-Strike: Source,-0.4810126582278481
-2013.0,Counter-Strike: Source,1.518987341772152
-2014.0,Counter-Strike: Source,5.518987341772152
-2015.0,Counter-Strike: Source,1.518987341772152
+2010.0,Counter-Strike: Source,-0.41350210970464135
+2011.0,Counter-Strike: Source,0.5864978902953586
+2012.0,Counter-Strike: Source,-0.41350210970464135
+2013.0,Counter-Strike: Source,1.5864978902953586
+2014.0,Counter-Strike: Source,5.586497890295359
+2015.0,Counter-Strike: Source,1.5864978902953586
 2010.0,DOOM II,-0.3333333333333333
 2015.0,DOOM II,-0.3333333333333333
-2010.0,Day of Defeat: Source,-0.5
-2011.0,Day of Defeat: Source,-0.5
-2012.0,Day of Defeat: Source,-0.5
-2013.0,Day of Defeat: Source,-0.5
-2014.0,Day of Defeat: Source,0.5
-2015.0,Day of Defeat: Source,0.5
+2010.0,Day of Defeat: Source,-0.4375
+2011.0,Day of Defeat: Source,-0.4375
+2012.0,Day of Defeat: Source,-0.4375
+2013.0,Day of Defeat: Source,-0.4375
+2014.0,Day of Defeat: Source,0.5625
+2015.0,Day of Defeat: Source,0.5625
 2010.0,Dragon Age: Origins,-1.0
 2013.0,Dragon Age: Origins,-1.0
 2014.0,Dragon Age: Origins,-1.0
@@ -45,60 +45,60 @@ review_year,app_name,score_not_recommend
 2013.0,Empire: Total War™,-0.3611111111111111
 2014.0,Empire: Total War™,-0.3611111111111111
 2015.0,Empire: Total War™,-0.3611111111111111
-2010.0,Fallout: New Vegas,-0.4198895027624309
-2011.0,Fallout: New Vegas,-0.4198895027624309
-2012.0,Fallout: New Vegas,-0.4198895027624309
-2013.0,Fallout: New Vegas,-0.4198895027624309
-2014.0,Fallout: New Vegas,0.580110497237569
-2015.0,Fallout: New Vegas,3.5801104972375692
-2010.0,Garry's Mod,-0.3626760563380282
-2011.0,Garry's Mod,-0.3626760563380282
-2012.0,Garry's Mod,-0.3626760563380282
-2013.0,Garry's Mod,1.6373239436619718
-2014.0,Garry's Mod,18.637323943661972
-2015.0,Garry's Mod,15.637323943661972
+2010.0,Fallout: New Vegas,-0.3812154696132597
+2011.0,Fallout: New Vegas,-0.3812154696132597
+2012.0,Fallout: New Vegas,-0.3812154696132597
+2013.0,Fallout: New Vegas,-0.3812154696132597
+2014.0,Fallout: New Vegas,0.6187845303867403
+2015.0,Fallout: New Vegas,3.6187845303867405
+2010.0,Garry's Mod,-0.32511737089201875
+2011.0,Garry's Mod,-0.32511737089201875
+2012.0,Garry's Mod,-0.32511737089201875
+2013.0,Garry's Mod,1.6748826291079812
+2014.0,Garry's Mod,18.67488262910798
+2015.0,Garry's Mod,15.674882629107982
 2010.0,IL-2 Sturmovik: 1946,-0.3333333333333333
 2012.0,IL-2 Sturmovik: 1946,-0.3333333333333333
 2014.0,IL-2 Sturmovik: 1946,0.6666666666666667
 2015.0,IL-2 Sturmovik: 1946,-0.3333333333333333
-2010.0,Killing Floor,-0.3048780487804878
-2011.0,Killing Floor,-0.3048780487804878
-2012.0,Killing Floor,-0.3048780487804878
-2013.0,Killing Floor,-0.3048780487804878
-2014.0,Killing Floor,5.695121951219512
-2015.0,Killing Floor,0.6951219512195121
+2010.0,Killing Floor,-0.25609756097560976
+2011.0,Killing Floor,-0.25609756097560976
+2012.0,Killing Floor,-0.25609756097560976
+2013.0,Killing Floor,-0.25609756097560976
+2014.0,Killing Floor,5.7439024390243905
+2015.0,Killing Floor,0.7439024390243902
 2010.0,King's Bounty: The Legend,-1.0
-2010.0,Left 4 Dead 2,-0.37415881561238223
-2011.0,Left 4 Dead 2,-0.37415881561238223
-2012.0,Left 4 Dead 2,-0.37415881561238223
-2013.0,Left 4 Dead 2,2.625841184387618
-2014.0,Left 4 Dead 2,8.625841184387617
-2015.0,Left 4 Dead 2,2.625841184387618
+2010.0,Left 4 Dead 2,-0.3297442799461642
+2011.0,Left 4 Dead 2,-0.3297442799461642
+2012.0,Left 4 Dead 2,-0.3297442799461642
+2013.0,Left 4 Dead 2,2.6702557200538357
+2014.0,Left 4 Dead 2,8.670255720053836
+2015.0,Left 4 Dead 2,2.6702557200538357
 2010.0,Machinarium,-1.0
 2013.0,Machinarium,-1.0
 2014.0,Machinarium,-1.0
 2015.0,Machinarium,-1.0
 2010.0,Madballs in Babo:Invasion,0.5
 2015.0,Madballs in Babo:Invasion,1.5
-2010.0,Mirror's Edge™,-0.2972972972972973
-2012.0,Mirror's Edge™,-0.2972972972972973
-2013.0,Mirror's Edge™,0.7027027027027026
-2014.0,Mirror's Edge™,3.7027027027027026
-2015.0,Mirror's Edge™,0.7027027027027026
-2010.0,Mount & Blade: Warband,-0.4449760765550239
-2011.0,Mount & Blade: Warband,-0.4449760765550239
-2012.0,Mount & Blade: Warband,-0.4449760765550239
-2013.0,Mount & Blade: Warband,-0.4449760765550239
-2014.0,Mount & Blade: Warband,0.5550239234449761
-2015.0,Mount & Blade: Warband,1.555023923444976
+2010.0,Mirror's Edge™,-0.3108108108108108
+2012.0,Mirror's Edge™,-0.3108108108108108
+2013.0,Mirror's Edge™,0.6891891891891893
+2014.0,Mirror's Edge™,3.689189189189189
+2015.0,Mirror's Edge™,0.6891891891891893
+2010.0,Mount & Blade: Warband,-0.39712918660287083
+2011.0,Mount & Blade: Warband,-0.39712918660287083
+2012.0,Mount & Blade: Warband,-0.39712918660287083
+2013.0,Mount & Blade: Warband,-0.39712918660287083
+2014.0,Mount & Blade: Warband,0.6028708133971292
+2015.0,Mount & Blade: Warband,1.6028708133971292
 2010.0,Osmos,0.0
 2014.0,Osmos,0.0
-2010.0,Portal,-0.4215686274509804
-2011.0,Portal,-0.4215686274509804
-2012.0,Portal,-0.4215686274509804
-2013.0,Portal,-0.4215686274509804
-2014.0,Portal,-0.4215686274509804
-2015.0,Portal,-0.4215686274509804
+2010.0,Portal,-0.4019607843137255
+2011.0,Portal,-0.4019607843137255
+2012.0,Portal,-0.4019607843137255
+2013.0,Portal,-0.4019607843137255
+2014.0,Portal,-0.4019607843137255
+2015.0,Portal,-0.4019607843137255
 2010.0,Prototype™,-0.6666666666666666
 2012.0,Prototype™,-0.6666666666666666
 2013.0,Prototype™,-0.6666666666666666
@@ -117,48 +117,48 @@ review_year,app_name,score_not_recommend
 2010.0,Sid Meier's Civilization® III Complete,-0.6
 2013.0,Sid Meier's Civilization® III Complete,-0.6
 2014.0,Sid Meier's Civilization® III Complete,-0.6
-2010.0,Sid Meier's Civilization® V,-0.5166163141993958
-2011.0,Sid Meier's Civilization® V,-0.5166163141993958
-2012.0,Sid Meier's Civilization® V,-0.5166163141993958
-2013.0,Sid Meier's Civilization® V,-0.5166163141993958
-2014.0,Sid Meier's Civilization® V,1.4833836858006042
-2015.0,Sid Meier's Civilization® V,3.483383685800604
+2010.0,Sid Meier's Civilization® V,-0.49244712990936557
+2011.0,Sid Meier's Civilization® V,-0.49244712990936557
+2012.0,Sid Meier's Civilization® V,-0.49244712990936557
+2013.0,Sid Meier's Civilization® V,-0.49244712990936557
+2014.0,Sid Meier's Civilization® V,1.5075528700906344
+2015.0,Sid Meier's Civilization® V,3.5075528700906347
 2010.0,Sol Survivor,0.0
 2014.0,Sol Survivor,0.0
-2010.0,Super Meat Boy,-0.15151515151515152
-2011.0,Super Meat Boy,-0.15151515151515152
-2012.0,Super Meat Boy,-0.15151515151515152
-2013.0,Super Meat Boy,-0.15151515151515152
-2014.0,Super Meat Boy,-0.15151515151515152
-2015.0,Super Meat Boy,2.8484848484848486
-2010.0,Supreme Commander 2,-0.5263157894736842
-2011.0,Supreme Commander 2,-0.5263157894736842
-2012.0,Supreme Commander 2,-0.5263157894736842
-2013.0,Supreme Commander 2,-0.5263157894736842
-2014.0,Supreme Commander 2,0.4736842105263158
-2015.0,Supreme Commander 2,-0.5263157894736842
-2010.0,Team Fortress 2,0.5452084461288575
-2011.0,Team Fortress 2,1.5452084461288575
-2012.0,Team Fortress 2,0.5452084461288575
-2013.0,Team Fortress 2,11.545208446128857
-2014.0,Team Fortress 2,27.545208446128857
-2015.0,Team Fortress 2,31.545208446128857
+2010.0,Super Meat Boy,-0.16666666666666666
+2011.0,Super Meat Boy,-0.16666666666666666
+2012.0,Super Meat Boy,-0.16666666666666666
+2013.0,Super Meat Boy,-0.16666666666666666
+2014.0,Super Meat Boy,-0.16666666666666666
+2015.0,Super Meat Boy,2.8333333333333335
+2010.0,Supreme Commander 2,-0.5789473684210527
+2011.0,Supreme Commander 2,-0.5789473684210527
+2012.0,Supreme Commander 2,-0.5789473684210527
+2013.0,Supreme Commander 2,-0.5789473684210527
+2014.0,Supreme Commander 2,0.42105263157894735
+2015.0,Supreme Commander 2,-0.5789473684210527
+2010.0,Team Fortress 2,0.5974553329723877
+2011.0,Team Fortress 2,1.5974553329723877
+2012.0,Team Fortress 2,0.5974553329723877
+2013.0,Team Fortress 2,11.597455332972388
+2014.0,Team Fortress 2,27.597455332972388
+2015.0,Team Fortress 2,31.597455332972388
 2010.0,Tom Clancy's Splinter Cell Chaos Theory®,-0.8
 2014.0,Tom Clancy's Splinter Cell Chaos Theory®,-0.8
 2015.0,Tom Clancy's Splinter Cell Chaos Theory®,-0.8
 2010.0,Trackmania United Forever Star Edition,-1.0
 2014.0,Trackmania United Forever Star Edition,0.0
-2010.0,Train Simulator,-0.2
-2012.0,Train Simulator,-0.2
-2013.0,Train Simulator,-0.2
-2014.0,Train Simulator,3.8
-2015.0,Train Simulator,3.8
-2010.0,Worms Reloaded,-0.7272727272727273
-2011.0,Worms Reloaded,-0.7272727272727273
-2012.0,Worms Reloaded,-0.7272727272727273
-2013.0,Worms Reloaded,-0.7272727272727273
-2014.0,Worms Reloaded,-0.7272727272727273
-2015.0,Worms Reloaded,-0.7272727272727273
+2010.0,Train Simulator,-0.23333333333333334
+2012.0,Train Simulator,-0.23333333333333334
+2013.0,Train Simulator,-0.23333333333333334
+2014.0,Train Simulator,3.7666666666666666
+2015.0,Train Simulator,3.7666666666666666
+2010.0,Worms Reloaded,-0.6363636363636364
+2011.0,Worms Reloaded,-0.6363636363636364
+2012.0,Worms Reloaded,-0.6363636363636364
+2013.0,Worms Reloaded,-0.6363636363636364
+2014.0,Worms Reloaded,-0.6363636363636364
+2015.0,Worms Reloaded,-0.6363636363636364
 2010.0,eversion,-1.0
 2013.0,eversion,-1.0
 2014.0,eversion,-1.0
@@ -173,28 +173,28 @@ review_year,app_name,score_not_recommend
 2011.0,APOX,-1.0
 2011.0,AaAaAA!!! - A Reckless Disregard for Gravity,0.0
 2015.0,AaAaAA!!! - A Reckless Disregard for Gravity,0.0
-2011.0,Age of Chivalry,-0.4444444444444444
-2012.0,Age of Chivalry,-0.4444444444444444
-2013.0,Age of Chivalry,-0.4444444444444444
-2014.0,Age of Chivalry,-0.4444444444444444
+2011.0,Age of Chivalry,-0.5555555555555556
+2012.0,Age of Chivalry,-0.5555555555555556
+2013.0,Age of Chivalry,-0.5555555555555556
+2014.0,Age of Chivalry,-0.5555555555555556
 2011.0,Age of Wonders,-1.0
-2011.0,Aliens vs. Predator™,-0.2692307692307692
-2012.0,Aliens vs. Predator™,0.7307692307692308
-2013.0,Aliens vs. Predator™,0.7307692307692308
-2014.0,Aliens vs. Predator™,0.7307692307692308
-2015.0,Aliens vs. Predator™,-0.2692307692307692
-2011.0,Altitude,-0.14285714285714285
-2014.0,Altitude,-0.14285714285714285
-2015.0,Altitude,-0.14285714285714285
+2011.0,Aliens vs. Predator™,-0.23076923076923078
+2012.0,Aliens vs. Predator™,0.7692307692307692
+2013.0,Aliens vs. Predator™,0.7692307692307692
+2014.0,Aliens vs. Predator™,0.7692307692307692
+2015.0,Aliens vs. Predator™,-0.23076923076923078
+2011.0,Altitude,0.0
+2014.0,Altitude,0.0
+2015.0,Altitude,0.0
 2011.0,And Yet It Moves,2.6666666666666665
 2015.0,And Yet It Moves,0.6666666666666666
 2011.0,Anomaly: Warzone Earth,0.5
 2014.0,Anomaly: Warzone Earth,1.5
-2011.0,Arma 2: Operation Arrowhead,-0.550561797752809
-2012.0,Arma 2: Operation Arrowhead,-0.550561797752809
-2013.0,Arma 2: Operation Arrowhead,-0.550561797752809
-2014.0,Arma 2: Operation Arrowhead,1.449438202247191
-2015.0,Arma 2: Operation Arrowhead,1.449438202247191
+2011.0,Arma 2: Operation Arrowhead,-0.5168539325842697
+2012.0,Arma 2: Operation Arrowhead,-0.5168539325842697
+2013.0,Arma 2: Operation Arrowhead,-0.5168539325842697
+2014.0,Arma 2: Operation Arrowhead,1.4831460674157304
+2015.0,Arma 2: Operation Arrowhead,1.4831460674157304
 2011.0,Assassin’s Creed® Brotherhood,-0.5
 2014.0,Assassin’s Creed® Brotherhood,-0.5
 2015.0,Assassin’s Creed® Brotherhood,1.5
@@ -204,24 +204,24 @@ review_year,app_name,score_not_recommend
 2013.0,BIT.TRIP RUNNER,-0.3
 2014.0,BIT.TRIP RUNNER,4.7
 2015.0,BIT.TRIP RUNNER,-0.3
-2011.0,BRINK,0.25
-2012.0,BRINK,0.25
-2014.0,BRINK,1.25
-2015.0,BRINK,2.25
-2011.0,Bastion,-0.6578947368421053
-2012.0,Bastion,-0.6578947368421053
-2013.0,Bastion,-0.6578947368421053
-2014.0,Bastion,-0.6578947368421053
-2015.0,Bastion,-0.6578947368421053
-2011.0,Battlefield: Bad Company™ 2,-0.3111111111111111
-2013.0,Battlefield: Bad Company™ 2,-0.3111111111111111
-2014.0,Battlefield: Bad Company™ 2,2.688888888888889
-2015.0,Battlefield: Bad Company™ 2,1.6888888888888889
-2011.0,Beat Hazard,-0.7272727272727273
-2012.0,Beat Hazard,-0.7272727272727273
-2013.0,Beat Hazard,-0.7272727272727273
-2014.0,Beat Hazard,-0.7272727272727273
-2015.0,Beat Hazard,0.2727272727272727
+2011.0,BRINK,0.125
+2012.0,BRINK,0.125
+2014.0,BRINK,1.125
+2015.0,BRINK,2.125
+2011.0,Bastion,-0.6447368421052632
+2012.0,Bastion,-0.6447368421052632
+2013.0,Bastion,-0.6447368421052632
+2014.0,Bastion,-0.6447368421052632
+2015.0,Bastion,-0.6447368421052632
+2011.0,Battlefield: Bad Company™ 2,-0.28888888888888886
+2013.0,Battlefield: Bad Company™ 2,-0.28888888888888886
+2014.0,Battlefield: Bad Company™ 2,2.7111111111111112
+2015.0,Battlefield: Bad Company™ 2,1.7111111111111112
+2011.0,Beat Hazard,-0.6363636363636364
+2012.0,Beat Hazard,-0.6363636363636364
+2013.0,Beat Hazard,-0.6363636363636364
+2014.0,Beat Hazard,-0.6363636363636364
+2015.0,Beat Hazard,0.36363636363636365
 2011.0,Before the Echo,-1.0
 2015.0,Before the Echo,0.0
 2011.0,BioShock™,-0.4057971014492754
@@ -231,11 +231,11 @@ review_year,app_name,score_not_recommend
 2015.0,BioShock™,0.5942028985507246
 2011.0,Blocks That Matter,-1.0
 2014.0,Blocks That Matter,-1.0
-2011.0,Borderlands,-0.45454545454545453
-2012.0,Borderlands,-0.45454545454545453
-2013.0,Borderlands,-0.45454545454545453
-2014.0,Borderlands,-0.45454545454545453
-2015.0,Borderlands,-0.45454545454545453
+2011.0,Borderlands,-0.4090909090909091
+2012.0,Borderlands,-0.4090909090909091
+2013.0,Borderlands,-0.4090909090909091
+2014.0,Borderlands,-0.4090909090909091
+2015.0,Borderlands,-0.4090909090909091
 2011.0,Braid,-0.14285714285714285
 2012.0,Braid,-0.14285714285714285
 2014.0,Braid,-0.14285714285714285
@@ -247,16 +247,16 @@ review_year,app_name,score_not_recommend
 2013.0,Burnout Paradise: The Ultimate Box,-0.5151515151515151
 2014.0,Burnout Paradise: The Ultimate Box,0.48484848484848486
 2015.0,Burnout Paradise: The Ultimate Box,0.48484848484848486
-2011.0,Call of Duty®: Black Ops,-0.4166666666666667
-2012.0,Call of Duty®: Black Ops,-0.4166666666666667
-2013.0,Call of Duty®: Black Ops,-0.4166666666666667
-2014.0,Call of Duty®: Black Ops,0.5833333333333333
-2015.0,Call of Duty®: Black Ops,0.5833333333333333
-2011.0,Call of Duty®: Modern Warfare® 2,-0.3655913978494624
-2012.0,Call of Duty®: Modern Warfare® 2,-0.3655913978494624
-2013.0,Call of Duty®: Modern Warfare® 2,0.6344086021505376
-2014.0,Call of Duty®: Modern Warfare® 2,3.6344086021505375
-2015.0,Call of Duty®: Modern Warfare® 2,0.6344086021505376
+2011.0,Call of Duty®: Black Ops,-0.3611111111111111
+2012.0,Call of Duty®: Black Ops,-0.3611111111111111
+2013.0,Call of Duty®: Black Ops,-0.3611111111111111
+2014.0,Call of Duty®: Black Ops,0.6388888888888888
+2015.0,Call of Duty®: Black Ops,0.6388888888888888
+2011.0,Call of Duty®: Modern Warfare® 2,-0.34408602150537637
+2012.0,Call of Duty®: Modern Warfare® 2,-0.34408602150537637
+2013.0,Call of Duty®: Modern Warfare® 2,0.6559139784946236
+2014.0,Call of Duty®: Modern Warfare® 2,3.6559139784946235
+2015.0,Call of Duty®: Modern Warfare® 2,0.6559139784946236
 2011.0,Champions Online,-0.25
 2014.0,Champions Online,-0.25
 2015.0,Champions Online,0.75
@@ -266,57 +266,57 @@ review_year,app_name,score_not_recommend
 2011.0,Commander Keen,-0.5
 2013.0,Commander Keen,0.5
 2015.0,Commander Keen,-0.5
-2011.0,Company of Heroes - Legacy Edition,-0.391304347826087
-2012.0,Company of Heroes - Legacy Edition,-0.391304347826087
-2013.0,Company of Heroes - Legacy Edition,-0.391304347826087
-2014.0,Company of Heroes - Legacy Edition,-0.391304347826087
-2015.0,Company of Heroes - Legacy Edition,-0.391304347826087
-2011.0,Counter-Strike,-0.375
-2012.0,Counter-Strike,-0.375
-2013.0,Counter-Strike,-0.375
-2014.0,Counter-Strike,-0.375
-2015.0,Counter-Strike,0.625
-2011.0,Counter-Strike: Condition Zero,-0.3333333333333333
-2013.0,Counter-Strike: Condition Zero,-0.3333333333333333
-2014.0,Counter-Strike: Condition Zero,2.6666666666666665
-2015.0,Counter-Strike: Condition Zero,-0.3333333333333333
+2011.0,Company of Heroes - Legacy Edition,-0.30434782608695654
+2012.0,Company of Heroes - Legacy Edition,-0.30434782608695654
+2013.0,Company of Heroes - Legacy Edition,-0.30434782608695654
+2014.0,Company of Heroes - Legacy Edition,-0.30434782608695654
+2015.0,Company of Heroes - Legacy Edition,-0.30434782608695654
+2011.0,Counter-Strike,-0.39285714285714285
+2012.0,Counter-Strike,-0.39285714285714285
+2013.0,Counter-Strike,-0.39285714285714285
+2014.0,Counter-Strike,-0.39285714285714285
+2015.0,Counter-Strike,0.6071428571428572
+2011.0,Counter-Strike: Condition Zero,-0.4166666666666667
+2013.0,Counter-Strike: Condition Zero,-0.4166666666666667
+2014.0,Counter-Strike: Condition Zero,2.5833333333333335
+2015.0,Counter-Strike: Condition Zero,-0.4166666666666667
 2011.0,Crayon Physics Deluxe,-1.0
 2014.0,Crayon Physics Deluxe,0.0
 2011.0,Cthulhu Saves the World,-0.4
 2012.0,Cthulhu Saves the World,-0.4
 2014.0,Cthulhu Saves the World,-0.4
 2015.0,Cthulhu Saves the World,-0.4
-2011.0,DC Universe™ Online,-0.5441176470588235
-2012.0,DC Universe™ Online,-0.5441176470588235
-2013.0,DC Universe™ Online,-0.5441176470588235
-2014.0,DC Universe™ Online,2.4558823529411766
-2015.0,DC Universe™ Online,3.4558823529411766
+2011.0,DC Universe™ Online,-0.47058823529411764
+2012.0,DC Universe™ Online,-0.47058823529411764
+2013.0,DC Universe™ Online,-0.47058823529411764
+2014.0,DC Universe™ Online,2.5294117647058822
+2015.0,DC Universe™ Online,3.5294117647058822
 2011.0,DOOM 3,-0.3333333333333333
 2014.0,DOOM 3,0.6666666666666667
 2015.0,DOOM 3,-0.3333333333333333
 2011.0,Dark Void™,-1.0
-2011.0,Dead Space,0.0
-2013.0,Dead Space,0.0
-2014.0,Dead Space,0.0
-2015.0,Dead Space,0.0
+2011.0,Dead Space,0.10526315789473684
+2013.0,Dead Space,0.10526315789473684
+2014.0,Dead Space,0.10526315789473684
+2015.0,Dead Space,0.10526315789473684
 2011.0,Deus Ex: Game of the Year Edition,-0.47058823529411764
 2012.0,Deus Ex: Game of the Year Edition,-0.47058823529411764
 2013.0,Deus Ex: Game of the Year Edition,-0.47058823529411764
 2014.0,Deus Ex: Game of the Year Edition,-0.47058823529411764
 2015.0,Deus Ex: Game of the Year Edition,1.5294117647058822
-2011.0,Dota 2,-0.32577720207253885
-2012.0,Dota 2,0.6742227979274611
-2013.0,Dota 2,7.674222797927461
-2014.0,Dota 2,41.67422279792746
-2015.0,Dota 2,35.67422279792746
+2011.0,Dota 2,-0.27525906735751293
+2012.0,Dota 2,0.7247409326424871
+2013.0,Dota 2,7.724740932642487
+2014.0,Dota 2,41.72474093264249
+2015.0,Dota 2,35.72474093264249
 2011.0,Duke Nukem Forever,-0.09090909090909091
 2013.0,Duke Nukem Forever,-0.09090909090909091
 2014.0,Duke Nukem Forever,0.9090909090909091
-2011.0,Dungeon Defenders,-0.48717948717948717
-2012.0,Dungeon Defenders,-0.48717948717948717
-2013.0,Dungeon Defenders,-0.48717948717948717
-2014.0,Dungeon Defenders,-0.48717948717948717
-2015.0,Dungeon Defenders,-0.48717948717948717
+2011.0,Dungeon Defenders,-0.4358974358974359
+2012.0,Dungeon Defenders,-0.4358974358974359
+2013.0,Dungeon Defenders,-0.4358974358974359
+2014.0,Dungeon Defenders,-0.4358974358974359
+2015.0,Dungeon Defenders,-0.4358974358974359
 2011.0,Dungeons of Dredmor,-0.42857142857142855
 2012.0,Dungeons of Dredmor,-0.42857142857142855
 2014.0,Dungeons of Dredmor,-0.42857142857142855
@@ -336,86 +336,86 @@ review_year,app_name,score_not_recommend
 2011.0,Earthworm Jim 3D,1.0
 2011.0,Europa Universalis III Complete,-1.0
 2012.0,Europa Universalis III Complete,-1.0
-2011.0,Faerie Solitaire,-0.8571428571428571
-2013.0,Faerie Solitaire,-0.8571428571428571
-2014.0,Faerie Solitaire,-0.8571428571428571
-2015.0,Faerie Solitaire,0.1428571428571429
-2011.0,Fallout 3: Game of the Year Edition,-0.3787878787878788
-2012.0,Fallout 3: Game of the Year Edition,-0.3787878787878788
-2013.0,Fallout 3: Game of the Year Edition,-0.3787878787878788
-2014.0,Fallout 3: Game of the Year Edition,1.621212121212121
-2015.0,Fallout 3: Game of the Year Edition,-0.3787878787878788
+2011.0,Faerie Solitaire,-0.5714285714285714
+2013.0,Faerie Solitaire,-0.5714285714285714
+2014.0,Faerie Solitaire,-0.5714285714285714
+2015.0,Faerie Solitaire,0.4285714285714286
+2011.0,Fallout 3: Game of the Year Edition,-0.3484848484848485
+2012.0,Fallout 3: Game of the Year Edition,-0.3484848484848485
+2013.0,Fallout 3: Game of the Year Edition,-0.3484848484848485
+2014.0,Fallout 3: Game of the Year Edition,1.6515151515151514
+2015.0,Fallout 3: Game of the Year Edition,-0.3484848484848485
 2011.0,Fantasy Wars,-1.0
 2011.0,Flight Control HD,-1.0
-2011.0,Foreign Legion: Buckets of Blood,-1.0
+2011.0,Foreign Legion: Buckets of Blood,0.0
 2011.0,From Dust,1.1111111111111112
 2014.0,From Dust,1.1111111111111112
-2011.0,Frozen Synapse,-0.5
-2013.0,Frozen Synapse,-0.5
-2014.0,Frozen Synapse,0.5
-2015.0,Frozen Synapse,-0.5
-2011.0,Grand Theft Auto: Episodes from Liberty City,-0.8
-2013.0,Grand Theft Auto: Episodes from Liberty City,0.19999999999999996
-2014.0,Grand Theft Auto: Episodes from Liberty City,0.19999999999999996
-2015.0,Grand Theft Auto: Episodes from Liberty City,-0.8
+2011.0,Frozen Synapse,-0.4
+2013.0,Frozen Synapse,-0.4
+2014.0,Frozen Synapse,0.6
+2015.0,Frozen Synapse,-0.4
+2011.0,Grand Theft Auto: Episodes from Liberty City,-0.7
+2013.0,Grand Theft Auto: Episodes from Liberty City,0.30000000000000004
+2014.0,Grand Theft Auto: Episodes from Liberty City,0.30000000000000004
+2015.0,Grand Theft Auto: Episodes from Liberty City,-0.7
 2011.0,Gratuitous Space Battles,-0.4
 2012.0,Gratuitous Space Battles,-0.4
 2013.0,Gratuitous Space Battles,0.6
 2015.0,Gratuitous Space Battles,-0.4
 2011.0,Greed Corp,-1.0
-2011.0,Half-Life,-0.3442622950819672
-2012.0,Half-Life,-0.3442622950819672
-2013.0,Half-Life,-0.3442622950819672
-2014.0,Half-Life,-0.3442622950819672
-2015.0,Half-Life,-0.3442622950819672
-2011.0,Half-Life 2,-0.24299065420560748
-2012.0,Half-Life 2,-0.24299065420560748
-2013.0,Half-Life 2,-0.24299065420560748
-2014.0,Half-Life 2,5.757009345794392
-2015.0,Half-Life 2,1.7570093457943925
-2011.0,Half-Life 2: Deathmatch,-0.5384615384615384
-2013.0,Half-Life 2: Deathmatch,-0.5384615384615384
-2014.0,Half-Life 2: Deathmatch,-0.5384615384615384
-2015.0,Half-Life 2: Deathmatch,0.46153846153846156
+2011.0,Half-Life,-0.3114754098360656
+2012.0,Half-Life,-0.3114754098360656
+2013.0,Half-Life,-0.3114754098360656
+2014.0,Half-Life,-0.3114754098360656
+2015.0,Half-Life,-0.3114754098360656
+2011.0,Half-Life 2,-0.22429906542056074
+2012.0,Half-Life 2,-0.22429906542056074
+2013.0,Half-Life 2,-0.22429906542056074
+2014.0,Half-Life 2,5.775700934579439
+2015.0,Half-Life 2,1.7757009345794392
+2011.0,Half-Life 2: Deathmatch,-0.46153846153846156
+2013.0,Half-Life 2: Deathmatch,-0.46153846153846156
+2014.0,Half-Life 2: Deathmatch,-0.46153846153846156
+2015.0,Half-Life 2: Deathmatch,0.5384615384615384
 2011.0,Half-Life 2: Episode One,-0.625
 2012.0,Half-Life 2: Episode One,-0.625
 2013.0,Half-Life 2: Episode One,-0.625
 2014.0,Half-Life 2: Episode One,0.375
 2015.0,Half-Life 2: Episode One,-0.625
-2011.0,Half-Life 2: Episode Two,-0.42105263157894735
-2013.0,Half-Life 2: Episode Two,-0.42105263157894735
-2014.0,Half-Life 2: Episode Two,-0.42105263157894735
-2015.0,Half-Life 2: Episode Two,-0.42105263157894735
+2011.0,Half-Life 2: Episode Two,-0.3684210526315789
+2013.0,Half-Life 2: Episode Two,-0.3684210526315789
+2014.0,Half-Life 2: Episode Two,-0.3684210526315789
+2015.0,Half-Life 2: Episode Two,-0.3684210526315789
 2011.0,Hard Reset Extended Edition,-0.4444444444444444
 2012.0,Hard Reset Extended Edition,-0.4444444444444444
 2013.0,Hard Reset Extended Edition,-0.4444444444444444
 2014.0,Hard Reset Extended Edition,-0.4444444444444444
 2015.0,Hard Reset Extended Edition,-0.4444444444444444
-2011.0,Hitman: Blood Money,-0.6666666666666666
-2012.0,Hitman: Blood Money,-0.6666666666666666
-2013.0,Hitman: Blood Money,-0.6666666666666666
-2014.0,Hitman: Blood Money,-0.6666666666666666
-2015.0,Hitman: Blood Money,-0.6666666666666666
+2011.0,Hitman: Blood Money,-0.6
+2012.0,Hitman: Blood Money,-0.6
+2013.0,Hitman: Blood Money,-0.6
+2014.0,Hitman: Blood Money,-0.6
+2015.0,Hitman: Blood Money,-0.6
 2011.0,Jamestown,-1.0
 2013.0,Jamestown,-1.0
 2015.0,Jamestown,-1.0
 2011.0,Jolly Rover,-1.0
-2011.0,Just Cause,-0.14285714285714285
-2014.0,Just Cause,-0.14285714285714285
-2015.0,Just Cause,0.8571428571428572
-2011.0,Just Cause 2,-0.3707865168539326
-2012.0,Just Cause 2,-0.3707865168539326
-2013.0,Just Cause 2,0.6292134831460674
-2014.0,Just Cause 2,3.629213483146067
-2015.0,Just Cause 2,1.6292134831460674
+2011.0,Just Cause,0.0
+2014.0,Just Cause,0.0
+2015.0,Just Cause,1.0
+2011.0,Just Cause 2,-0.33146067415730335
+2012.0,Just Cause 2,-0.33146067415730335
+2013.0,Just Cause 2,0.6685393258426966
+2014.0,Just Cause 2,3.668539325842697
+2015.0,Just Cause 2,1.6685393258426966
 2011.0,LEGO® Star Wars™ - The Complete Saga,-0.75
 2013.0,LEGO® Star Wars™ - The Complete Saga,-0.75
 2014.0,LEGO® Star Wars™ - The Complete Saga,-0.75
-2011.0,Left 4 Dead,-0.45454545454545453
-2012.0,Left 4 Dead,-0.45454545454545453
-2013.0,Left 4 Dead,-0.45454545454545453
-2014.0,Left 4 Dead,-0.45454545454545453
-2015.0,Left 4 Dead,0.5454545454545454
+2011.0,Left 4 Dead,-0.3939393939393939
+2012.0,Left 4 Dead,-0.3939393939393939
+2013.0,Left 4 Dead,-0.3939393939393939
+2014.0,Left 4 Dead,-0.3939393939393939
+2015.0,Left 4 Dead,0.6060606060606061
 2011.0,Lugaru HD,-0.5
 2015.0,Lugaru HD,-0.5
 2011.0,Mafia II,-0.46511627906976744
@@ -423,35 +423,35 @@ review_year,app_name,score_not_recommend
 2013.0,Mafia II,-0.46511627906976744
 2014.0,Mafia II,0.5348837209302326
 2015.0,Mafia II,-0.46511627906976744
-2011.0,Magicka,-0.30120481927710846
-2012.0,Magicka,-0.30120481927710846
-2013.0,Magicka,-0.30120481927710846
-2014.0,Magicka,0.6987951807228916
-2015.0,Magicka,0.6987951807228916
-2011.0,Mass Effect,-0.9375
-2012.0,Mass Effect,-0.9375
-2013.0,Mass Effect,-0.9375
-2014.0,Mass Effect,-0.9375
+2011.0,Magicka,-0.2891566265060241
+2012.0,Magicka,-0.2891566265060241
+2013.0,Magicka,-0.2891566265060241
+2014.0,Magicka,0.7108433734939759
+2015.0,Magicka,0.7108433734939759
+2011.0,Mass Effect,-0.875
+2012.0,Mass Effect,-0.875
+2013.0,Mass Effect,-0.875
+2014.0,Mass Effect,-0.875
 2011.0,Mass Effect 2,-0.7777777777777778
 2012.0,Mass Effect 2,-0.7777777777777778
 2013.0,Mass Effect 2,-0.7777777777777778
 2014.0,Mass Effect 2,-0.7777777777777778
 2015.0,Mass Effect 2,0.2222222222222222
-2011.0,Medieval II: Total War™,-0.6956521739130435
-2013.0,Medieval II: Total War™,-0.6956521739130435
-2014.0,Medieval II: Total War™,-0.6956521739130435
-2015.0,Medieval II: Total War™,-0.6956521739130435
+2011.0,Medieval II: Total War™,-0.6086956521739131
+2013.0,Medieval II: Total War™,-0.6086956521739131
+2014.0,Medieval II: Total War™,-0.6086956521739131
+2015.0,Medieval II: Total War™,-0.6086956521739131
 2011.0,Men of War: Vietnam,2.0
 2011.0,Men of War™,0.0
 2012.0,Men of War™,0.0
 2014.0,Men of War™,0.0
 2011.0,Monday Night Combat,0.0
 2013.0,Monday Night Combat,0.0
-2011.0,Mount & Blade,-1.0
-2012.0,Mount & Blade,-1.0
-2013.0,Mount & Blade,-1.0
-2014.0,Mount & Blade,-1.0
-2015.0,Mount & Blade,-1.0
+2011.0,Mount & Blade,-0.8333333333333334
+2012.0,Mount & Blade,-0.8333333333333334
+2013.0,Mount & Blade,-0.8333333333333334
+2014.0,Mount & Blade,-0.8333333333333334
+2015.0,Mount & Blade,-0.8333333333333334
 2011.0,Mount & Blade: With Fire & Sword,-0.5
 2012.0,Mount & Blade: With Fire & Sword,-0.5
 2013.0,Mount & Blade: With Fire & Sword,-0.5
@@ -469,9 +469,9 @@ review_year,app_name,score_not_recommend
 2014.0,Nuclear Dawn,0.6666666666666667
 2015.0,Nuclear Dawn,1.6666666666666667
 2011.0,NyxQuest: Kindred Spirits,-1.0
-2011.0,Oddworld: Abe's Exoddus®,-1.0
-2014.0,Oddworld: Abe's Exoddus®,-1.0
-2015.0,Oddworld: Abe's Exoddus®,-1.0
+2011.0,Oddworld: Abe's Exoddus®,-0.8
+2014.0,Oddworld: Abe's Exoddus®,-0.8
+2015.0,Oddworld: Abe's Exoddus®,-0.8
 2011.0,Oddworld: Abe's Oddysee®,-0.5555555555555556
 2012.0,Oddworld: Abe's Oddysee®,-0.5555555555555556
 2013.0,Oddworld: Abe's Oddysee®,-0.5555555555555556
@@ -485,30 +485,30 @@ review_year,app_name,score_not_recommend
 2013.0,Orcs Must Die!,-0.5
 2014.0,Orcs Must Die!,-0.5
 2011.0,Overlord II,0.0
-2011.0,Overlord™,-0.16666666666666666
-2013.0,Overlord™,-0.16666666666666666
-2014.0,Overlord™,-0.16666666666666666
-2015.0,Overlord™,-0.16666666666666666
-2011.0,PAYDAY™ The Heist,-0.3673469387755102
-2012.0,PAYDAY™ The Heist,0.6326530612244898
-2013.0,PAYDAY™ The Heist,1.6326530612244898
-2014.0,PAYDAY™ The Heist,5.63265306122449
-2015.0,PAYDAY™ The Heist,1.6326530612244898
+2011.0,Overlord™,0.0
+2013.0,Overlord™,0.0
+2014.0,Overlord™,0.0
+2015.0,Overlord™,0.0
+2011.0,PAYDAY™ The Heist,-0.3197278911564626
+2012.0,PAYDAY™ The Heist,0.6802721088435374
+2013.0,PAYDAY™ The Heist,1.6802721088435373
+2014.0,PAYDAY™ The Heist,5.680272108843537
+2015.0,PAYDAY™ The Heist,1.6802721088435373
 2011.0,Peggle Extreme,0.0
 2012.0,Peggle Extreme,0.0
 2013.0,Peggle Extreme,0.0
 2014.0,Peggle Extreme,1.0
 2015.0,Peggle Extreme,0.0
-2011.0,Poker Night at the Inventory,-0.3673469387755102
-2012.0,Poker Night at the Inventory,-0.3673469387755102
-2013.0,Poker Night at the Inventory,-0.3673469387755102
-2014.0,Poker Night at the Inventory,4.63265306122449
-2015.0,Poker Night at the Inventory,2.63265306122449
-2011.0,Portal 2,-0.5161290322580645
-2012.0,Portal 2,-0.5161290322580645
-2013.0,Portal 2,-0.5161290322580645
-2014.0,Portal 2,1.4838709677419355
-2015.0,Portal 2,0.4838709677419355
+2011.0,Poker Night at the Inventory,-0.3469387755102041
+2012.0,Poker Night at the Inventory,-0.3469387755102041
+2013.0,Poker Night at the Inventory,-0.3469387755102041
+2014.0,Poker Night at the Inventory,4.653061224489796
+2015.0,Poker Night at the Inventory,2.6530612244897958
+2011.0,Portal 2,-0.4838709677419355
+2012.0,Portal 2,-0.4838709677419355
+2013.0,Portal 2,-0.4838709677419355
+2014.0,Portal 2,1.5161290322580645
+2015.0,Portal 2,0.5161290322580645
 2011.0,Prince of Persia®: The Sands of Time,-1.0
 2014.0,Prince of Persia®: The Sands of Time,-1.0
 2011.0,Psychonauts,-0.8461538461538461
@@ -522,26 +522,26 @@ review_year,app_name,score_not_recommend
 2011.0,PuzzleQuest: Challenge of the Warlords,-0.3333333333333333
 2011.0,Quake III Arena,-1.0
 2015.0,Quake III Arena,-1.0
-2011.0,RAGE,-0.35714285714285715
-2013.0,RAGE,0.6428571428571428
-2014.0,RAGE,-0.35714285714285715
-2015.0,RAGE,-0.35714285714285715
-2011.0,RIFT,-0.8333333333333334
-2013.0,RIFT,-0.8333333333333334
-2014.0,RIFT,2.1666666666666665
-2015.0,RIFT,-0.8333333333333334
-2011.0,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,-0.4803921568627451
-2012.0,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,-0.4803921568627451
-2013.0,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,-0.4803921568627451
-2014.0,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,0.5196078431372548
-2015.0,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,1.5196078431372548
+2011.0,RAGE,-0.2857142857142857
+2013.0,RAGE,0.7142857142857143
+2014.0,RAGE,-0.2857142857142857
+2015.0,RAGE,-0.2857142857142857
+2011.0,RIFT,-0.8
+2013.0,RIFT,-0.8
+2014.0,RIFT,2.2
+2015.0,RIFT,-0.8
+2011.0,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,-0.47058823529411764
+2012.0,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,-0.47058823529411764
+2013.0,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,-0.47058823529411764
+2014.0,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,0.5294117647058824
+2015.0,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,1.5294117647058822
 2011.0,Revenge of the Titans,-1.0
 2015.0,Revenge of the Titans,-1.0
-2011.0,Rome: Total War™ - Collection,-0.7777777777777778
-2012.0,Rome: Total War™ - Collection,-0.7777777777777778
-2013.0,Rome: Total War™ - Collection,-0.7777777777777778
-2014.0,Rome: Total War™ - Collection,-0.7777777777777778
-2015.0,Rome: Total War™ - Collection,-0.7777777777777778
+2011.0,Rome: Total War™ - Collection,-0.7222222222222222
+2012.0,Rome: Total War™ - Collection,-0.7222222222222222
+2013.0,Rome: Total War™ - Collection,-0.7222222222222222
+2014.0,Rome: Total War™ - Collection,-0.7222222222222222
+2015.0,Rome: Total War™ - Collection,-0.7222222222222222
 2011.0,S.T.A.L.K.E.R.: Clear Sky,-0.5555555555555556
 2012.0,S.T.A.L.K.E.R.: Clear Sky,-0.5555555555555556
 2014.0,S.T.A.L.K.E.R.: Clear Sky,0.4444444444444444
@@ -550,8 +550,8 @@ review_year,app_name,score_not_recommend
 2012.0,S.T.A.L.K.E.R.: Shadow of Chernobyl,-0.5
 2014.0,S.T.A.L.K.E.R.: Shadow of Chernobyl,0.5
 2015.0,S.T.A.L.K.E.R.: Shadow of Chernobyl,-0.5
-2011.0,STAR WARS™ Jedi Knight II - Jedi Outcast™,-1.0
-2015.0,STAR WARS™ Jedi Knight II - Jedi Outcast™,-1.0
+2011.0,STAR WARS™ Jedi Knight II - Jedi Outcast™,-0.6666666666666666
+2015.0,STAR WARS™ Jedi Knight II - Jedi Outcast™,-0.6666666666666666
 2011.0,STAR WARS™: The Force Unleashed™ II,0.125
 2013.0,STAR WARS™: The Force Unleashed™ II,0.125
 2014.0,STAR WARS™: The Force Unleashed™ II,0.125
@@ -560,14 +560,14 @@ review_year,app_name,score_not_recommend
 2013.0,Saints Row 2,-0.43243243243243246
 2014.0,Saints Row 2,1.5675675675675675
 2015.0,Saints Row 2,1.5675675675675675
-2011.0,Saints Row: The Third,-0.26282051282051283
-2012.0,Saints Row: The Third,-0.26282051282051283
-2013.0,Saints Row: The Third,-0.26282051282051283
-2014.0,Saints Row: The Third,0.7371794871794872
-2015.0,Saints Row: The Third,0.7371794871794872
-2011.0,Saints Row: The Third Initiation Station,-1.0
-2012.0,Saints Row: The Third Initiation Station,-1.0
-2014.0,Saints Row: The Third Initiation Station,-1.0
+2011.0,Saints Row: The Third,-0.25
+2012.0,Saints Row: The Third,-0.25
+2013.0,Saints Row: The Third,-0.25
+2014.0,Saints Row: The Third,0.75
+2015.0,Saints Row: The Third,0.75
+2011.0,Saints Row: The Third Initiation Station,-0.6666666666666666
+2012.0,Saints Row: The Third Initiation Station,-0.6666666666666666
+2014.0,Saints Row: The Third Initiation Station,-0.6666666666666666
 2011.0,Section 8®: Prejudice™,0.3333333333333333
 2012.0,Section 8®: Prejudice™,0.3333333333333333
 2013.0,Section 8®: Prejudice™,0.3333333333333333
@@ -583,43 +583,43 @@ review_year,app_name,score_not_recommend
 2011.0,Space Pirates and Zombies,-0.5
 2013.0,Space Pirates and Zombies,0.5
 2014.0,Space Pirates and Zombies,-0.5
-2011.0,SpaceChem,-0.4
-2012.0,SpaceChem,-0.4
-2013.0,SpaceChem,-0.4
-2014.0,SpaceChem,1.6
-2011.0,Spiral Knights,-0.3092105263157895
-2012.0,Spiral Knights,-0.3092105263157895
-2013.0,Spiral Knights,0.6907894736842105
-2014.0,Spiral Knights,8.69078947368421
-2015.0,Spiral Knights,3.6907894736842106
-2011.0,"Star Wars: Battlefront 2 (Classic, 2005)",-0.46
-2012.0,"Star Wars: Battlefront 2 (Classic, 2005)",-0.46
-2013.0,"Star Wars: Battlefront 2 (Classic, 2005)",-0.46
-2014.0,"Star Wars: Battlefront 2 (Classic, 2005)",2.54
-2015.0,"Star Wars: Battlefront 2 (Classic, 2005)",0.54
+2011.0,SpaceChem,-0.3
+2012.0,SpaceChem,-0.3
+2013.0,SpaceChem,-0.3
+2014.0,SpaceChem,1.7
+2011.0,Spiral Knights,-0.23026315789473684
+2012.0,Spiral Knights,-0.23026315789473684
+2013.0,Spiral Knights,0.7697368421052632
+2014.0,Spiral Knights,8.769736842105264
+2015.0,Spiral Knights,3.7697368421052633
+2011.0,"Star Wars: Battlefront 2 (Classic, 2005)",-0.45
+2012.0,"Star Wars: Battlefront 2 (Classic, 2005)",-0.45
+2013.0,"Star Wars: Battlefront 2 (Classic, 2005)",-0.45
+2014.0,"Star Wars: Battlefront 2 (Classic, 2005)",2.55
+2015.0,"Star Wars: Battlefront 2 (Classic, 2005)",0.55
 2011.0,Street Fighter® IV,-1.0
 2014.0,Street Fighter® IV,0.0
 2011.0,Swords and Soldiers HD,-1.0
 2015.0,Swords and Soldiers HD,-1.0
-2011.0,Terraria,-0.49657064471879286
-2012.0,Terraria,-0.49657064471879286
-2013.0,Terraria,1.5034293552812072
-2014.0,Terraria,5.503429355281207
-2015.0,Terraria,7.503429355281207
-2011.0,The Binding of Isaac,-0.2918918918918919
-2012.0,The Binding of Isaac,-0.2918918918918919
-2013.0,The Binding of Isaac,1.708108108108108
-2014.0,The Binding of Isaac,1.708108108108108
-2015.0,The Binding of Isaac,-0.2918918918918919
+2011.0,Terraria,-0.44170096021947874
+2012.0,Terraria,-0.44170096021947874
+2013.0,Terraria,1.5582990397805212
+2014.0,Terraria,5.558299039780521
+2015.0,Terraria,7.558299039780521
+2011.0,The Binding of Isaac,-0.2648648648648649
+2012.0,The Binding of Isaac,-0.2648648648648649
+2013.0,The Binding of Isaac,1.7351351351351352
+2014.0,The Binding of Isaac,1.7351351351351352
+2015.0,The Binding of Isaac,-0.2648648648648649
 2011.0,The Elder Scrolls IV: Oblivion® Game of the Year Edition,-0.22727272727272727
 2013.0,The Elder Scrolls IV: Oblivion® Game of the Year Edition,0.7727272727272727
 2014.0,The Elder Scrolls IV: Oblivion® Game of the Year Edition,-0.22727272727272727
 2015.0,The Elder Scrolls IV: Oblivion® Game of the Year Edition,-0.22727272727272727
-2011.0,The Witcher 2: Assassins of Kings Enhanced Edition,-0.46153846153846156
-2012.0,The Witcher 2: Assassins of Kings Enhanced Edition,-0.46153846153846156
-2013.0,The Witcher 2: Assassins of Kings Enhanced Edition,-0.46153846153846156
-2014.0,The Witcher 2: Assassins of Kings Enhanced Edition,1.5384615384615383
-2015.0,The Witcher 2: Assassins of Kings Enhanced Edition,0.5384615384615384
+2011.0,The Witcher 2: Assassins of Kings Enhanced Edition,-0.4358974358974359
+2012.0,The Witcher 2: Assassins of Kings Enhanced Edition,-0.4358974358974359
+2013.0,The Witcher 2: Assassins of Kings Enhanced Edition,-0.4358974358974359
+2014.0,The Witcher 2: Assassins of Kings Enhanced Edition,1.564102564102564
+2015.0,The Witcher 2: Assassins of Kings Enhanced Edition,0.5641025641025641
 2011.0,The Witcher: Enhanced Edition Director's Cut,-0.8260869565217391
 2013.0,The Witcher: Enhanced Edition Director's Cut,-0.8260869565217391
 2014.0,The Witcher: Enhanced Edition Director's Cut,0.17391304347826086
@@ -655,12 +655,12 @@ review_year,app_name,score_not_recommend
 2013.0,"Warhammer 40,000: Space Marine",-0.4166666666666667
 2014.0,"Warhammer 40,000: Space Marine",0.5833333333333333
 2015.0,"Warhammer 40,000: Space Marine",-0.4166666666666667
-2011.0,"Warhammer® 40,000: Dawn of War® II Chaos Rising",-0.42857142857142855
-2013.0,"Warhammer® 40,000: Dawn of War® II Chaos Rising",0.5714285714285714
-2014.0,"Warhammer® 40,000: Dawn of War® II Chaos Rising",-0.42857142857142855
-2015.0,"Warhammer® 40,000: Dawn of War® II Chaos Rising",-0.42857142857142855
-2011.0,Wings of Prey,-1.0
-2014.0,Wings of Prey,-1.0
+2011.0,"Warhammer® 40,000: Dawn of War® II Chaos Rising",-0.2857142857142857
+2013.0,"Warhammer® 40,000: Dawn of War® II Chaos Rising",0.7142857142857143
+2014.0,"Warhammer® 40,000: Dawn of War® II Chaos Rising",-0.2857142857142857
+2015.0,"Warhammer® 40,000: Dawn of War® II Chaos Rising",-0.2857142857142857
+2011.0,Wings of Prey,-0.5
+2014.0,Wings of Prey,-0.5
 2011.0,X-COM: UFO Defense,0.3333333333333333
 2015.0,X-COM: UFO Defense,0.3333333333333333
 2011.0,Zen Bound 2,-0.3333333333333333
@@ -670,56 +670,56 @@ review_year,app_name,score_not_recommend
 2012.0,Zeno Clash,-0.8333333333333334
 2013.0,Zeno Clash,-0.8333333333333334
 2015.0,Zeno Clash,-0.8333333333333334
-2012.0,AirMech Strike,-0.43661971830985913
-2013.0,AirMech Strike,-0.43661971830985913
-2014.0,AirMech Strike,1.563380281690141
-2015.0,AirMech Strike,0.5633802816901409
-2012.0,Alan Wake,-0.56
-2013.0,Alan Wake,-0.56
-2014.0,Alan Wake,-0.56
-2015.0,Alan Wake,-0.56
+2012.0,AirMech Strike,-0.4225352112676056
+2013.0,AirMech Strike,-0.4225352112676056
+2014.0,AirMech Strike,1.5774647887323945
+2015.0,AirMech Strike,0.5774647887323944
+2012.0,Alan Wake,-0.48
+2013.0,Alan Wake,-0.48
+2014.0,Alan Wake,-0.48
+2015.0,Alan Wake,-0.48
 2012.0,Analogue: A Hate Story,-1.0
 2013.0,Analogue: A Hate Story,-1.0
 2014.0,Analogue: A Hate Story,-1.0
 2015.0,Analogue: A Hate Story,-1.0
-2012.0,Assassin’s Creed® III,-0.3333333333333333
-2013.0,Assassin’s Creed® III,0.6666666666666667
-2014.0,Assassin’s Creed® III,0.6666666666666667
-2015.0,Assassin’s Creed® III,1.6666666666666667
-2012.0,Awesomenauts - the 2D moba,-0.52
-2013.0,Awesomenauts - the 2D moba,1.48
-2014.0,Awesomenauts - the 2D moba,4.48
-2015.0,Awesomenauts - the 2D moba,0.48
+2012.0,Assassin’s Creed® III,-0.2962962962962963
+2013.0,Assassin’s Creed® III,0.7037037037037037
+2014.0,Assassin’s Creed® III,0.7037037037037037
+2015.0,Assassin’s Creed® III,1.7037037037037037
+2012.0,Awesomenauts - the 2D moba,-0.44666666666666666
+2013.0,Awesomenauts - the 2D moba,1.5533333333333332
+2014.0,Awesomenauts - the 2D moba,4.553333333333334
+2015.0,Awesomenauts - the 2D moba,0.5533333333333333
 2012.0,Back to the Future: The Game,0.0
 2013.0,Back to the Future: The Game,0.0
 2014.0,Back to the Future: The Game,0.0
 2015.0,Back to the Future: The Game,0.0
-2012.0,Batman: Arkham Asylum Game of the Year Edition,-0.6470588235294118
-2013.0,Batman: Arkham Asylum Game of the Year Edition,-0.6470588235294118
-2014.0,Batman: Arkham Asylum Game of the Year Edition,-0.6470588235294118
-2015.0,Batman: Arkham Asylum Game of the Year Edition,-0.6470588235294118
-2012.0,BioShock® 2,-0.4117647058823529
-2013.0,BioShock® 2,-0.4117647058823529
-2014.0,BioShock® 2,0.5882352941176471
-2015.0,BioShock® 2,0.5882352941176471
-2012.0,Blacklight: Retribution,0.6225165562913908
-2013.0,Blacklight: Retribution,1.6225165562913908
-2014.0,Blacklight: Retribution,12.62251655629139
-2015.0,Blacklight: Retribution,12.62251655629139
+2012.0,Batman: Arkham Asylum Game of the Year Edition,-0.5882352941176471
+2013.0,Batman: Arkham Asylum Game of the Year Edition,-0.5882352941176471
+2014.0,Batman: Arkham Asylum Game of the Year Edition,-0.5882352941176471
+2015.0,Batman: Arkham Asylum Game of the Year Edition,-0.5882352941176471
+2012.0,BioShock® 2,-0.35294117647058826
+2013.0,BioShock® 2,-0.35294117647058826
+2014.0,BioShock® 2,0.6470588235294117
+2015.0,BioShock® 2,0.6470588235294117
+2012.0,Blacklight: Retribution,0.6556291390728477
+2013.0,Blacklight: Retribution,1.6556291390728477
+2014.0,Blacklight: Retribution,12.655629139072847
+2015.0,Blacklight: Retribution,12.655629139072847
 2012.0,Bloody Good Time,0.2
 2014.0,Bloody Good Time,1.2
-2012.0,Borderlands 2,-0.44181818181818183
-2013.0,Borderlands 2,-0.44181818181818183
-2014.0,Borderlands 2,7.558181818181819
-2015.0,Borderlands 2,3.558181818181818
+2012.0,Borderlands 2,-0.4
+2013.0,Borderlands 2,-0.4
+2014.0,Borderlands 2,7.6
+2015.0,Borderlands 2,3.6
 2012.0,Borderlands: The Zombie Island of Dr. Ned,0.0
 2012.0,Brothers in Arms: Hell's Highway™,-1.0
 2014.0,Brothers in Arms: Hell's Highway™,-1.0
 2015.0,Brothers in Arms: Hell's Highway™,-1.0
-2012.0,Call of Duty: World at War,-0.6078431372549019
-2013.0,Call of Duty: World at War,-0.6078431372549019
-2014.0,Call of Duty: World at War,-0.6078431372549019
-2015.0,Call of Duty: World at War,0.3921568627450981
+2012.0,Call of Duty: World at War,-0.5294117647058824
+2013.0,Call of Duty: World at War,-0.5294117647058824
+2014.0,Call of Duty: World at War,-0.5294117647058824
+2015.0,Call of Duty: World at War,0.47058823529411764
 2012.0,Call of Duty®,-0.3333333333333333
 2014.0,Call of Duty®,-0.3333333333333333
 2015.0,Call of Duty®,-0.3333333333333333
@@ -727,18 +727,18 @@ review_year,app_name,score_not_recommend
 2013.0,Call of Duty® 4: Modern Warfare®,-0.4117647058823529
 2014.0,Call of Duty® 4: Modern Warfare®,0.5882352941176471
 2015.0,Call of Duty® 4: Modern Warfare®,0.5882352941176471
-2012.0,Call of Duty®: Black Ops II,0.5535714285714286
-2013.0,Call of Duty®: Black Ops II,1.5535714285714286
-2014.0,Call of Duty®: Black Ops II,6.553571428571429
-2015.0,Call of Duty®: Black Ops II,1.5535714285714286
-2012.0,Castle Crashers®,-0.4942528735632184
-2013.0,Castle Crashers®,-0.4942528735632184
-2014.0,Castle Crashers®,0.5057471264367817
-2015.0,Castle Crashers®,2.5057471264367814
-2012.0,Chivalry: Medieval Warfare,-0.22477064220183487
-2013.0,Chivalry: Medieval Warfare,2.7752293577981653
-2014.0,Chivalry: Medieval Warfare,6.775229357798165
-2015.0,Chivalry: Medieval Warfare,10.775229357798166
+2012.0,Call of Duty®: Black Ops II,0.6160714285714286
+2013.0,Call of Duty®: Black Ops II,1.6160714285714286
+2014.0,Call of Duty®: Black Ops II,6.616071428571429
+2015.0,Call of Duty®: Black Ops II,1.6160714285714286
+2012.0,Castle Crashers®,-0.47701149425287354
+2013.0,Castle Crashers®,-0.47701149425287354
+2014.0,Castle Crashers®,0.5229885057471264
+2015.0,Castle Crashers®,2.5229885057471266
+2012.0,Chivalry: Medieval Warfare,-0.19724770642201836
+2013.0,Chivalry: Medieval Warfare,2.802752293577982
+2014.0,Chivalry: Medieval Warfare,6.802752293577981
+2015.0,Chivalry: Medieval Warfare,10.802752293577981
 2012.0,Cities in Motion,1.0
 2012.0,Closure,-1.0
 2013.0,Closure,-1.0
@@ -751,17 +751,17 @@ review_year,app_name,score_not_recommend
 2013.0,Command & Conquer: Red Alert 3,-0.5
 2014.0,Command & Conquer: Red Alert 3,-0.5
 2015.0,Command & Conquer: Red Alert 3,-0.5
-2012.0,Counter-Strike: Global Offensive,-0.3284789644012945
-2013.0,Counter-Strike: Global Offensive,4.671521035598706
-2014.0,Counter-Strike: Global Offensive,53.67152103559871
-2015.0,Counter-Strike: Global Offensive,128.67152103559872
-2012.0,Crusader Kings II,-0.2033898305084746
-2013.0,Crusader Kings II,-0.2033898305084746
-2014.0,Crusader Kings II,-0.2033898305084746
-2015.0,Crusader Kings II,1.7966101694915255
-2012.0,Crysis 2 - Maximum Edition,-0.7142857142857143
-2013.0,Crysis 2 - Maximum Edition,-0.7142857142857143
-2014.0,Crysis 2 - Maximum Edition,-0.7142857142857143
+2012.0,Counter-Strike: Global Offensive,-0.2802049622437972
+2013.0,Counter-Strike: Global Offensive,4.719795037756203
+2014.0,Counter-Strike: Global Offensive,53.7197950377562
+2015.0,Counter-Strike: Global Offensive,128.7197950377562
+2012.0,Crusader Kings II,-0.1864406779661017
+2013.0,Crusader Kings II,-0.1864406779661017
+2014.0,Crusader Kings II,-0.1864406779661017
+2015.0,Crusader Kings II,1.8135593220338984
+2012.0,Crysis 2 - Maximum Edition,-0.6428571428571429
+2013.0,Crysis 2 - Maximum Edition,-0.6428571428571429
+2014.0,Crysis 2 - Maximum Edition,-0.6428571428571429
 2012.0,Crysis Warhead®,-0.3333333333333333
 2013.0,Crysis Warhead®,-0.3333333333333333
 2015.0,Crysis Warhead®,-0.3333333333333333
@@ -769,10 +769,10 @@ review_year,app_name,score_not_recommend
 2013.0,Cubemen,-0.6
 2014.0,Cubemen,-0.6
 2015.0,Cubemen,-0.6
-2012.0,DARK SOULS™: Prepare To Die™ Edition,-0.06451612903225806
-2013.0,DARK SOULS™: Prepare To Die™ Edition,-0.06451612903225806
-2014.0,DARK SOULS™: Prepare To Die™ Edition,11.935483870967742
-2015.0,DARK SOULS™: Prepare To Die™ Edition,2.935483870967742
+2012.0,DARK SOULS™: Prepare To Die™ Edition,-0.03870967741935484
+2013.0,DARK SOULS™: Prepare To Die™ Edition,-0.03870967741935484
+2014.0,DARK SOULS™: Prepare To Die™ Edition,11.961290322580645
+2015.0,DARK SOULS™: Prepare To Die™ Edition,2.9612903225806453
 2012.0,DEFCON,0.0
 2013.0,DEFCON,0.0
 2014.0,DEFCON,1.0
@@ -781,24 +781,24 @@ review_year,app_name,score_not_recommend
 2013.0,Darksiders™,-0.875
 2014.0,Darksiders™,-0.875
 2015.0,Darksiders™,0.125
-2012.0,Dead Pixels,-0.1
-2013.0,Dead Pixels,-0.1
-2014.0,Dead Pixels,-0.1
-2015.0,Dead Pixels,0.9
+2012.0,Dead Pixels,-0.2
+2013.0,Dead Pixels,-0.2
+2014.0,Dead Pixels,-0.2
+2015.0,Dead Pixels,0.8
 2012.0,Demolition Inc.,0.0
 2014.0,Demolition Inc.,0.0
 2012.0,Dinner Date,-0.6666666666666666
 2013.0,Dinner Date,-0.6666666666666666
 2014.0,Dinner Date,-0.6666666666666666
 2015.0,Dinner Date,0.33333333333333337
-2012.0,Dino D-Day,-0.26153846153846155
-2013.0,Dino D-Day,1.7384615384615385
-2014.0,Dino D-Day,2.7384615384615385
-2015.0,Dino D-Day,-0.26153846153846155
-2012.0,Dishonored,-0.4959349593495935
-2013.0,Dishonored,-0.4959349593495935
-2014.0,Dishonored,0.5040650406504066
-2015.0,Dishonored,0.5040650406504066
+2012.0,Dino D-Day,-0.15384615384615385
+2013.0,Dino D-Day,1.8461538461538463
+2014.0,Dino D-Day,2.8461538461538463
+2015.0,Dino D-Day,-0.15384615384615385
+2012.0,Dishonored,-0.4878048780487805
+2013.0,Dishonored,-0.4878048780487805
+2014.0,Dishonored,0.5121951219512195
+2015.0,Dishonored,0.5121951219512195
 2012.0,Doom 3: BFG Edition,-1.0
 2013.0,Doom 3: BFG Edition,-1.0
 2014.0,Doom 3: BFG Edition,-1.0
@@ -815,26 +815,26 @@ review_year,app_name,score_not_recommend
 2012.0,English Country Tune,-1.0
 2014.0,English Country Tune,-1.0
 2012.0,F.E.A.R. 2: Project Origin,1.0
-2012.0,F.E.A.R. 3,-0.2
-2013.0,F.E.A.R. 3,0.8
-2014.0,F.E.A.R. 3,0.8
-2015.0,F.E.A.R. 3,0.8
-2012.0,FTL: Faster Than Light,-0.4246575342465753
-2013.0,FTL: Faster Than Light,-0.4246575342465753
-2014.0,FTL: Faster Than Light,0.5753424657534247
-2015.0,FTL: Faster Than Light,-0.4246575342465753
-2012.0,Fallen Earth Free2Play,-0.3333333333333333
-2013.0,Fallen Earth Free2Play,-0.3333333333333333
-2014.0,Fallen Earth Free2Play,3.6666666666666665
-2015.0,Fallen Earth Free2Play,4.666666666666667
+2012.0,F.E.A.R. 3,-0.1
+2013.0,F.E.A.R. 3,0.9
+2014.0,F.E.A.R. 3,0.9
+2015.0,F.E.A.R. 3,0.9
+2012.0,FTL: Faster Than Light,-0.3698630136986301
+2013.0,FTL: Faster Than Light,-0.3698630136986301
+2014.0,FTL: Faster Than Light,0.6301369863013699
+2015.0,FTL: Faster Than Light,-0.3698630136986301
+2012.0,Fallen Earth Free2Play,-0.2727272727272727
+2013.0,Fallen Earth Free2Play,-0.2727272727272727
+2014.0,Fallen Earth Free2Play,3.7272727272727275
+2015.0,Fallen Earth Free2Play,4.7272727272727275
 2012.0,Fallout: A Post Nuclear Role Playing Game,-0.2857142857142857
 2013.0,Fallout: A Post Nuclear Role Playing Game,-0.2857142857142857
 2014.0,Fallout: A Post Nuclear Role Playing Game,-0.2857142857142857
 2015.0,Fallout: A Post Nuclear Role Playing Game,-0.2857142857142857
-2012.0,Far Cry 3,-0.42857142857142855
-2013.0,Far Cry 3,2.5714285714285716
-2014.0,Far Cry 3,6.571428571428571
-2015.0,Far Cry 3,1.5714285714285714
+2012.0,Far Cry 3,-0.38095238095238093
+2013.0,Far Cry 3,2.619047619047619
+2014.0,Far Cry 3,6.619047619047619
+2015.0,Far Cry 3,1.619047619047619
 2012.0,Far Cry®,-0.8
 2014.0,Far Cry®,0.19999999999999996
 2015.0,Far Cry®,-0.8
@@ -843,14 +843,14 @@ review_year,app_name,score_not_recommend
 2012.0,Galactic Civilizations® II: Ultimate Edition,-0.25
 2013.0,Galactic Civilizations® II: Ultimate Edition,-0.25
 2014.0,Galactic Civilizations® II: Ultimate Edition,0.75
-2012.0,Gotham City Impostors Free to Play,-0.30434782608695654
-2013.0,Gotham City Impostors Free to Play,0.6956521739130435
-2014.0,Gotham City Impostors Free to Play,3.6956521739130435
-2015.0,Gotham City Impostors Free to Play,3.6956521739130435
-2012.0,Grand Theft Auto: San Andreas,-0.3684210526315789
-2013.0,Grand Theft Auto: San Andreas,-0.3684210526315789
-2014.0,Grand Theft Auto: San Andreas,2.6315789473684212
-2015.0,Grand Theft Auto: San Andreas,0.631578947368421
+2012.0,Gotham City Impostors Free to Play,-0.29347826086956524
+2013.0,Gotham City Impostors Free to Play,0.7065217391304348
+2014.0,Gotham City Impostors Free to Play,3.7065217391304346
+2015.0,Gotham City Impostors Free to Play,3.7065217391304346
+2012.0,Grand Theft Auto: San Andreas,-0.3157894736842105
+2013.0,Grand Theft Auto: San Andreas,-0.3157894736842105
+2014.0,Grand Theft Auto: San Andreas,2.6842105263157894
+2015.0,Grand Theft Auto: San Andreas,0.6842105263157895
 2012.0,Gumboy Tournament,0.6666666666666666
 2014.0,Gumboy Tournament,1.6666666666666665
 2012.0,Half-Life 2: Lost Coast,-0.3076923076923077
@@ -859,14 +859,14 @@ review_year,app_name,score_not_recommend
 2015.0,Half-Life 2: Lost Coast,-0.3076923076923077
 2012.0,Hero Academy,-0.5
 2014.0,Hero Academy,0.5
-2012.0,Hitman: Absolution™,-0.5068493150684932
-2013.0,Hitman: Absolution™,-0.5068493150684932
-2014.0,Hitman: Absolution™,2.493150684931507
-2015.0,Hitman: Absolution™,0.4931506849315068
-2012.0,Hotline Miami,-0.1724137931034483
-2013.0,Hotline Miami,-0.1724137931034483
-2014.0,Hotline Miami,-0.1724137931034483
-2015.0,Hotline Miami,-0.1724137931034483
+2012.0,Hitman: Absolution™,-0.4657534246575342
+2013.0,Hitman: Absolution™,-0.4657534246575342
+2014.0,Hitman: Absolution™,2.5342465753424657
+2015.0,Hitman: Absolution™,0.5342465753424658
+2012.0,Hotline Miami,-0.12413793103448276
+2013.0,Hotline Miami,-0.12413793103448276
+2014.0,Hotline Miami,-0.12413793103448276
+2015.0,Hotline Miami,-0.12413793103448276
 2012.0,Indie Game: The Movie,-0.16666666666666666
 2013.0,Indie Game: The Movie,0.8333333333333334
 2014.0,Indie Game: The Movie,-0.16666666666666666
@@ -883,10 +883,10 @@ review_year,app_name,score_not_recommend
 2012.0,LEGO® Batman 2 DC Super Heroes™,-0.3333333333333333
 2014.0,LEGO® Batman 2 DC Super Heroes™,-0.3333333333333333
 2015.0,LEGO® Batman 2 DC Super Heroes™,0.6666666666666667
-2012.0,LIMBO,-0.30303030303030304
-2013.0,LIMBO,-0.30303030303030304
-2014.0,LIMBO,-0.30303030303030304
-2015.0,LIMBO,-0.30303030303030304
+2012.0,LIMBO,-0.2727272727272727
+2013.0,LIMBO,-0.2727272727272727
+2014.0,LIMBO,-0.2727272727272727
+2015.0,LIMBO,-0.2727272727272727
 2012.0,LOOM™,-1.0
 2012.0,Little Inferno,-0.12903225806451613
 2013.0,Little Inferno,-0.12903225806451613
@@ -918,14 +918,14 @@ review_year,app_name,score_not_recommend
 2013.0,Nation Red,-0.2857142857142857
 2014.0,Nation Red,-0.2857142857142857
 2015.0,Nation Red,-0.2857142857142857
-2012.0,Natural Selection 2,-0.3157894736842105
-2013.0,Natural Selection 2,0.6842105263157895
-2014.0,Natural Selection 2,1.6842105263157894
-2015.0,Natural Selection 2,2.6842105263157894
-2012.0,Need For Speed: Hot Pursuit,-0.4
-2013.0,Need For Speed: Hot Pursuit,-0.4
-2014.0,Need For Speed: Hot Pursuit,2.6
-2015.0,Need For Speed: Hot Pursuit,0.6
+2012.0,Natural Selection 2,-0.3508771929824561
+2013.0,Natural Selection 2,0.6491228070175439
+2014.0,Natural Selection 2,1.6491228070175439
+2015.0,Natural Selection 2,2.6491228070175437
+2012.0,Need For Speed: Hot Pursuit,-0.4666666666666667
+2013.0,Need For Speed: Hot Pursuit,-0.4666666666666667
+2014.0,Need For Speed: Hot Pursuit,2.533333333333333
+2015.0,Need For Speed: Hot Pursuit,0.5333333333333333
 2012.0,Orcs Must Die! 2,-0.325
 2013.0,Orcs Must Die! 2,-0.325
 2014.0,Orcs Must Die! 2,-0.325
@@ -938,10 +938,10 @@ review_year,app_name,score_not_recommend
 2013.0,"Pirates, Vikings, and Knights II",-0.5
 2014.0,"Pirates, Vikings, and Knights II",-0.5
 2015.0,"Pirates, Vikings, and Knights II",-0.5
-2012.0,PlanetSide 2,-0.4535211267605634
-2013.0,PlanetSide 2,2.546478873239437
-2014.0,PlanetSide 2,11.546478873239437
-2015.0,PlanetSide 2,10.546478873239437
+2012.0,PlanetSide 2,-0.4
+2013.0,PlanetSide 2,2.6
+2014.0,PlanetSide 2,11.6
+2015.0,PlanetSide 2,10.6
 2012.0,Port Royale 3,-1.0
 2012.0,Post Apocalyptic Mayhem,-0.3333333333333333
 2013.0,Post Apocalyptic Mayhem,-0.3333333333333333
@@ -949,10 +949,10 @@ review_year,app_name,score_not_recommend
 2015.0,Post Apocalyptic Mayhem,-0.3333333333333333
 2012.0,"Precipice of Darkness, Episode Two",0.0
 2014.0,"Precipice of Darkness, Episode Two",0.0
-2012.0,Primal Carnage,-0.4
-2013.0,Primal Carnage,1.6
-2014.0,Primal Carnage,-0.4
-2015.0,Primal Carnage,-0.4
+2012.0,Primal Carnage,-0.36
+2013.0,Primal Carnage,1.6400000000000001
+2014.0,Primal Carnage,-0.36
+2015.0,Primal Carnage,-0.36
 2012.0,QUAKE,-0.3333333333333333
 2014.0,QUAKE,-0.3333333333333333
 2015.0,QUAKE,-0.3333333333333333
@@ -961,13 +961,13 @@ review_year,app_name,score_not_recommend
 2012.0,Rayman® Origins,-1.0
 2013.0,Rayman® Origins,-1.0
 2015.0,Rayman® Origins,0.0
-2012.0,Realm of the Mad God,-0.24782608695652175
-2013.0,Realm of the Mad God,1.7521739130434781
-2014.0,Realm of the Mad God,15.752173913043478
-2015.0,Realm of the Mad God,8.752173913043478
-2012.0,Red Faction Guerrilla Steam Edition,-0.375
-2014.0,Red Faction Guerrilla Steam Edition,0.625
-2015.0,Red Faction Guerrilla Steam Edition,-0.375
+2012.0,Realm of the Mad God,-0.23478260869565218
+2013.0,Realm of the Mad God,1.7652173913043478
+2014.0,Realm of the Mad God,15.765217391304347
+2015.0,Realm of the Mad God,8.765217391304347
+2012.0,Red Faction Guerrilla Steam Edition,-0.3125
+2014.0,Red Faction Guerrilla Steam Edition,0.6875
+2015.0,Red Faction Guerrilla Steam Edition,-0.3125
 2012.0,Red Faction®: Armageddon™,0.4
 2014.0,Red Faction®: Armageddon™,-0.6
 2012.0,Red Orchestra: Ostfront 41-45,-0.5
@@ -1011,7 +1011,7 @@ review_year,app_name,score_not_recommend
 2013.0,Sins of a Solar Empire®: Rebellion,-0.46153846153846156
 2014.0,Sins of a Solar Empire®: Rebellion,-0.46153846153846156
 2015.0,Sins of a Solar Empire®: Rebellion,-0.46153846153846156
-2012.0,SlamIt Pinball Big Score,1.0
+2012.0,SlamIt Pinball Big Score,0.0
 2012.0,Sleeping Dogs,-0.4915254237288136
 2013.0,Sleeping Dogs,1.5084745762711864
 2014.0,Sleeping Dogs,2.5084745762711864
@@ -1023,41 +1023,41 @@ review_year,app_name,score_not_recommend
 2014.0,Solar 2,-1.0
 2012.0,Sonic CD,-0.3333333333333333
 2014.0,Sonic CD,0.6666666666666667
-2012.0,Source Filmmaker,-0.6347826086956522
-2013.0,Source Filmmaker,1.365217391304348
-2014.0,Source Filmmaker,0.3652173913043478
-2015.0,Source Filmmaker,1.365217391304348
+2012.0,Source Filmmaker,-0.5652173913043478
+2013.0,Source Filmmaker,1.4347826086956523
+2014.0,Source Filmmaker,0.4347826086956522
+2015.0,Source Filmmaker,1.4347826086956523
 2012.0,Spec Ops: The Line,-0.20481927710843373
 2013.0,Spec Ops: The Line,-0.20481927710843373
 2014.0,Spec Ops: The Line,-0.20481927710843373
 2015.0,Spec Ops: The Line,0.7951807228915663
 2012.0,Streets of Rage 2,-1.0
-2012.0,Super Crate Box,-0.35555555555555557
-2013.0,Super Crate Box,-0.35555555555555557
-2014.0,Super Crate Box,1.6444444444444444
-2015.0,Super Crate Box,-0.35555555555555557
-2012.0,Super Hexagon,-0.10526315789473684
-2013.0,Super Hexagon,2.8947368421052633
-2014.0,Super Hexagon,0.8947368421052632
-2015.0,Super Hexagon,-0.10526315789473684
-2012.0,Super MNC,-0.2619047619047619
-2013.0,Super MNC,-0.2619047619047619
-2014.0,Super MNC,2.738095238095238
-2015.0,Super MNC,4.738095238095238
+2012.0,Super Crate Box,-0.3333333333333333
+2013.0,Super Crate Box,-0.3333333333333333
+2014.0,Super Crate Box,1.6666666666666667
+2015.0,Super Crate Box,-0.3333333333333333
+2012.0,Super Hexagon,-0.09210526315789473
+2013.0,Super Hexagon,2.9078947368421053
+2014.0,Super Hexagon,0.9078947368421053
+2015.0,Super Hexagon,-0.09210526315789473
+2012.0,Super MNC,-0.23809523809523808
+2013.0,Super MNC,-0.23809523809523808
+2014.0,Super MNC,2.761904761904762
+2015.0,Super MNC,4.761904761904762
 2012.0,Supreme Commander: Forged Alliance,-0.5454545454545454
 2013.0,Supreme Commander: Forged Alliance,-0.5454545454545454
 2014.0,Supreme Commander: Forged Alliance,-0.5454545454545454
 2015.0,Supreme Commander: Forged Alliance,-0.5454545454545454
 2012.0,Symphony,0.5
 2014.0,Symphony,0.5
-2012.0,Synergy,-0.5
-2013.0,Synergy,-0.5
-2014.0,Synergy,0.5
-2015.0,Synergy,-0.5
-2012.0,Team Fortress Classic,-0.23529411764705882
-2013.0,Team Fortress Classic,0.7647058823529411
-2014.0,Team Fortress Classic,1.7647058823529411
-2015.0,Team Fortress Classic,1.7647058823529411
+2012.0,Synergy,-0.4642857142857143
+2013.0,Synergy,-0.4642857142857143
+2014.0,Synergy,0.5357142857142857
+2015.0,Synergy,-0.4642857142857143
+2012.0,Team Fortress Classic,-0.17647058823529413
+2013.0,Team Fortress Classic,0.8235294117647058
+2014.0,Team Fortress Classic,1.8235294117647058
+2015.0,Team Fortress Classic,1.8235294117647058
 2012.0,The Elder Scrolls III: Morrowind® Game of the Year Edition,-0.6
 2013.0,The Elder Scrolls III: Morrowind® Game of the Year Edition,-0.6
 2014.0,The Elder Scrolls III: Morrowind® Game of the Year Edition,-0.6
@@ -1069,52 +1069,52 @@ review_year,app_name,score_not_recommend
 2014.0,The Lord of the Rings Online™,-0.625
 2015.0,The Lord of the Rings Online™,-0.625
 2012.0,The Misadventures of P.B. Winterbottom,-1.0
-2012.0,The Walking Dead,-0.28169014084507044
-2013.0,The Walking Dead,-0.28169014084507044
-2014.0,The Walking Dead,-0.28169014084507044
-2015.0,The Walking Dead,0.7183098591549295
+2012.0,The Walking Dead,-0.2676056338028169
+2013.0,The Walking Dead,-0.2676056338028169
+2014.0,The Walking Dead,-0.2676056338028169
+2015.0,The Walking Dead,0.7323943661971831
 2012.0,To the Moon,-0.5263157894736842
 2013.0,To the Moon,-0.5263157894736842
 2014.0,To the Moon,-0.5263157894736842
 2015.0,To the Moon,-0.5263157894736842
 2012.0,Tobe's Vertical Adventure,1.0
-2012.0,Tomb Raider: Legend,-1.0
-2014.0,Tomb Raider: Legend,-1.0
-2012.0,Torchlight II,-0.47560975609756095
-2013.0,Torchlight II,-0.47560975609756095
-2014.0,Torchlight II,0.524390243902439
-2015.0,Torchlight II,-0.47560975609756095
+2012.0,Tomb Raider: Legend,-0.5
+2014.0,Tomb Raider: Legend,-0.5
+2012.0,Torchlight II,-0.45121951219512196
+2013.0,Torchlight II,-0.45121951219512196
+2014.0,Torchlight II,0.5487804878048781
+2015.0,Torchlight II,-0.45121951219512196
 2012.0,Toy Soldiers,-1.0
 2012.0,TrackMania Nations Forever,-0.4666666666666667
 2013.0,TrackMania Nations Forever,0.5333333333333333
 2014.0,TrackMania Nations Forever,-0.4666666666666667
 2015.0,TrackMania Nations Forever,-0.4666666666666667
 2012.0,Trials 2: Second Edition,-1.0
-2012.0,Tribes: Ascend,-0.2698412698412698
-2013.0,Tribes: Ascend,-0.2698412698412698
-2014.0,Tribes: Ascend,3.7301587301587302
-2015.0,Tribes: Ascend,0.7301587301587302
+2012.0,Tribes: Ascend,-0.2857142857142857
+2013.0,Tribes: Ascend,-0.2857142857142857
+2014.0,Tribes: Ascend,3.7142857142857144
+2015.0,Tribes: Ascend,0.7142857142857143
 2012.0,Trine 2: Complete Story,-0.7241379310344828
 2013.0,Trine 2: Complete Story,-0.7241379310344828
 2014.0,Trine 2: Complete Story,-0.7241379310344828
 2015.0,Trine 2: Complete Story,-0.7241379310344828
 2012.0,Tropico 3: Absolute Power,0.0
 2014.0,Tropico 3: Absolute Power,0.0
-2012.0,Tropico 4,-0.6538461538461539
-2013.0,Tropico 4,-0.6538461538461539
-2014.0,Tropico 4,-0.6538461538461539
-2015.0,Tropico 4,-0.6538461538461539
-2012.0,Two Worlds II HD,-0.6
-2013.0,Two Worlds II HD,-0.6
-2014.0,Two Worlds II HD,1.4
+2012.0,Tropico 4,-0.6153846153846154
+2013.0,Tropico 4,-0.6153846153846154
+2014.0,Tropico 4,-0.6153846153846154
+2015.0,Tropico 4,-0.6153846153846154
+2012.0,Two Worlds II HD,-0.4
+2013.0,Two Worlds II HD,-0.4
+2014.0,Two Worlds II HD,1.6
 2012.0,Unmechanical,-1.0
 2012.0,Unreal Tournament 2004: Editor's Choice Edition,-0.3333333333333333
 2013.0,Unreal Tournament 2004: Editor's Choice Edition,-0.3333333333333333
 2014.0,Unreal Tournament 2004: Editor's Choice Edition,-0.3333333333333333
 2015.0,Unreal Tournament 2004: Editor's Choice Edition,-0.3333333333333333
-2012.0,Unreal Tournament 3 Black,-0.75
-2013.0,Unreal Tournament 3 Black,-0.75
-2014.0,Unreal Tournament 3 Black,-0.75
+2012.0,Unreal Tournament 3 Black,-0.5
+2013.0,Unreal Tournament 3 Black,-0.5
+2014.0,Unreal Tournament 3 Black,-0.5
 2012.0,Vampire: The Masquerade - Bloodlines,-0.6666666666666666
 2014.0,Vampire: The Masquerade - Bloodlines,-0.6666666666666666
 2015.0,Vampire: The Masquerade - Bloodlines,-0.6666666666666666
@@ -1132,31 +1132,31 @@ review_year,app_name,score_not_recommend
 2014.0,World of Goo,-0.7142857142857143
 2015.0,World of Goo,0.2857142857142857
 2012.0,X-COM: Apocalypse,-1.0
-2012.0,XCOM: Enemy Unknown,-0.3925233644859813
-2013.0,XCOM: Enemy Unknown,-0.3925233644859813
-2014.0,XCOM: Enemy Unknown,-0.3925233644859813
-2015.0,XCOM: Enemy Unknown,1.6074766355140186
-2012.0,Zombie Panic! Source,-0.3142857142857143
-2013.0,Zombie Panic! Source,-0.3142857142857143
-2014.0,Zombie Panic! Source,-0.3142857142857143
-2015.0,Zombie Panic! Source,0.6857142857142857
+2012.0,XCOM: Enemy Unknown,-0.37383177570093457
+2013.0,XCOM: Enemy Unknown,-0.37383177570093457
+2014.0,XCOM: Enemy Unknown,-0.37383177570093457
+2015.0,XCOM: Enemy Unknown,1.6261682242990654
+2012.0,Zombie Panic! Source,-0.2571428571428571
+2013.0,Zombie Panic! Source,-0.2571428571428571
+2014.0,Zombie Panic! Source,-0.2571428571428571
+2015.0,Zombie Panic! Source,0.7428571428571429
 2013.0,3079 -- Block Action RPG,-0.3333333333333333
 2014.0,3079 -- Block Action RPG,-0.3333333333333333
-2013.0,8BitMMO,3.769230769230769
-2014.0,8BitMMO,8.76923076923077
-2015.0,8BitMMO,2.769230769230769
+2013.0,8BitMMO,3.7948717948717947
+2014.0,8BitMMO,8.794871794871796
+2015.0,8BitMMO,2.7948717948717947
 2013.0,A.V.A. Alliance of Valiant Arms™,1.1
 2014.0,A.V.A. Alliance of Valiant Arms™,3.1
 2015.0,A.V.A. Alliance of Valiant Arms™,2.1
-2013.0,Ace of Spades: Battle Builder,9.8
-2014.0,Ace of Spades: Battle Builder,15.8
-2015.0,Ace of Spades: Battle Builder,14.8
+2013.0,Ace of Spades: Battle Builder,9.841379310344827
+2014.0,Ace of Spades: Battle Builder,15.841379310344827
+2015.0,Ace of Spades: Battle Builder,14.841379310344827
 2013.0,Age of Empires II HD,-0.4329896907216495
 2014.0,Age of Empires II HD,0.5670103092783505
 2015.0,Age of Empires II HD,3.5670103092783503
-2013.0,Age of Empires® III: Complete Collection,0.43243243243243246
-2014.0,Age of Empires® III: Complete Collection,-0.5675675675675675
-2015.0,Age of Empires® III: Complete Collection,-0.5675675675675675
+2013.0,Age of Empires® III: Complete Collection,0.4864864864864865
+2014.0,Age of Empires® III: Complete Collection,-0.5135135135135135
+2015.0,Age of Empires® III: Complete Collection,-0.5135135135135135
 2013.0,Akaneiro: Demon Hunters,-1.0
 2013.0,Alan Wake's American Nightmare,-0.6666666666666666
 2014.0,Alan Wake's American Nightmare,0.33333333333333337
@@ -1168,31 +1168,31 @@ review_year,app_name,score_not_recommend
 2013.0,Alpha Protocol™,-0.4
 2014.0,Alpha Protocol™,-0.4
 2015.0,Alpha Protocol™,-0.4
-2013.0,America's Army: Proving Grounds,-0.5714285714285714
-2014.0,America's Army: Proving Grounds,0.4285714285714286
-2015.0,America's Army: Proving Grounds,2.428571428571429
+2013.0,America's Army: Proving Grounds,-0.5238095238095238
+2014.0,America's Army: Proving Grounds,0.47619047619047616
+2015.0,America's Army: Proving Grounds,2.4761904761904763
 2013.0,Amnesia: A Machine for Pigs,0.09090909090909091
 2014.0,Amnesia: A Machine for Pigs,4.090909090909091
 2015.0,Amnesia: A Machine for Pigs,1.0909090909090908
 2013.0,Angry Video Game Nerd Adventures,-0.125
 2014.0,Angry Video Game Nerd Adventures,-0.125
-2013.0,Antichamber,-0.29411764705882354
-2014.0,Antichamber,2.7058823529411766
-2015.0,Antichamber,-0.29411764705882354
-2013.0,ArcheBlade™,1.6923076923076923
-2014.0,ArcheBlade™,3.6923076923076925
-2015.0,ArcheBlade™,1.6923076923076923
+2013.0,Antichamber,-0.3333333333333333
+2014.0,Antichamber,2.6666666666666665
+2015.0,Antichamber,-0.3333333333333333
+2013.0,ArcheBlade™,1.717948717948718
+2014.0,ArcheBlade™,3.717948717948718
+2015.0,ArcheBlade™,1.717948717948718
 2013.0,Arma 2,-0.8
 2014.0,Arma 2,-0.8
-2013.0,Arma 3,-0.4132841328413284
-2014.0,Arma 3,7.586715867158672
-2015.0,Arma 3,11.586715867158672
-2013.0,Arma II: DayZ Mod,0.29166666666666663
-2014.0,Arma II: DayZ Mod,1.2916666666666665
-2015.0,Arma II: DayZ Mod,-0.7083333333333334
-2013.0,Assassin's Creed 2 Deluxe Edition,0.8378378378378378
-2014.0,Assassin's Creed 2 Deluxe Edition,1.8378378378378377
-2015.0,Assassin's Creed 2 Deluxe Edition,1.8378378378378377
+2013.0,Arma 3,-0.3837638376383764
+2014.0,Arma 3,7.6162361623616235
+2015.0,Arma 3,11.616236162361623
+2013.0,Arma II: DayZ Mod,0.375
+2014.0,Arma II: DayZ Mod,1.375
+2015.0,Arma II: DayZ Mod,-0.625
+2013.0,Assassin's Creed 2 Deluxe Edition,0.8648648648648649
+2014.0,Assassin's Creed 2 Deluxe Edition,1.864864864864865
+2015.0,Assassin's Creed 2 Deluxe Edition,1.864864864864865
 2013.0,Assassin’s Creed® IV Black Flag™,-0.32727272727272727
 2014.0,Assassin’s Creed® IV Black Flag™,1.6727272727272728
 2015.0,Assassin’s Creed® IV Black Flag™,3.672727272727273
@@ -1208,17 +1208,17 @@ review_year,app_name,score_not_recommend
 2013.0,BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien,-0.7333333333333333
 2014.0,BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien,0.2666666666666667
 2015.0,BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien,-0.7333333333333333
-2013.0,Bad Rats: the Rats' Revenge,-0.0660377358490566
-2014.0,Bad Rats: the Rats' Revenge,7.933962264150943
-2015.0,Bad Rats: the Rats' Revenge,7.933962264150943
+2013.0,Bad Rats: the Rats' Revenge,-0.04716981132075472
+2014.0,Bad Rats: the Rats' Revenge,7.952830188679245
+2015.0,Bad Rats: the Rats' Revenge,7.952830188679245
 2013.0,Baldur's Gate: Enhanced Edition,1.2
 2014.0,Baldur's Gate: Enhanced Edition,0.2
 2015.0,Baldur's Gate: Enhanced Edition,0.2
 2013.0,Ballpoint Universe - Infinite,-1.0
 2014.0,Ballpoint Universe - Infinite,-1.0
-2013.0,Batman: Arkham City - Game of the Year Edition,-0.46835443037974683
-2014.0,Batman: Arkham City - Game of the Year Edition,-0.46835443037974683
-2015.0,Batman: Arkham City - Game of the Year Edition,-0.46835443037974683
+2013.0,Batman: Arkham City - Game of the Year Edition,-0.45569620253164556
+2014.0,Batman: Arkham City - Game of the Year Edition,-0.45569620253164556
+2015.0,Batman: Arkham City - Game of the Year Edition,-0.45569620253164556
 2013.0,Batman™: Arkham Origins,-0.4225352112676056
 2014.0,Batman™: Arkham Origins,2.5774647887323945
 2015.0,Batman™: Arkham Origins,-0.4225352112676056
@@ -1230,29 +1230,29 @@ review_year,app_name,score_not_recommend
 2013.0,Binding of Isaac: Wrath of the Lamb,-0.6
 2014.0,Binding of Isaac: Wrath of the Lamb,0.4
 2015.0,Binding of Isaac: Wrath of the Lamb,-0.6
-2013.0,BioShock Infinite,-0.5416666666666666
-2014.0,BioShock Infinite,5.458333333333333
-2015.0,BioShock Infinite,-0.5416666666666666
-2013.0,Blade Symphony,-0.35714285714285715
-2014.0,Blade Symphony,-0.35714285714285715
-2015.0,Blade Symphony,1.6428571428571428
+2013.0,BioShock Infinite,-0.5113636363636364
+2014.0,BioShock Infinite,5.488636363636363
+2015.0,BioShock Infinite,-0.5113636363636364
+2013.0,Blade Symphony,-0.42857142857142855
+2014.0,Blade Symphony,-0.42857142857142855
+2015.0,Blade Symphony,1.5714285714285714
 2013.0,Blades of Time,-0.6
 2015.0,Blades of Time,-0.6
-2013.0,Bleed,-0.5555555555555556
-2014.0,Bleed,-0.5555555555555556
-2015.0,Bleed,-0.5555555555555556
-2013.0,Blockland,-0.21052631578947367
-2014.0,Blockland,2.7894736842105265
-2015.0,Blockland,1.7894736842105263
+2013.0,Bleed,-0.6666666666666666
+2014.0,Bleed,-0.6666666666666666
+2015.0,Bleed,-0.6666666666666666
+2013.0,Blockland,-0.15789473684210525
+2014.0,Blockland,2.8421052631578947
+2015.0,Blockland,1.8421052631578947
 2013.0,Blood Bowl: Chaos Edition,1.0
 2014.0,Blood Bowl: Chaos Edition,1.0
-2013.0,Bloody Trapland,-0.09090909090909091
-2014.0,Bloody Trapland,-0.09090909090909091
-2015.0,Bloody Trapland,0.9090909090909091
+2013.0,Bloody Trapland,-0.18181818181818182
+2014.0,Bloody Trapland,-0.18181818181818182
+2015.0,Bloody Trapland,0.8181818181818181
 2013.0,Broken Sword 5 - the Serpent's Curse,1.0
-2013.0,Brothers - A Tale of Two Sons,-0.5789473684210527
-2014.0,Brothers - A Tale of Two Sons,-0.5789473684210527
-2015.0,Brothers - A Tale of Two Sons,-0.5789473684210527
+2013.0,Brothers - A Tale of Two Sons,-0.5526315789473685
+2014.0,Brothers - A Tale of Two Sons,-0.5526315789473685
+2015.0,Brothers - A Tale of Two Sons,-0.5526315789473685
 2013.0,Brutal Legend,1.0416666666666667
 2014.0,Brutal Legend,1.0416666666666667
 2015.0,Brutal Legend,1.0416666666666667
@@ -1261,17 +1261,17 @@ review_year,app_name,score_not_recommend
 2015.0,Bully: Scholarship Edition,-0.48148148148148145
 2013.0,Bus-Simulator 2012,1.0
 2014.0,Bus-Simulator 2012,2.0
-2013.0,Call of Duty: Black Ops - Mac Edition,-0.5
-2014.0,Call of Duty: Black Ops - Mac Edition,-0.5
-2015.0,Call of Duty: Black Ops - Mac Edition,-0.5
+2013.0,Call of Duty: Black Ops - Mac Edition,-0.25
+2014.0,Call of Duty: Black Ops - Mac Edition,-0.25
+2015.0,Call of Duty: Black Ops - Mac Edition,-0.25
 2013.0,Call of Duty: United Offensive,-0.5
 2015.0,Call of Duty: United Offensive,-0.5
-2013.0,Call of Duty®: Ghosts,13.83157894736842
-2014.0,Call of Duty®: Ghosts,20.83157894736842
-2015.0,Call of Duty®: Ghosts,7.831578947368421
-2013.0,Call of Juarez® Gunslinger,-0.631578947368421
-2014.0,Call of Juarez® Gunslinger,-0.631578947368421
-2015.0,Call of Juarez® Gunslinger,-0.631578947368421
+2013.0,Call of Duty®: Ghosts,13.8
+2014.0,Call of Duty®: Ghosts,20.8
+2015.0,Call of Duty®: Ghosts,7.8
+2013.0,Call of Juarez® Gunslinger,-0.5789473684210527
+2014.0,Call of Juarez® Gunslinger,-0.5789473684210527
+2015.0,Call of Juarez® Gunslinger,-0.5789473684210527
 2013.0,Call of Juarez®: The Cartel,2.0
 2013.0,Capsized,-1.0
 2013.0,Cargo Commander,-1.0
@@ -1291,12 +1291,12 @@ review_year,app_name,score_not_recommend
 2014.0,Cities in Motion 2,0.16666666666666666
 2013.0,Command & Conquer: Red Alert 3 - Uprising,0.0
 2015.0,Command & Conquer: Red Alert 3 - Uprising,0.0
-2013.0,Company of Heroes 2,0.48275862068965514
-2014.0,Company of Heroes 2,1.4827586206896552
-2015.0,Company of Heroes 2,1.4827586206896552
-2013.0,Contagion,0.7058823529411764
-2014.0,Contagion,3.7058823529411766
-2015.0,Contagion,3.7058823529411766
+2013.0,Company of Heroes 2,0.49425287356321834
+2014.0,Company of Heroes 2,1.4942528735632183
+2015.0,Company of Heroes 2,1.4942528735632183
+2013.0,Contagion,0.7254901960784313
+2014.0,Contagion,3.7254901960784315
+2015.0,Contagion,3.7254901960784315
 2013.0,Cortex Command,-0.18181818181818182
 2014.0,Cortex Command,-0.18181818181818182
 2015.0,Cortex Command,-0.18181818181818182
@@ -1312,9 +1312,9 @@ review_year,app_name,score_not_recommend
 2013.0,DCS World,-0.8888888888888888
 2014.0,DCS World,-0.8888888888888888
 2015.0,DCS World,-0.8888888888888888
-2013.0,DLC Quest,-0.48148148148148145
-2014.0,DLC Quest,-0.48148148148148145
-2015.0,DLC Quest,-0.48148148148148145
+2013.0,DLC Quest,-0.4444444444444444
+2014.0,DLC Quest,-0.4444444444444444
+2015.0,DLC Quest,-0.4444444444444444
 2013.0,Darkest Hour: A Hearts of Iron Game,-0.3333333333333333
 2014.0,Darkest Hour: A Hearts of Iron Game,-0.3333333333333333
 2013.0,Day One : Garry's Incident,0.0
@@ -1323,9 +1323,9 @@ review_year,app_name,score_not_recommend
 2013.0,Day of Defeat,-0.25
 2014.0,Day of Defeat,-0.25
 2015.0,Day of Defeat,0.75
-2013.0,DayZ,2.7887517146776406
-2014.0,DayZ,60.78875171467764
-2015.0,DayZ,71.78875171467764
+2013.0,DayZ,2.8065843621399176
+2014.0,DayZ,60.806584362139915
+2015.0,DayZ,71.80658436213992
 2013.0,Dead Rising® 2,0.0
 2014.0,Dead Rising® 2,2.0
 2015.0,Dead Rising® 2,3.0
@@ -1355,9 +1355,9 @@ review_year,app_name,score_not_recommend
 2015.0,Democracy 3,0.5789473684210527
 2013.0,Desktop Dungeons,-0.6666666666666666
 2014.0,Desktop Dungeons,-0.6666666666666666
-2013.0,Deus Ex: Human Revolution - Director's Cut,-0.4642857142857143
-2014.0,Deus Ex: Human Revolution - Director's Cut,0.5357142857142857
-2015.0,Deus Ex: Human Revolution - Director's Cut,-0.4642857142857143
+2013.0,Deus Ex: Human Revolution - Director's Cut,-0.42857142857142855
+2014.0,Deus Ex: Human Revolution - Director's Cut,0.5714285714285714
+2015.0,Deus Ex: Human Revolution - Director's Cut,-0.42857142857142855
 2013.0,Devil May Cry 4,-0.42857142857142855
 2014.0,Devil May Cry 4,-0.42857142857142855
 2015.0,Devil May Cry 4,-0.42857142857142855
@@ -1373,9 +1373,9 @@ review_year,app_name,score_not_recommend
 2013.0,Dragon Age: Origins - Ultimate Edition,-0.4666666666666667
 2014.0,Dragon Age: Origins - Ultimate Edition,-0.4666666666666667
 2015.0,Dragon Age: Origins - Ultimate Edition,-0.4666666666666667
-2013.0,Dragon Nest,0.2857142857142857
-2014.0,Dragon Nest,-0.7142857142857143
-2015.0,Dragon Nest,-0.7142857142857143
+2013.0,Dragon Nest,0.38095238095238093
+2014.0,Dragon Nest,-0.6190476190476191
+2015.0,Dragon Nest,-0.6190476190476191
 2013.0,Draw a Stickman: EPIC,-0.6666666666666666
 2014.0,Draw a Stickman: EPIC,-0.6666666666666666
 2013.0,Driver® Parallel Lines,-1.0
@@ -1383,48 +1383,48 @@ review_year,app_name,score_not_recommend
 2014.0,Drunken Robot Pornography,-0.3333333333333333
 2013.0,DuckTales: Remastered,-1.0
 2014.0,DuckTales: Remastered,-1.0
-2013.0,Dungeon of the Endless™,-0.5384615384615384
-2014.0,Dungeon of the Endless™,-0.5384615384615384
-2015.0,Dungeon of the Endless™,-0.5384615384615384
+2013.0,Dungeon of the Endless™,-0.46153846153846156
+2014.0,Dungeon of the Endless™,-0.46153846153846156
+2015.0,Dungeon of the Endless™,-0.46153846153846156
 2013.0,Dungeon-Party,0.0
-2013.0,Dungeonland,-0.4166666666666667
-2014.0,Dungeonland,-0.4166666666666667
-2015.0,Dungeonland,0.5833333333333333
+2013.0,Dungeonland,-0.3333333333333333
+2014.0,Dungeonland,-0.3333333333333333
+2015.0,Dungeonland,0.6666666666666667
 2013.0,Dungeons and Dragons: Daggerdale,2.0
-2013.0,Dust: An Elysian Tail,-0.475
-2014.0,Dust: An Elysian Tail,-0.475
-2015.0,Dust: An Elysian Tail,-0.475
+2013.0,Dust: An Elysian Tail,-0.425
+2014.0,Dust: An Elysian Tail,-0.425
+2015.0,Dust: An Elysian Tail,-0.425
 2013.0,Dustforce DX,-0.5
 2014.0,Dustforce DX,-0.5
 2015.0,Dustforce DX,-0.5
-2013.0,Dwarfs - F2P,-0.25
-2014.0,Dwarfs - F2P,0.75
-2015.0,Dwarfs - F2P,-0.25
+2013.0,Dwarfs - F2P,-0.2
+2014.0,Dwarfs - F2P,0.8
+2015.0,Dwarfs - F2P,-0.2
 2013.0,Dysfunctional Systems: Learning to Manage Chaos,-1.0
 2014.0,Dysfunctional Systems: Learning to Manage Chaos,-1.0
 2013.0,Dystopia,-0.6666666666666666
 2014.0,Dystopia,-0.6666666666666666
-2013.0,EDGE,-1.0
-2014.0,EDGE,-1.0
+2013.0,EDGE,-0.75
+2014.0,EDGE,-0.75
 2013.0,Eador. Masters of the Broken World,1.0
 2014.0,Eador. Masters of the Broken World,0.0
 2013.0,Edna & Harvey: Harvey's New Eyes,0.0
-2013.0,Electronic Super Joy,-0.5625
-2014.0,Electronic Super Joy,-0.5625
-2015.0,Electronic Super Joy,-0.5625
-2013.0,Elsword,0.06666666666666667
-2014.0,Elsword,1.0666666666666667
-2015.0,Elsword,0.06666666666666667
-2013.0,Eryi's Action,-0.3333333333333333
-2014.0,Eryi's Action,-0.3333333333333333
-2015.0,Eryi's Action,-0.3333333333333333
+2013.0,Electronic Super Joy,-0.5
+2014.0,Electronic Super Joy,-0.5
+2015.0,Electronic Super Joy,-0.5
+2013.0,Elsword,0.0
+2014.0,Elsword,1.0
+2015.0,Elsword,0.0
+2013.0,Eryi's Action,-0.16666666666666666
+2014.0,Eryi's Action,-0.16666666666666666
+2015.0,Eryi's Action,-0.16666666666666666
 2013.0,Escape Goat,-1.0
 2013.0,Euro Truck Simulator,-0.14285714285714285
 2014.0,Euro Truck Simulator,-0.14285714285714285
 2015.0,Euro Truck Simulator,3.857142857142857
-2013.0,Euro Truck Simulator 2,-0.2358490566037736
-2014.0,Euro Truck Simulator 2,-0.2358490566037736
-2015.0,Euro Truck Simulator 2,0.7641509433962264
+2013.0,Euro Truck Simulator 2,-0.2169811320754717
+2014.0,Euro Truck Simulator 2,-0.2169811320754717
+2015.0,Euro Truck Simulator 2,0.7830188679245282
 2013.0,Europa Universalis IV,-0.39285714285714285
 2014.0,Europa Universalis IV,0.6071428571428572
 2015.0,Europa Universalis IV,3.607142857142857
@@ -1454,9 +1454,9 @@ review_year,app_name,score_not_recommend
 2013.0,Fallout 2: A Post Nuclear Role Playing Game,0.9
 2014.0,Fallout 2: A Post Nuclear Role Playing Game,-0.1
 2015.0,Fallout 2: A Post Nuclear Role Playing Game,-0.1
-2013.0,Fallout 3,-0.11764705882352941
-2014.0,Fallout 3,-0.11764705882352941
-2015.0,Fallout 3,-0.11764705882352941
+2013.0,Fallout 3,-0.08823529411764706
+2014.0,Fallout 3,-0.08823529411764706
+2015.0,Fallout 3,-0.08823529411764706
 2013.0,Fallout Tactics: Brotherhood of Steel,0.0
 2015.0,Fallout Tactics: Brotherhood of Steel,0.0
 2013.0,Far Cry 3 - Blood Dragon,-0.13793103448275862
@@ -1465,9 +1465,9 @@ review_year,app_name,score_not_recommend
 2013.0,Far Cry® 2: Fortune's Edition,-0.6666666666666666
 2014.0,Far Cry® 2: Fortune's Edition,2.3333333333333335
 2015.0,Far Cry® 2: Fortune's Edition,0.33333333333333337
-2013.0,Farming Simulator 2013 Titanium Edition,-0.6
-2014.0,Farming Simulator 2013 Titanium Edition,-0.6
-2015.0,Farming Simulator 2013 Titanium Edition,-0.6
+2013.0,Farming Simulator 2013 Titanium Edition,-0.5333333333333333
+2014.0,Farming Simulator 2013 Titanium Edition,-0.5333333333333333
+2015.0,Farming Simulator 2013 Titanium Edition,-0.5333333333333333
 2013.0,FlatOut,-0.5
 2014.0,FlatOut,-0.5
 2015.0,FlatOut,-0.5
@@ -1481,24 +1481,24 @@ review_year,app_name,score_not_recommend
 2013.0,Fortix,0.0
 2014.0,Fortix,0.0
 2013.0,Fractal: Make Blooms Not War,-1.0
-2013.0,GRID 2,-0.5454545454545454
-2014.0,GRID 2,2.4545454545454546
-2015.0,GRID 2,-0.5454545454545454
-2013.0,Game Dev Tycoon,-0.3977272727272727
-2014.0,Game Dev Tycoon,-0.3977272727272727
-2015.0,Game Dev Tycoon,0.6022727272727273
+2013.0,GRID 2,-0.45454545454545453
+2014.0,GRID 2,2.5454545454545454
+2015.0,GRID 2,-0.45454545454545453
+2013.0,Game Dev Tycoon,-0.375
+2014.0,Game Dev Tycoon,-0.375
+2015.0,Game Dev Tycoon,0.625
 2013.0,Game of Thrones,0.8
 2014.0,Game of Thrones,2.8
 2015.0,Game of Thrones,1.8
-2013.0,Gear Up,-0.2413793103448276
-2014.0,Gear Up,1.7586206896551724
-2015.0,Gear Up,7.758620689655173
+2013.0,Gear Up,-0.13793103448275862
+2014.0,Gear Up,1.8620689655172413
+2015.0,Gear Up,7.862068965517241
 2013.0,Gimbal,-1.0
 2015.0,Gimbal,-1.0
 2013.0,Gish,-1.0
-2013.0,Gnomoria,0.25
-2014.0,Gnomoria,0.25
-2015.0,Gnomoria,2.25
+2013.0,Gnomoria,0.125
+2014.0,Gnomoria,0.125
+2015.0,Gnomoria,2.125
 2013.0,God Mode,-0.625
 2014.0,God Mode,-0.625
 2015.0,God Mode,-0.625
@@ -1511,18 +1511,18 @@ review_year,app_name,score_not_recommend
 2013.0,Grand Theft Auto: Vice City,-0.5
 2014.0,Grand Theft Auto: Vice City,-0.5
 2015.0,Grand Theft Auto: Vice City,-0.5
-2013.0,Grim Dawn,-0.6111111111111112
-2014.0,Grim Dawn,-0.6111111111111112
-2015.0,Grim Dawn,-0.6111111111111112
+2013.0,Grim Dawn,-0.5555555555555556
+2014.0,Grim Dawn,-0.5555555555555556
+2015.0,Grim Dawn,-0.5555555555555556
 2013.0,Guncraft,-0.4
 2014.0,Guncraft,-0.4
 2015.0,Guncraft,0.6
-2013.0,Gunpoint,-0.6379310344827587
-2014.0,Gunpoint,1.3620689655172413
-2015.0,Gunpoint,-0.6379310344827587
-2013.0,Guns of Icarus Online,0.5
-2014.0,Guns of Icarus Online,3.5
-2015.0,Guns of Icarus Online,-0.5
+2013.0,Gunpoint,-0.6206896551724138
+2014.0,Gunpoint,1.3793103448275863
+2015.0,Gunpoint,-0.6206896551724138
+2013.0,Guns of Icarus Online,0.5128205128205128
+2014.0,Guns of Icarus Online,3.5128205128205128
+2015.0,Guns of Icarus Online,-0.48717948717948717
 2013.0,Half-Life Deathmatch: Source,0.0
 2014.0,Half-Life Deathmatch: Source,1.0
 2013.0,Half-Life: Before,5.066666666666666
@@ -1535,9 +1535,9 @@ review_year,app_name,score_not_recommend
 2014.0,Half-Life: Source,-1.0
 2015.0,Half-Life: Source,0.0
 2013.0,Hamilton's Great Adventure,-1.0
-2013.0,Hammerwatch,-0.38461538461538464
-2014.0,Hammerwatch,0.6153846153846154
-2015.0,Hammerwatch,-0.38461538461538464
+2013.0,Hammerwatch,-0.3076923076923077
+2014.0,Hammerwatch,0.6923076923076923
+2015.0,Hammerwatch,-0.3076923076923077
 2013.0,Hate Plus,1.0
 2013.0,Hearts of Iron III,-0.23076923076923078
 2014.0,Hearts of Iron III,0.7692307692307692
@@ -1548,15 +1548,15 @@ review_year,app_name,score_not_recommend
 2013.0,Home,0.0
 2014.0,Home,0.0
 2015.0,Home,1.0
-2013.0,Homefront,-0.42857142857142855
-2014.0,Homefront,-0.42857142857142855
-2015.0,Homefront,-0.42857142857142855
-2013.0,How to Survive,0.6470588235294117
-2014.0,How to Survive,1.6470588235294117
-2015.0,How to Survive,2.6470588235294117
-2013.0,INSURGENCY: Modern Infantry Combat,-0.25
-2014.0,INSURGENCY: Modern Infantry Combat,-0.25
-2015.0,INSURGENCY: Modern Infantry Combat,0.75
+2013.0,Homefront,-0.2857142857142857
+2014.0,Homefront,-0.2857142857142857
+2015.0,Homefront,-0.2857142857142857
+2013.0,How to Survive,0.6176470588235294
+2014.0,How to Survive,1.6176470588235294
+2015.0,How to Survive,2.6176470588235294
+2013.0,INSURGENCY: Modern Infantry Combat,0.0
+2014.0,INSURGENCY: Modern Infantry Combat,0.0
+2015.0,INSURGENCY: Modern Infantry Combat,1.0
 2013.0,Iesabel,2.0
 2013.0,Impire,1.0
 2014.0,Impire,1.0
@@ -1567,12 +1567,12 @@ review_year,app_name,score_not_recommend
 2014.0,Injustice: Gods Among Us Ultimate Edition,-0.26666666666666666
 2015.0,Injustice: Gods Among Us Ultimate Edition,-0.26666666666666666
 2013.0,Insanely Twisted Shadow Planet,1.0
-2013.0,Insurgency,-0.40540540540540543
-2014.0,Insurgency,3.5945945945945947
-2015.0,Insurgency,8.594594594594595
-2013.0,Interstellar Marines,-0.40625
-2014.0,Interstellar Marines,0.59375
-2015.0,Interstellar Marines,0.59375
+2013.0,Insurgency,-0.35585585585585583
+2014.0,Insurgency,3.644144144144144
+2015.0,Insurgency,8.644144144144144
+2013.0,Interstellar Marines,-0.375
+2014.0,Interstellar Marines,0.625
+2015.0,Interstellar Marines,0.625
 2013.0,Intrusion 2,0.0
 2014.0,Intrusion 2,1.0
 2015.0,Intrusion 2,1.0
@@ -1583,12 +1583,12 @@ review_year,app_name,score_not_recommend
 2014.0,Ironclad Tactics,0.0
 2013.0,Jack Lumber,-0.5
 2015.0,Jack Lumber,-0.5
-2013.0,Just Cause 2: Multiplayer Mod,1.380952380952381
-2014.0,Just Cause 2: Multiplayer Mod,0.38095238095238093
-2015.0,Just Cause 2: Multiplayer Mod,1.380952380952381
-2013.0,Kerbal Space Program,-0.5328467153284672
-2014.0,Kerbal Space Program,-0.5328467153284672
-2015.0,Kerbal Space Program,-0.5328467153284672
+2013.0,Just Cause 2: Multiplayer Mod,1.4166666666666665
+2014.0,Just Cause 2: Multiplayer Mod,0.41666666666666663
+2015.0,Just Cause 2: Multiplayer Mod,1.4166666666666665
+2013.0,Kerbal Space Program,-0.49635036496350365
+2014.0,Kerbal Space Program,-0.49635036496350365
+2015.0,Kerbal Space Program,-0.49635036496350365
 2013.0,King Arthur's Gold,-0.8518518518518519
 2014.0,King Arthur's Gold,-0.8518518518518519
 2015.0,King Arthur's Gold,0.14814814814814814
@@ -1601,15 +1601,15 @@ review_year,app_name,score_not_recommend
 2013.0,Kingdoms of Amalur: Reckoning™,-0.23529411764705882
 2014.0,Kingdoms of Amalur: Reckoning™,0.7647058823529411
 2015.0,Kingdoms of Amalur: Reckoning™,-0.23529411764705882
-2013.0,King’s Bounty: Legions,1.0
-2014.0,King’s Bounty: Legions,1.0
+2013.0,King’s Bounty: Legions,1.1666666666666667
+2014.0,King’s Bounty: Legions,1.1666666666666667
 2013.0,Knock-knock,-1.0
 2013.0,Krater,0.0
 2013.0,LEGO The Lord of the Rings,-0.75
 2014.0,LEGO The Lord of the Rings,-0.75
-2013.0,LEGO® Marvel™ Super Heroes,-0.5238095238095238
-2014.0,LEGO® Marvel™ Super Heroes,0.47619047619047616
-2015.0,LEGO® Marvel™ Super Heroes,1.4761904761904763
+2013.0,LEGO® Marvel™ Super Heroes,-0.4523809523809524
+2014.0,LEGO® Marvel™ Super Heroes,0.5476190476190477
+2015.0,LEGO® Marvel™ Super Heroes,1.5476190476190477
 2013.0,La-Mulana,1.0
 2015.0,La-Mulana,0.0
 2013.0,Legend of Dungeon,-0.2
@@ -1618,9 +1618,9 @@ review_year,app_name,score_not_recommend
 2013.0,Legend of Grimrock,-0.42857142857142855
 2014.0,Legend of Grimrock,-0.42857142857142855
 2015.0,Legend of Grimrock,-0.42857142857142855
-2013.0,Loadout,-0.4010840108401084
-2014.0,Loadout,28.59891598915989
-2015.0,Loadout,14.598915989159892
+2013.0,Loadout,-0.34688346883468835
+2014.0,Loadout,28.653116531165313
+2015.0,Loadout,14.653116531165312
 2013.0,Lone Survivor: The Director's Cut,-1.0
 2015.0,Lone Survivor: The Director's Cut,-1.0
 2013.0,Long Live The Queen,-0.4666666666666667
@@ -1637,9 +1637,9 @@ review_year,app_name,score_not_recommend
 2013.0,Majesty 2,0.0
 2015.0,Majesty 2,1.0
 2013.0,Majesty 2 Collection,-1.0
-2013.0,MapleStory,0.825
-2014.0,MapleStory,2.825
-2015.0,MapleStory,3.825
+2013.0,MapleStory,0.875
+2014.0,MapleStory,2.875
+2015.0,MapleStory,3.875
 2013.0,Mark of the Ninja,-0.7777777777777778
 2014.0,Mark of the Ninja,-0.7777777777777778
 2015.0,Mark of the Ninja,-0.7777777777777778
@@ -1650,27 +1650,27 @@ review_year,app_name,score_not_recommend
 2013.0,Max Payne,-0.5
 2014.0,Max Payne,-0.5
 2015.0,Max Payne,-0.5
-2013.0,McPixel,-0.17647058823529413
-2014.0,McPixel,1.8235294117647058
-2015.0,McPixel,0.8235294117647058
+2013.0,McPixel,-0.11764705882352941
+2014.0,McPixel,1.8823529411764706
+2015.0,McPixel,0.8823529411764706
 2013.0,Medal of Honor™,0.7857142857142857
 2014.0,Medal of Honor™,1.7857142857142858
 2015.0,Medal of Honor™,0.7857142857142857
 2013.0,Medieval II: Total War™ Kingdoms,-0.3333333333333333
 2014.0,Medieval II: Total War™ Kingdoms,-0.3333333333333333
-2013.0,Mercenary Kings,0.0
-2014.0,Mercenary Kings,2.0
+2013.0,Mercenary Kings,0.25
+2014.0,Mercenary Kings,2.25
 2013.0,Metal Drift,-1.0
 2013.0,Miasmata,1.0
 2013.0,Mini Motor Racing EVO,1.0
 2013.0,MirrorMoon EP,0.6666666666666666
 2014.0,MirrorMoon EP,0.6666666666666666
-2013.0,Monaco: What's Yours Is Mine,-0.4772727272727273
-2014.0,Monaco: What's Yours Is Mine,0.5227272727272727
-2015.0,Monaco: What's Yours Is Mine,-0.4772727272727273
-2013.0,Monster Loves You!,-1.0
-2014.0,Monster Loves You!,-1.0
-2015.0,Monster Loves You!,-1.0
+2013.0,Monaco: What's Yours Is Mine,-0.45454545454545453
+2014.0,Monaco: What's Yours Is Mine,0.5454545454545454
+2015.0,Monaco: What's Yours Is Mine,-0.45454545454545453
+2013.0,Monster Loves You!,-0.8
+2014.0,Monster Loves You!,-0.8
+2015.0,Monster Loves You!,-0.8
 2013.0,Mortal Kombat Komplete Edition,-0.3333333333333333
 2014.0,Mortal Kombat Komplete Edition,1.6666666666666667
 2015.0,Mortal Kombat Komplete Edition,2.6666666666666665
@@ -1678,42 +1678,42 @@ review_year,app_name,score_not_recommend
 2013.0,NecroVision,-0.5
 2014.0,NecroVision,-0.5
 2013.0,Need for Speed Undercover,0.0
-2013.0,Nether: Resurrected,1.7564102564102564
-2014.0,Nether: Resurrected,18.756410256410255
-2015.0,Nether: Resurrected,7.756410256410256
-2013.0,Neverwinter,1.5185185185185186
-2014.0,Neverwinter,3.5185185185185186
-2015.0,Neverwinter,0.5185185185185186
+2013.0,Nether: Resurrected,1.8076923076923077
+2014.0,Nether: Resurrected,18.807692307692307
+2015.0,Nether: Resurrected,7.8076923076923075
+2013.0,Neverwinter,1.574074074074074
+2014.0,Neverwinter,3.574074074074074
+2015.0,Neverwinter,0.5740740740740741
 2013.0,Nexuiz,-1.0
 2013.0,Nexus - The Jupiter Incident,-1.0
-2013.0,No More Room in Hell,3.6941580756013748
-2014.0,No More Room in Hell,10.694158075601374
-2015.0,No More Room in Hell,4.694158075601375
-2013.0,ORION: Prelude,-0.2077922077922078
-2014.0,ORION: Prelude,22.792207792207794
-2015.0,ORION: Prelude,2.792207792207792
+2013.0,No More Room in Hell,3.725085910652921
+2014.0,No More Room in Hell,10.72508591065292
+2015.0,No More Room in Hell,4.725085910652921
+2013.0,ORION: Prelude,-0.19480519480519481
+2014.0,ORION: Prelude,22.805194805194805
+2015.0,ORION: Prelude,2.8051948051948052
 2013.0,Of Orcs And Men,-1.0
 2013.0,Omegalodon,-0.3333333333333333
 2014.0,Omegalodon,-0.3333333333333333
 2015.0,Omegalodon,-0.3333333333333333
 2013.0,Omerta - City of Gangsters,-1.0
 2014.0,Omerta - City of Gangsters,-1.0
-2013.0,Outlast,-0.05952380952380952
-2014.0,Outlast,1.9404761904761905
-2015.0,Outlast,-0.05952380952380952
+2013.0,Outlast,-0.047619047619047616
+2014.0,Outlast,1.9523809523809523
+2015.0,Outlast,-0.047619047619047616
 2013.0,Overgrowth,-0.2608695652173913
 2014.0,Overgrowth,0.7391304347826086
 2015.0,Overgrowth,0.7391304347826086
-2013.0,PAYDAY 2,2.6531895777178796
-2014.0,PAYDAY 2,33.65318957771788
-2015.0,PAYDAY 2,149.65318957771788
-2013.0,POSTAL 2,-0.11235955056179775
-2014.0,POSTAL 2,0.8876404494382022
-2015.0,POSTAL 2,1.8876404494382022
+2013.0,PAYDAY 2,2.689128481581312
+2014.0,PAYDAY 2,33.689128481581314
+2015.0,PAYDAY 2,149.68912848158132
+2013.0,POSTAL 2,-0.1348314606741573
+2014.0,POSTAL 2,0.8651685393258427
+2015.0,POSTAL 2,1.8651685393258428
 2013.0,Painkiller Redemption,-1.0
-2013.0,"Papers, Please",0.641025641025641
-2014.0,"Papers, Please",1.641025641025641
-2015.0,"Papers, Please",-0.358974358974359
+2013.0,"Papers, Please",0.6794871794871795
+2014.0,"Papers, Please",1.6794871794871795
+2015.0,"Papers, Please",-0.32051282051282054
 2013.0,Paranautical Activity: Deluxe Atonement Edition,0.6666666666666667
 2014.0,Paranautical Activity: Deluxe Atonement Edition,-0.3333333333333333
 2015.0,Paranautical Activity: Deluxe Atonement Edition,-0.3333333333333333
@@ -1743,9 +1743,9 @@ review_year,app_name,score_not_recommend
 2013.0,Pound of Ground,2.0
 2013.0,"Precipice of Darkness, Episode One",1.0
 2013.0,Prime World: Defenders,-0.5
-2013.0,Prison Architect,-0.4205607476635514
-2014.0,Prison Architect,1.5794392523364487
-2015.0,Prison Architect,0.5794392523364487
+2013.0,Prison Architect,-0.3925233644859813
+2014.0,Prison Architect,1.6074766355140186
+2015.0,Prison Architect,0.6074766355140186
 2013.0,Project Zomboid,-0.32558139534883723
 2014.0,Project Zomboid,-0.32558139534883723
 2015.0,Project Zomboid,-0.32558139534883723
@@ -1757,8 +1757,8 @@ review_year,app_name,score_not_recommend
 2013.0,RACE 07,-0.2
 2014.0,RACE 07,0.8
 2013.0,ROSE Online,2.0
-2013.0,RPG Maker VX Ace,-0.6666666666666666
-2014.0,RPG Maker VX Ace,0.33333333333333337
+2013.0,RPG Maker VX Ace,-0.5555555555555556
+2014.0,RPG Maker VX Ace,0.4444444444444444
 2013.0,RUSH,-0.5
 2015.0,RUSH,0.5
 2013.0,Race The Sun,-0.45
@@ -1776,12 +1776,12 @@ review_year,app_name,score_not_recommend
 2015.0,Receiver,-0.35
 2013.0,Red Faction,0.0
 2014.0,Red Faction,0.0
-2013.0,Remember Me,-0.8333333333333334
-2014.0,Remember Me,-0.8333333333333334
-2015.0,Remember Me,-0.8333333333333334
-2013.0,Resident Evil 6 / Biohazard 6,0.05555555555555555
-2014.0,Resident Evil 6 / Biohazard 6,0.05555555555555555
-2015.0,Resident Evil 6 / Biohazard 6,0.05555555555555555
+2013.0,Remember Me,-0.75
+2014.0,Remember Me,-0.75
+2015.0,Remember Me,-0.75
+2013.0,Resident Evil 6 / Biohazard 6,0.1111111111111111
+2014.0,Resident Evil 6 / Biohazard 6,0.1111111111111111
+2015.0,Resident Evil 6 / Biohazard 6,0.1111111111111111
 2013.0,Resident Evil Revelations / Biohazard Revelations,0.6666666666666667
 2014.0,Resident Evil Revelations / Biohazard Revelations,0.6666666666666667
 2013.0,Resident Evil™ 5/ Biohazard 5®,0.75
@@ -1794,31 +1794,31 @@ review_year,app_name,score_not_recommend
 2013.0,Ridge Racer™ Unbounded,-1.0
 2014.0,Ridge Racer™ Unbounded,-1.0
 2013.0,Rise of Venice,2.0
-2013.0,Rise of the Triad,-0.625
-2014.0,Rise of the Triad,0.375
-2013.0,Risk of Rain,-0.5299145299145299
-2014.0,Risk of Rain,2.47008547008547
-2015.0,Risk of Rain,0.4700854700854701
+2013.0,Rise of the Triad,-0.75
+2014.0,Rise of the Triad,0.25
+2013.0,Risk of Rain,-0.5042735042735043
+2014.0,Risk of Rain,2.4957264957264957
+2015.0,Risk of Rain,0.49572649572649574
 2013.0,Rock of Ages,0.0
 2014.0,Rock of Ages,0.0
 2015.0,Rock of Ages,0.0
 2013.0,Rocksmith® 2014 Edition - Remastered,-0.07692307692307693
 2014.0,Rocksmith® 2014 Edition - Remastered,-0.07692307692307693
 2015.0,Rocksmith® 2014 Edition - Remastered,-0.07692307692307693
-2013.0,Rogue Legacy,-0.5952380952380952
-2014.0,Rogue Legacy,-0.5952380952380952
-2015.0,Rogue Legacy,-0.5952380952380952
+2013.0,Rogue Legacy,-0.5714285714285714
+2014.0,Rogue Legacy,-0.5714285714285714
+2015.0,Rogue Legacy,-0.5714285714285714
 2013.0,RollerCoaster Tycoon® 3: Platinum,-0.5
 2014.0,RollerCoaster Tycoon® 3: Platinum,-0.5
 2015.0,RollerCoaster Tycoon® 3: Platinum,-0.5
-2013.0,Rust,2.693548387096774
-2014.0,Rust,28.693548387096776
-2015.0,Rust,46.693548387096776
+2013.0,Rust,2.7233250620347396
+2014.0,Rust,28.72332506203474
+2015.0,Rust,46.72332506203474
 2013.0,SNOW,-0.4642857142857143
 2014.0,SNOW,0.5357142857142857
 2015.0,SNOW,1.5357142857142856
-2013.0,SPORE™ Creepy & Cute Parts Pack,-0.5
-2015.0,SPORE™ Creepy & Cute Parts Pack,-0.5
+2013.0,SPORE™ Creepy & Cute Parts Pack,0.0
+2015.0,SPORE™ Creepy & Cute Parts Pack,0.0
 2013.0,STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™,-0.8461538461538461
 2014.0,STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™,-0.8461538461538461
 2015.0,STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™,-0.8461538461538461
@@ -1826,9 +1826,9 @@ review_year,app_name,score_not_recommend
 2014.0,STAR WARS™ Republic Commando™,-0.14285714285714285
 2015.0,STAR WARS™ Republic Commando™,-0.14285714285714285
 2013.0,Sacred Citadel,-1.0
-2013.0,Saints Row IV,-0.27751196172248804
-2014.0,Saints Row IV,6.722488038277512
-2015.0,Saints Row IV,2.722488038277512
+2013.0,Saints Row IV,-0.23923444976076555
+2014.0,Saints Row IV,6.760765550239235
+2015.0,Saints Row IV,2.7607655502392343
 2013.0,Sanctum 2,0.5918367346938775
 2014.0,Sanctum 2,0.5918367346938775
 2015.0,Sanctum 2,0.5918367346938775
@@ -1867,18 +1867,18 @@ review_year,app_name,score_not_recommend
 2013.0,SimCity™ 4 Deluxe Edition,0.5
 2014.0,SimCity™ 4 Deluxe Edition,-0.5
 2015.0,SimCity™ 4 Deluxe Edition,-0.5
-2013.0,"Sir, You Are Being Hunted",-0.3
-2014.0,"Sir, You Are Being Hunted",1.7
-2015.0,"Sir, You Are Being Hunted",0.7
-2013.0,Skullgirls,-0.3333333333333333
-2014.0,Skullgirls,0.6666666666666667
-2015.0,Skullgirls,0.6666666666666667
+2013.0,"Sir, You Are Being Hunted",-0.25
+2014.0,"Sir, You Are Being Hunted",1.75
+2015.0,"Sir, You Are Being Hunted",0.75
+2013.0,Skullgirls,-0.3181818181818182
+2014.0,Skullgirls,0.6818181818181819
+2015.0,Skullgirls,0.6818181818181819
 2013.0,Slender: The Arrival,-0.08333333333333333
 2014.0,Slender: The Arrival,0.9166666666666666
 2015.0,Slender: The Arrival,-0.08333333333333333
-2013.0,Sniper Elite V2,-0.532258064516129
-2014.0,Sniper Elite V2,3.467741935483871
-2015.0,Sniper Elite V2,-0.532258064516129
+2013.0,Sniper Elite V2,-0.4838709677419355
+2014.0,Sniper Elite V2,3.5161290322580645
+2015.0,Sniper Elite V2,-0.4838709677419355
 2013.0,Sniper Elite: Nazi Zombie Army,-0.35714285714285715
 2014.0,Sniper Elite: Nazi Zombie Army,2.642857142857143
 2015.0,Sniper Elite: Nazi Zombie Army,-0.35714285714285715
@@ -1888,12 +1888,12 @@ review_year,app_name,score_not_recommend
 2013.0,Sniper: Ghost Warrior 2,0.5714285714285714
 2014.0,Sniper: Ghost Warrior 2,4.571428571428571
 2015.0,Sniper: Ghost Warrior 2,-0.42857142857142855
-2013.0,Soldier Front 2,-0.6176470588235294
-2014.0,Soldier Front 2,0.38235294117647056
-2015.0,Soldier Front 2,1.3823529411764706
-2013.0,Sonic & All-Stars Racing Transformed,-0.4594594594594595
-2014.0,Sonic & All-Stars Racing Transformed,-0.4594594594594595
-2015.0,Sonic & All-Stars Racing Transformed,-0.4594594594594595
+2013.0,Soldier Front 2,-0.5
+2014.0,Soldier Front 2,0.5
+2015.0,Soldier Front 2,1.5
+2013.0,Sonic & All-Stars Racing Transformed,-0.43243243243243246
+2014.0,Sonic & All-Stars Racing Transformed,-0.43243243243243246
+2015.0,Sonic & All-Stars Racing Transformed,-0.43243243243243246
 2013.0,Sonic Adventure 2,-0.36363636363636365
 2014.0,Sonic Adventure 2,-0.36363636363636365
 2015.0,Sonic Adventure 2,-0.36363636363636365
@@ -1901,27 +1901,27 @@ review_year,app_name,score_not_recommend
 2014.0,Sonic the Hedgehog 4 - Episode II,-1.0
 2013.0,Space Empires V,-1.0
 2015.0,Space Empires V,-1.0
-2013.0,Space Hulk,0.0
-2014.0,Space Hulk,0.0
-2013.0,SpeedRunners,0.6385542168674698
-2014.0,SpeedRunners,0.6385542168674698
-2015.0,SpeedRunners,0.6385542168674698
-2013.0,Spelunky,0.6666666666666667
-2014.0,Spelunky,-0.3333333333333333
-2015.0,Spelunky,-0.3333333333333333
+2013.0,Space Hulk,0.25
+2014.0,Space Hulk,0.25
+2013.0,SpeedRunners,0.6626506024096386
+2014.0,SpeedRunners,0.6626506024096386
+2015.0,SpeedRunners,0.6626506024096386
+2013.0,Spelunky,0.7407407407407407
+2014.0,Spelunky,-0.25925925925925924
+2015.0,Spelunky,-0.25925925925925924
 2013.0,Splice,0.0
-2013.0,Star Conflict,-0.39473684210526316
-2014.0,Star Conflict,0.6052631578947368
-2015.0,Star Conflict,0.6052631578947368
-2013.0,Star Trek Online,-0.03225806451612903
-2014.0,Star Trek Online,3.967741935483871
-2015.0,Star Trek Online,2.967741935483871
-2013.0,Starbound,2.4651162790697674
-2014.0,Starbound,8.465116279069768
-2015.0,Starbound,3.4651162790697674
-2013.0,State of Decay,0.7176470588235294
-2014.0,State of Decay,2.7176470588235295
-2015.0,State of Decay,0.7176470588235294
+2013.0,Star Conflict,-0.3684210526315789
+2014.0,Star Conflict,0.631578947368421
+2015.0,Star Conflict,0.631578947368421
+2013.0,Star Trek Online,0.0
+2014.0,Star Trek Online,4.0
+2015.0,Star Trek Online,3.0
+2013.0,Starbound,2.491279069767442
+2014.0,Starbound,8.491279069767442
+2015.0,Starbound,3.491279069767442
+2013.0,State of Decay,0.7529411764705882
+2014.0,State of Decay,2.7529411764705882
+2015.0,State of Decay,0.7529411764705882
 2013.0,SteamWorld Dig,-1.0
 2014.0,SteamWorld Dig,-1.0
 2013.0,Strike Suit Zero,0.1428571428571429
@@ -1930,15 +1930,15 @@ review_year,app_name,score_not_recommend
 2013.0,Stronghold 3 Gold,-0.6
 2014.0,Stronghold 3 Gold,1.4
 2015.0,Stronghold 3 Gold,-0.6
-2013.0,Stronghold Kingdoms,0.7307692307692308
-2014.0,Stronghold Kingdoms,7.730769230769231
-2015.0,Stronghold Kingdoms,0.7307692307692308
+2013.0,Stronghold Kingdoms,0.6923076923076923
+2014.0,Stronghold Kingdoms,7.6923076923076925
+2015.0,Stronghold Kingdoms,0.6923076923076923
 2013.0,Super Amazing Wagon Adventure,0.0625
 2014.0,Super Amazing Wagon Adventure,0.0625
 2015.0,Super Amazing Wagon Adventure,0.0625
-2013.0,Super House of Dead Ninjas,-0.375
-2014.0,Super House of Dead Ninjas,-0.375
-2015.0,Super House of Dead Ninjas,-0.375
+2013.0,Super House of Dead Ninjas,-0.5
+2014.0,Super House of Dead Ninjas,-0.5
+2015.0,Super House of Dead Ninjas,-0.5
 2013.0,Supreme Commander,-0.75
 2014.0,Supreme Commander,-0.75
 2015.0,Supreme Commander,-0.75
@@ -1948,26 +1948,26 @@ review_year,app_name,score_not_recommend
 2013.0,System Shock 2,0.14285714285714285
 2014.0,System Shock 2,0.14285714285714285
 2015.0,System Shock 2,0.14285714285714285
-2013.0,Tactical Intervention,5.858267716535433
-2014.0,Tactical Intervention,19.858267716535433
-2015.0,Tactical Intervention,11.858267716535433
+2013.0,Tactical Intervention,5.866141732283465
+2014.0,Tactical Intervention,19.866141732283463
+2015.0,Tactical Intervention,11.866141732283465
 2013.0,Talisman: Prologue,-1.0
 2013.0,Tetrobot and Co.,-1.0
 2013.0,The Ball,2.0
 2015.0,The Ball,2.0
 2013.0,The Banner Saga: Factions,-1.0
 2013.0,The Basement Collection,0.0
-2013.0,The Bridge,-0.42857142857142855
-2014.0,The Bridge,-0.42857142857142855
-2015.0,The Bridge,-0.42857142857142855
+2013.0,The Bridge,-0.2857142857142857
+2014.0,The Bridge,-0.2857142857142857
+2015.0,The Bridge,-0.2857142857142857
 2013.0,The Bureau: XCOM Declassified,-0.14285714285714285
 2014.0,The Bureau: XCOM Declassified,0.8571428571428572
 2015.0,The Bureau: XCOM Declassified,0.8571428571428572
 2013.0,The Cave,0.0
 2014.0,The Cave,0.0
-2013.0,The Darkness II,-0.041666666666666664
-2014.0,The Darkness II,1.9583333333333333
-2015.0,The Darkness II,-0.041666666666666664
+2013.0,The Darkness II,-0.08333333333333333
+2014.0,The Darkness II,1.9166666666666667
+2015.0,The Darkness II,-0.08333333333333333
 2013.0,The Graveyard,0.0
 2015.0,The Graveyard,0.0
 2013.0,The Incredible Adventures of Van Helsing,-0.42857142857142855
@@ -1981,26 +1981,26 @@ review_year,app_name,score_not_recommend
 2013.0,The Ship: Murder Party,-0.2608695652173913
 2014.0,The Ship: Murder Party,0.7391304347826086
 2015.0,The Ship: Murder Party,-0.2608695652173913
-2013.0,The Showdown Effect,-0.25
-2014.0,The Showdown Effect,0.75
-2015.0,The Showdown Effect,2.75
+2013.0,The Showdown Effect,-0.375
+2014.0,The Showdown Effect,0.625
+2015.0,The Showdown Effect,2.625
 2013.0,The Sims™ 3,-0.52
 2014.0,The Sims™ 3,1.48
 2015.0,The Sims™ 3,-0.52
-2013.0,The Stanley Parable,0.6213592233009708
-2014.0,The Stanley Parable,0.6213592233009708
-2015.0,The Stanley Parable,0.6213592233009708
+2013.0,The Stanley Parable,0.6601941747572815
+2014.0,The Stanley Parable,0.6601941747572815
+2015.0,The Stanley Parable,0.6601941747572815
 2013.0,The Swapper,-0.75
 2014.0,The Swapper,-0.75
 2013.0,The Typing of The Dead: Overkill,-0.42857142857142855
 2014.0,The Typing of The Dead: Overkill,-0.42857142857142855
 2015.0,The Typing of The Dead: Overkill,-0.42857142857142855
-2013.0,The Walking Dead: Season 2,-0.3333333333333333
-2014.0,The Walking Dead: Season 2,0.6666666666666667
-2015.0,The Walking Dead: Season 2,2.6666666666666665
-2013.0,The Wolf Among Us,-0.5692307692307692
-2014.0,The Wolf Among Us,-0.5692307692307692
-2015.0,The Wolf Among Us,0.4307692307692308
+2013.0,The Walking Dead: Season 2,-0.2972972972972973
+2014.0,The Walking Dead: Season 2,0.7027027027027026
+2015.0,The Walking Dead: Season 2,2.7027027027027026
+2013.0,The Wolf Among Us,-0.5230769230769231
+2014.0,The Wolf Among Us,-0.5230769230769231
+2015.0,The Wolf Among Us,0.4769230769230769
 2013.0,They Bleed Pixels,0.0
 2014.0,They Bleed Pixels,0.0
 2015.0,They Bleed Pixels,0.0
@@ -2020,33 +2020,33 @@ review_year,app_name,score_not_recommend
 2013.0,Tom Clancy's Rainbow Six® Vegas 2,-0.75
 2014.0,Tom Clancy's Rainbow Six® Vegas 2,-0.75
 2015.0,Tom Clancy's Rainbow Six® Vegas 2,-0.75
-2013.0,Tom Clancy’s Splinter Cell Blacklist,-0.3333333333333333
-2014.0,Tom Clancy’s Splinter Cell Blacklist,1.6666666666666667
-2015.0,Tom Clancy’s Splinter Cell Blacklist,0.6666666666666667
-2013.0,Tomb Raider,0.6178343949044586
-2014.0,Tomb Raider,-0.3821656050955414
-2015.0,Tomb Raider,1.6178343949044587
+2013.0,Tom Clancy’s Splinter Cell Blacklist,-0.2916666666666667
+2014.0,Tom Clancy’s Splinter Cell Blacklist,1.7083333333333333
+2015.0,Tom Clancy’s Splinter Cell Blacklist,0.7083333333333333
+2013.0,Tomb Raider,0.6305732484076434
+2014.0,Tomb Raider,-0.36942675159235666
+2015.0,Tomb Raider,1.6305732484076434
 2013.0,Tomb Raider I,1.0
 2015.0,Tomb Raider I,2.0
-2013.0,Total War™: ROME II - Emperor Edition,4.6063829787234045
-2014.0,Total War™: ROME II - Emperor Edition,6.6063829787234045
-2015.0,Total War™: ROME II - Emperor Edition,6.6063829787234045
+2013.0,Total War™: ROME II - Emperor Edition,4.659574468085107
+2014.0,Total War™: ROME II - Emperor Edition,6.659574468085107
+2015.0,Total War™: ROME II - Emperor Edition,6.659574468085107
 2013.0,TrackMania² Stadium,0.5
 2014.0,TrackMania² Stadium,0.5
 2015.0,TrackMania² Stadium,-0.5
 2013.0,Trials Evolution: Gold Edition,0.09090909090909091
 2014.0,Trials Evolution: Gold Edition,1.0909090909090908
 2015.0,Trials Evolution: Gold Edition,1.0909090909090908
-2013.0,Tryst,2.0
+2013.0,Tryst,1.0
 2013.0,Two Worlds Epic Edition,0.0
 2014.0,Two Worlds Epic Edition,0.0
 2015.0,Two Worlds Epic Edition,0.0
 2013.0,Ultimate Doom,-0.125
 2014.0,Ultimate Doom,-0.125
 2015.0,Ultimate Doom,-0.125
-2013.0,Ultra Street Fighter® IV,-0.043478260869565216
-2014.0,Ultra Street Fighter® IV,0.9565217391304348
-2015.0,Ultra Street Fighter® IV,-0.043478260869565216
+2013.0,Ultra Street Fighter® IV,0.0
+2014.0,Ultra Street Fighter® IV,1.0
+2015.0,Ultra Street Fighter® IV,0.0
 2013.0,Ultratron,-1.0
 2014.0,Ultratron,-1.0
 2013.0,UnEpic,0.0
@@ -2056,30 +2056,30 @@ review_year,app_name,score_not_recommend
 2014.0,Universe Sandbox,-0.6666666666666666
 2015.0,Universe Sandbox,0.33333333333333337
 2013.0,Unstoppable Gorg,1.0
-2013.0,Verdun,2.6176470588235294
-2014.0,Verdun,-0.38235294117647056
-2015.0,Verdun,1.6176470588235294
-2013.0,Vindictus,-0.2692307692307692
-2014.0,Vindictus,1.7307692307692308
-2015.0,Vindictus,0.7307692307692308
-2013.0,War Thunder,2.6710963455149503
-2014.0,War Thunder,13.67109634551495
-2015.0,War Thunder,14.67109634551495
+2013.0,Verdun,2.656862745098039
+2014.0,Verdun,-0.3431372549019608
+2015.0,Verdun,1.656862745098039
+2013.0,Vindictus,-0.3076923076923077
+2014.0,Vindictus,1.6923076923076923
+2015.0,Vindictus,0.6923076923076923
+2013.0,War Thunder,2.6843853820598005
+2014.0,War Thunder,13.684385382059801
+2015.0,War Thunder,14.684385382059801
 2013.0,War for the Overworld,0.5714285714285714
 2014.0,War for the Overworld,-0.42857142857142855
 2015.0,War for the Overworld,0.5714285714285714
-2013.0,Warframe,2.5338983050847457
-2014.0,Warframe,5.533898305084746
-2015.0,Warframe,13.533898305084746
-2013.0,Wargame: Airland Battle,-0.2222222222222222
-2014.0,Wargame: Airland Battle,-0.2222222222222222
-2015.0,Wargame: Airland Battle,-0.2222222222222222
+2013.0,Warframe,2.5677966101694913
+2014.0,Warframe,5.567796610169491
+2015.0,Warframe,13.567796610169491
+2013.0,Wargame: Airland Battle,-0.1111111111111111
+2014.0,Wargame: Airland Battle,-0.1111111111111111
+2015.0,Wargame: Airland Battle,-0.1111111111111111
 2013.0,Wargame: European Escalation,-0.5
 2014.0,Wargame: European Escalation,1.5
 2015.0,Wargame: European Escalation,-0.5
-2013.0,"Warhammer® 40,000: Dawn of War® - Game of the Year Edition",-0.5454545454545454
-2014.0,"Warhammer® 40,000: Dawn of War® - Game of the Year Edition",-0.5454545454545454
-2015.0,"Warhammer® 40,000: Dawn of War® - Game of the Year Edition",-0.5454545454545454
+2013.0,"Warhammer® 40,000: Dawn of War® - Game of the Year Edition",-0.45454545454545453
+2014.0,"Warhammer® 40,000: Dawn of War® - Game of the Year Edition",-0.45454545454545453
+2015.0,"Warhammer® 40,000: Dawn of War® - Game of the Year Edition",-0.45454545454545453
 2013.0,Wasteland 2: Director's Cut,-0.7142857142857143
 2014.0,Wasteland 2: Director's Cut,0.2857142857142857
 2015.0,Wasteland 2: Director's Cut,-0.7142857142857143
@@ -2098,7 +2098,7 @@ review_year,app_name,score_not_recommend
 2015.0,X Rebirth,0.08333333333333333
 2013.0,X-Blades,-0.6666666666666666
 2013.0,X-COM: Interceptor,-1.0
-2013.0,Ys I & II Chronicles+,1.0
+2013.0,Ys I & II Chronicles+,0.0
 2013.0,eXceed 3rd - Jade Penetrate Black Package,-1.0
 2013.0,iBomber Defense,-1.0
 2013.0,iBomber Defense Pacific,-1.0
@@ -2110,19 +2110,19 @@ review_year,app_name,score_not_recommend
 2014.0,1001 Spikes,-1.0
 2014.0,140,-0.3333333333333333
 2015.0,140,-0.3333333333333333
-2014.0,3089 -- Futuristic Action RPG,-0.25
-2015.0,3089 -- Futuristic Action RPG,-0.25
+2014.0,3089 -- Futuristic Action RPG,0.0
+2015.0,3089 -- Futuristic Action RPG,0.0
 2014.0,3SwitcheD,0.0
 2014.0,6180 the moon,0.0
 2014.0,9.03m,-0.3333333333333333
 2015.0,9.03m,-0.3333333333333333
 2014.0,99 Levels To Hell,3.0
-2014.0,99 Spirits,-1.0
+2014.0,99 Spirits,0.0
 2014.0,9th Company: Roots Of Terror,2.0
-2014.0,A Bird Story,-0.4166666666666667
-2015.0,A Bird Story,-0.4166666666666667
-2014.0,A Story About My Uncle,-0.375
-2015.0,A Story About My Uncle,-0.375
+2014.0,A Bird Story,-0.3333333333333333
+2015.0,A Bird Story,-0.3333333333333333
+2014.0,A Story About My Uncle,-0.3125
+2015.0,A Story About My Uncle,-0.3125
 2014.0,A Virus Named TOM,1.0
 2014.0,A.R.E.S. Extinction Agenda EX,0.0
 2014.0,ACE - Arena: Cyber Evolution,0.25
@@ -2150,8 +2150,8 @@ review_year,app_name,score_not_recommend
 2014.0,Alien Breed 2: Assault,2.0
 2014.0,Alien Rage - Unlimited,-0.3333333333333333
 2015.0,Alien Rage - Unlimited,0.6666666666666667
-2014.0,Alien: Isolation,-0.1568627450980392
-2015.0,Alien: Isolation,1.843137254901961
+2014.0,Alien: Isolation,-0.17647058823529413
+2015.0,Alien: Isolation,1.8235294117647058
 2014.0,Alpha Kimori™ 1,2.0
 2014.0,Alpha Prime,1.0
 2015.0,Alpha Prime,0.0
@@ -2167,32 +2167,32 @@ review_year,app_name,score_not_recommend
 2014.0,Anna - Extended Edition,-0.5
 2014.0,Anomaly 2,0.0
 2014.0,Another World – 20th Anniversary Edition,-1.0
-2014.0,Aperture Tag: The Paint Gun Testing Initiative,2.1818181818181817
-2015.0,Aperture Tag: The Paint Gun Testing Initiative,-0.8181818181818182
-2014.0,ArcheAge,-0.6470588235294118
-2015.0,ArcheAge,3.3529411764705883
+2014.0,Aperture Tag: The Paint Gun Testing Initiative,2.3636363636363638
+2015.0,Aperture Tag: The Paint Gun Testing Initiative,-0.6363636363636364
+2014.0,ArcheAge,-0.5882352941176471
+2015.0,ArcheAge,3.411764705882353
 2014.0,Arena Wars 2,0.0
-2014.0,Assassin's Creed Freedom Cry,-0.75
-2015.0,Assassin's Creed Freedom Cry,0.25
+2014.0,Assassin's Creed Freedom Cry,-0.5
+2015.0,Assassin's Creed Freedom Cry,0.5
 2014.0,Assassin's Creed® Unity,8.925
 2015.0,Assassin's Creed® Unity,7.925
 2014.0,Assassin's Creed™: Director's Cut Edition,-0.75
 2015.0,Assassin's Creed™: Director's Cut Edition,-0.75
-2014.0,Assassin’s Creed® Liberation HD,0.5
+2014.0,Assassin’s Creed® Liberation HD,0.0
 2014.0,Astebreed: Definitive Edition,0.0
 2015.0,Astebreed: Definitive Edition,0.0
 2014.0,Auditorium,1.0
-2014.0,Aura Kingdom,-0.44
-2015.0,Aura Kingdom,1.56
-2014.0,BLOCKADE 3D,2.8627450980392157
-2015.0,BLOCKADE 3D,16.862745098039216
-2014.0,Banished,0.6065573770491803
-2015.0,Banished,1.6065573770491803
+2014.0,Aura Kingdom,-0.4
+2015.0,Aura Kingdom,1.6
+2014.0,BLOCKADE 3D,2.843137254901961
+2015.0,BLOCKADE 3D,16.84313725490196
+2014.0,Banished,0.639344262295082
+2015.0,Banished,1.639344262295082
 2014.0,Battle Chess: Game of Kings™,-1.0
-2014.0,Battle Islands,0.9
-2015.0,Battle Islands,0.9
-2014.0,BattleBlock Theater®,0.6688741721854304
-2015.0,BattleBlock Theater®,2.6688741721854305
+2014.0,Battle Islands,1.1
+2015.0,Battle Islands,1.1
+2014.0,BattleBlock Theater®,0.6754966887417219
+2015.0,BattleBlock Theater®,2.6754966887417218
 2014.0,Battlepaths,0.0
 2014.0,Battlepillars Gold Edition,1.0
 2014.0,Battlestations Pacific,-0.25
@@ -2210,45 +2210,45 @@ review_year,app_name,score_not_recommend
 2014.0,BlazBlue: Calamity Trigger,-0.42857142857142855
 2014.0,Block N Load,-0.0425531914893617
 2015.0,Block N Load,12.957446808510639
-2014.0,Blockstorm,0.5
-2015.0,Blockstorm,0.5
+2014.0,Blockstorm,0.5625
+2015.0,Blockstorm,0.5625
 2014.0,Blood Bowl® Legendary Edition,1.0
 2014.0,Bloons TD 5,-0.5
 2015.0,Bloons TD 5,-0.5
 2014.0,Bone: Out From Boneville,1.0
 2014.0,Boo Bunny Plague,-1.0
 2014.0,Borderlands 2 - Psycho Pack,0.5
-2014.0,Borderlands 2: Assassin Supremacy Pack,-1.0
+2014.0,Borderlands 2: Assassin Supremacy Pack,0.0
 2014.0,Borderlands 2: Headhunter 2: Wattle Gobbler,-1.0
-2014.0,Borderlands: The Pre-Sequel,1.6075949367088609
-2015.0,Borderlands: The Pre-Sequel,8.60759493670886
+2014.0,Borderlands: The Pre-Sequel,1.620253164556962
+2015.0,Borderlands: The Pre-Sequel,8.620253164556962
 2014.0,Botanicula,-1.0
-2014.0,Brawlhalla,-0.4444444444444444
-2015.0,Brawlhalla,0.5555555555555556
-2014.0,Breach & Clear,-0.5
-2015.0,Breach & Clear,-0.5
+2014.0,Brawlhalla,-0.41975308641975306
+2015.0,Brawlhalla,0.5802469135802469
+2014.0,Breach & Clear,-0.25
+2015.0,Breach & Clear,-0.25
 2014.0,Brick-Force,5.05
 2015.0,Brick-Force,12.05
 2014.0,Bridge Constructor,0.0
 2015.0,Bridge Constructor,0.0
 2014.0,Bridge Project,1.0
-2014.0,Broforce,-0.3950617283950617
-2015.0,Broforce,0.6049382716049383
-2014.0,Broken Age,1.368421052631579
-2015.0,Broken Age,0.368421052631579
+2014.0,Broforce,-0.35802469135802467
+2015.0,Broforce,0.6419753086419753
+2014.0,Broken Age,1.3157894736842106
+2015.0,Broken Age,0.3157894736842105
 2014.0,Broken Sword: Director's Cut,-1.0
 2014.0,Bus Driver,0.0
 2015.0,Bus Driver,0.0
 2014.0,CONSORTIUM,-0.3333333333333333
 2014.0,Call of Duty® 2,0.0
-2014.0,Call of Duty®: Advanced Warfare - Gold Edition,5.873239436619718
-2015.0,Call of Duty®: Advanced Warfare - Gold Edition,18.87323943661972
+2014.0,Call of Duty®: Advanced Warfare - Gold Edition,5.859154929577465
+2015.0,Call of Duty®: Advanced Warfare - Gold Edition,18.859154929577464
 2014.0,Call of Duty®: Advanced Warfare - Season Pass,-0.3333333333333333
 2015.0,Call of Duty®: Advanced Warfare - Season Pass,1.6666666666666667
-2014.0,Call of Duty®: Black Ops - Rezurrection Content Pack,-1.0
-2015.0,Call of Duty®: Black Ops - Rezurrection Content Pack,-1.0
-2014.0,Call of Duty®: Black Ops II - Apocalypse,-1.0
-2015.0,Call of Duty®: Black Ops II - Apocalypse,-1.0
+2014.0,Call of Duty®: Black Ops - Rezurrection Content Pack,-0.5
+2015.0,Call of Duty®: Black Ops - Rezurrection Content Pack,-0.5
+2014.0,Call of Duty®: Black Ops II - Apocalypse,-0.6666666666666666
+2015.0,Call of Duty®: Black Ops II - Apocalypse,-0.6666666666666666
 2014.0,Call of Duty®: Black Ops II - Kawaii Personalization Pack,-1.0
 2014.0,Call of Duty®: Black Ops II - Nuketown Zombies Map,-1.0
 2014.0,Cannons Lasers Rockets,2.6
@@ -2271,8 +2271,8 @@ review_year,app_name,score_not_recommend
 2014.0,Cherry Tree High Comedy Club,-1.0
 2014.0,Child of Light,-0.25
 2015.0,Child of Light,1.75
-2014.0,Choice of Robots,-1.0
-2015.0,Choice of Robots,-1.0
+2014.0,Choice of Robots,-0.75
+2015.0,Choice of Robots,-0.75
 2014.0,Chuck's Challenge 3D,1.0
 2014.0,Circuits,1.0
 2014.0,City of Steam: Arkadia,2.3333333333333335
@@ -2298,7 +2298,7 @@ review_year,app_name,score_not_recommend
 2015.0,Counter-Strike Nexon: Zombies,13.928571428571429
 2014.0,Craft The World,-0.3333333333333333
 2015.0,Craft The World,-0.3333333333333333
-2014.0,Crash Time 2,3.6666666666666665
+2014.0,Crash Time 2,3.3333333333333335
 2014.0,Crawl,-0.5
 2015.0,Crawl,-0.5
 2014.0,Crazy Taxi,-0.5
@@ -2316,12 +2316,12 @@ review_year,app_name,score_not_recommend
 2015.0,Cubic Castles,1.1428571428571428
 2014.0,D.I.P.R.I.P. Warm Up,0.5
 2015.0,D.I.P.R.I.P. Warm Up,0.5
-2014.0,DARK SOULS™ II,2.7777777777777777
-2015.0,DARK SOULS™ II,2.7777777777777777
+2014.0,DARK SOULS™ II,2.7901234567901234
+2015.0,DARK SOULS™ II,2.7901234567901234
 2014.0,DARK SOULS™ II Crown of the Ivory King,0.0
 2014.0,DCS: P-51D Mustang,-1.0
-2014.0,DG2: Defense Grid 2,-1.0
-2015.0,DG2: Defense Grid 2,-1.0
+2014.0,DG2: Defense Grid 2,-0.8333333333333334
+2015.0,DG2: Defense Grid 2,-0.8333333333333334
 2014.0,DYNASTY WARRIORS 8: Xtreme Legends Complete Edition / 真・三國無双７ with 猛将伝,2.75
 2015.0,DYNASTY WARRIORS 8: Xtreme Legends Complete Edition / 真・三國無双７ with 猛将伝,-0.25
 2014.0,Damned,0.7692307692307692
@@ -2352,8 +2352,8 @@ review_year,app_name,score_not_recommend
 2014.0,Defy Gravity Extended,-0.26666666666666666
 2015.0,Defy Gravity Extended,3.7333333333333334
 2014.0,Delve Deeper,2.0
-2014.0,Delver,-0.6666666666666666
-2015.0,Delver,-0.6666666666666666
+2014.0,Delver,-0.5
+2015.0,Delver,-0.5
 2014.0,Democracy 2,1.0
 2015.0,Democracy 2,1.0
 2014.0,Demonlisher,2.0
@@ -2361,45 +2361,45 @@ review_year,app_name,score_not_recommend
 2015.0,Deponia,0.0
 2014.0,Depression Quest,3.0555555555555554
 2015.0,Depression Quest,1.0555555555555556
-2014.0,Depth,-0.3793103448275862
-2015.0,Depth,1.6206896551724137
+2014.0,Depth,-0.3620689655172414
+2015.0,Depth,1.6379310344827587
 2014.0,Detective Grimoire,-1.0
 2015.0,Detective Grimoire,-1.0
 2014.0,Deus Ex: The Fall,3.857142857142857
-2014.0,Devil May Cry® 3 Special Edition,1.3333333333333333
+2014.0,Devil May Cry® 3 Special Edition,1.1666666666666667
 2014.0,Disney Universe,1.0
 2014.0,Disney Winnie the Pooh,-1.0
-2014.0,Disney•Pixar Cars 2: The Video Game,0.5
-2015.0,Disney•Pixar Cars 2: The Video Game,1.5
+2014.0,Disney•Pixar Cars 2: The Video Game,0.0
+2015.0,Disney•Pixar Cars 2: The Video Game,1.0
 2014.0,Divine Souls F2P MMO,-0.6666666666666666
 2015.0,Divine Souls F2P MMO,-0.6666666666666666
-2014.0,Divinity: Original Sin (Classic),-0.29411764705882354
-2015.0,Divinity: Original Sin (Classic),-0.29411764705882354
+2014.0,Divinity: Original Sin (Classic),-0.17647058823529413
+2015.0,Divinity: Original Sin (Classic),-0.17647058823529413
 2014.0,Dogs of War Online,-1.0
 2014.0,Don Bradman Cricket 14,0.0
 2015.0,Don Bradman Cricket 14,-1.0
-2014.0,Don't Starve Together,-0.4067796610169492
-2015.0,Don't Starve Together,1.5932203389830508
+2014.0,Don't Starve Together,-0.3813559322033898
+2015.0,Don't Starve Together,1.6186440677966103
 2014.0,Don't Starve: Reign of Giants,0.0
 2014.0,Door Kickers,-0.5
 2015.0,Door Kickers,-0.5
-2014.0,Double Action: Boogaloo,-0.23076923076923078
-2015.0,Double Action: Boogaloo,0.7692307692307692
+2014.0,Double Action: Boogaloo,-0.21153846153846154
+2015.0,Double Action: Boogaloo,0.7884615384615384
 2014.0,Double Dragon: Neon,-1.0
 2015.0,Double Dragon: Neon,-1.0
 2014.0,Dragon: The Game,1.0
-2014.0,Dragons and Titans,0.5
+2014.0,Dragons and Titans,0.625
 2014.0,Dream,1.6
 2015.0,Dream,2.6
-2014.0,Dreamfall Chapters,-0.75
+2014.0,Dreamfall Chapters,-0.5
 2014.0,Driftmoon,-1.0
 2014.0,DubWars,-1.0
 2014.0,DubWars Demo,1.0
 2015.0,DubWars Demo,1.0
 2014.0,Dungeon Defenders Eternity,0.6
 2015.0,Dungeon Defenders Eternity,-0.4
-2014.0,Dungeon Defenders II,0.5609756097560976
-2015.0,Dungeon Defenders II,2.5609756097560976
+2014.0,Dungeon Defenders II,0.5853658536585367
+2015.0,Dungeon Defenders II,2.5853658536585367
 2014.0,Dungeon Siege,0.0
 2015.0,Dungeon Siege,-1.0
 2014.0,ENSLAVED™: Odyssey to the West™ Premium Edition,-0.5
@@ -2410,8 +2410,8 @@ review_year,app_name,score_not_recommend
 2014.0,Edge of Space,3.1818181818181817
 2015.0,Edge of Space,2.1818181818181817
 2014.0,Eets Munchies,0.0
-2014.0,Eldevin,0.33333333333333337
-2015.0,Eldevin,-0.6666666666666666
+2014.0,Eldevin,0.5
+2015.0,Eldevin,-0.5
 2014.0,Eldritch,-0.6666666666666666
 2015.0,Eldritch,-0.6666666666666666
 2014.0,Empires Mod,-0.5
@@ -2428,30 +2428,30 @@ review_year,app_name,score_not_recommend
 2014.0,Epigenesis,0.6666666666666667
 2015.0,Epigenesis,-0.3333333333333333
 2014.0,Escape Dead Island,-1.0
-2014.0,Estranged: Act I,1.3548387096774195
-2015.0,Estranged: Act I,-0.6451612903225806
-2014.0,Eternal Silence,-1.0
+2014.0,Estranged: Act I,1.4193548387096775
+2015.0,Estranged: Act I,-0.5806451612903226
+2014.0,Eternal Silence,0.0
 2014.0,Eternity's Child,1.0
 2014.0,Eufloria HD,-1.0
 2014.0,Euro Truck Simulator 2 - Christmas Paint Jobs Pack,-1.0
-2014.0,Euro Truck Simulator 2 - Going East!,0.0
+2014.0,Euro Truck Simulator 2 - Going East!,0.5
 2014.0,Everlasting Summer,0.42105263157894735
 2015.0,Everlasting Summer,-0.5789473684210527
-2014.0,EvilQuest,1.0
-2014.0,Evolve Stage 2,-0.1
-2015.0,Evolve Stage 2,8.9
+2014.0,EvilQuest,0.0
+2014.0,Evolve Stage 2,-0.08
+2015.0,Evolve Stage 2,8.92
 2014.0,Expansion - Crusader Kings II: Way of Life,1.0
 2014.0,Expansion - Europa Universalis IV: Art of War,0.0
 2014.0,Explodemon,1.0
-2014.0,F1 2014,0.4
-2015.0,F1 2014,-0.6
+2014.0,F1 2014,0.6
+2015.0,F1 2014,-0.4
 2014.0,FATE,-1.0
 2014.0,FINAL FANTASY III,-1.0
 2015.0,FINAL FANTASY III,-1.0
 2014.0,FINAL FANTASY IV,-1.0
 2015.0,FINAL FANTASY IV,-1.0
-2014.0,FINAL FANTASY XIV Online,0.2142857142857143
-2015.0,FINAL FANTASY XIV Online,1.2142857142857144
+2014.0,FINAL FANTASY XIV Online,0.2857142857142857
+2015.0,FINAL FANTASY XIV Online,1.2857142857142856
 2014.0,FINAL FANTASY® XIII,1.5833333333333333
 2015.0,FINAL FANTASY® XIII,0.5833333333333333
 2014.0,FINAL FANTASY® XIII-2,-0.3333333333333333
@@ -2460,18 +2460,18 @@ review_year,app_name,score_not_recommend
 2014.0,FLASHOUT 2,-1.0
 2014.0,Fable Anniversary,-0.3076923076923077
 2015.0,Fable Anniversary,-0.3076923076923077
-2014.0,FaceRig,-0.6153846153846154
-2015.0,FaceRig,1.3846153846153846
+2014.0,FaceRig,-0.5384615384615384
+2015.0,FaceRig,1.4615384615384617
 2014.0,Fading Hearts,-1.0
 2015.0,Fading Hearts,-1.0
 2014.0,Fallout New Vegas: Dead Money,1.0
-2014.0,Far Cry® 4,0.625
-2015.0,Far Cry® 4,1.625
-2014.0,FarSky,-0.45454545454545453
-2015.0,FarSky,-0.45454545454545453
+2014.0,Far Cry® 4,0.675
+2015.0,Far Cry® 4,1.675
+2014.0,FarSky,-0.36363636363636365
+2015.0,FarSky,-0.36363636363636365
 2014.0,Farm for your Life,-1.0
-2014.0,Farming Simulator 15,0.4285714285714286
-2015.0,Farming Simulator 15,-0.5714285714285714
+2014.0,Farming Simulator 15,0.47619047619047616
+2015.0,Farming Simulator 15,-0.5238095238095238
 2014.0,Feeding Frenzy 2 Deluxe,-0.3333333333333333
 2015.0,Feeding Frenzy 2 Deluxe,-0.3333333333333333
 2014.0,Fiesta Online NA,0.0
@@ -2481,12 +2481,12 @@ review_year,app_name,score_not_recommend
 2014.0,Finding Teddy,-0.5
 2014.0,Firefighters 2014,-1.0
 2014.0,Fish Fillets 2,1.0
-2014.0,Fistful of Frags,2.7209302325581395
-2015.0,Fistful of Frags,0.7209302325581395
-2014.0,Five Nights at Freddy's,5.953271028037383
-2015.0,Five Nights at Freddy's,6.953271028037383
-2014.0,Five Nights at Freddy's 2,-0.3225806451612903
-2015.0,Five Nights at Freddy's 2,1.6774193548387097
+2014.0,Fistful of Frags,2.751937984496124
+2015.0,Fistful of Frags,0.751937984496124
+2014.0,Five Nights at Freddy's,5.962616822429907
+2015.0,Five Nights at Freddy's,6.962616822429907
+2014.0,Five Nights at Freddy's 2,-0.27419354838709675
+2015.0,Five Nights at Freddy's 2,1.7258064516129032
 2014.0,Flatout 3: Chaos & Destruction,1.0
 2015.0,Flatout 3: Chaos & Destruction,2.0
 2014.0,Flight of the Icarus,1.5
@@ -2502,12 +2502,12 @@ review_year,app_name,score_not_recommend
 2014.0,FortressCraft Evolved!,1.2
 2015.0,FortressCraft Evolved!,1.2
 2014.0,Foul Play,-1.0
-2014.0,Fractured Space,-0.3225806451612903
-2015.0,Fractured Space,0.6774193548387097
+2014.0,Fractured Space,-0.3548387096774194
+2015.0,Fractured Space,0.6451612903225806
 2014.0,Freddi Fish 3: The Case of the Stolen Conch Shell,1.0
 2014.0,Freddi Fish and The Case of the Missing Kelp Seeds,-0.5
-2014.0,Free to Play,0.3928571428571429
-2015.0,Free to Play,-0.6071428571428571
+2014.0,Free to Play,0.4107142857142857
+2015.0,Free to Play,-0.5892857142857143
 2014.0,Freedom Force,1.0
 2014.0,Freedom Planet,-0.5
 2015.0,Freedom Planet,1.5
@@ -2524,10 +2524,10 @@ review_year,app_name,score_not_recommend
 2014.0,Galcon 2: Galactic Conquest,0.0
 2015.0,Galcon 2: Galactic Conquest,0.0
 2014.0,Game Tycoon 1.5,2.0
-2014.0,Game of Thrones - A Telltale Games Series,-0.2
-2015.0,Game of Thrones - A Telltale Games Series,2.8
-2014.0,Gang Beasts,-0.16
-2015.0,Gang Beasts,1.84
+2014.0,Game of Thrones - A Telltale Games Series,-0.14285714285714285
+2015.0,Game of Thrones - A Telltale Games Series,2.857142857142857
+2014.0,Gang Beasts,-0.12
+2015.0,Gang Beasts,1.88
 2014.0,Gardens Inc. – From Rakes to Riches,-1.0
 2014.0,Garshasp: The Monster Slayer,2.0
 2014.0,Gas Guzzlers Extreme,-1.0
@@ -2543,8 +2543,8 @@ review_year,app_name,score_not_recommend
 2014.0,Glitchspace,-1.0
 2014.0,Go! Go! Nippon! ~My First Trip to Japan~,0.5333333333333333
 2015.0,Go! Go! Nippon! ~My First Trip to Japan~,0.5333333333333333
-2014.0,Goat Simulator,14.754512635379061
-2015.0,Goat Simulator,7.754512635379061
+2014.0,Goat Simulator,14.772563176895307
+2015.0,Goat Simulator,7.772563176895307
 2014.0,Gods Will Be Watching,0.5714285714285714
 2015.0,Gods Will Be Watching,-0.42857142857142855
 2014.0,Gods vs Humans,-1.0
@@ -2556,8 +2556,8 @@ review_year,app_name,score_not_recommend
 2015.0,Guacamelee! Gold Edition,-0.8
 2014.0,Guardians of Middle-earth,0.5
 2015.0,Guardians of Middle-earth,1.5
-2014.0,GunZ 2: The Second Duel,13.942307692307692
-2015.0,GunZ 2: The Second Duel,2.9423076923076925
+2014.0,GunZ 2: The Second Duel,13.961538461538462
+2015.0,GunZ 2: The Second Duel,2.9615384615384617
 2014.0,Gunman Clive,-0.75
 2015.0,Gunman Clive,-0.75
 2014.0,Guns and Robots,3.1666666666666665
@@ -2571,19 +2571,19 @@ review_year,app_name,score_not_recommend
 2014.0,Halo: Spartan Assault,-0.9444444444444444
 2015.0,Halo: Spartan Assault,0.05555555555555558
 2014.0,Hammerfight,1.8
-2014.0,Hand of Fate,-0.7777777777777778
-2015.0,Hand of Fate,-0.7777777777777778
+2014.0,Hand of Fate,-0.6666666666666666
+2015.0,Hand of Fate,-0.6666666666666666
 2014.0,Hardland,-1.0
 2014.0,Hatoful Boyfriend,-0.2727272727272727
 2015.0,Hatoful Boyfriend,-0.2727272727272727
 2014.0,Heavy Bullets,-0.3333333333333333
 2014.0,Heli Heroes,1.5
 2015.0,Heli Heroes,1.5
-2014.0,Hero Siege,-0.08695652173913043
-2015.0,Hero Siege,1.9130434782608696
+2014.0,Hero Siege,-0.043478260869565216
+2015.0,Hero Siege,1.9565217391304348
 2014.0,Hero of the Kingdom,1.0
-2014.0,Heroes & Generals,14.652542372881356
-2015.0,Heroes & Generals,29.652542372881356
+2014.0,Heroes & Generals,14.65677966101695
+2015.0,Heroes & Generals,29.656779661016948
 2014.0,Heroes Rise: The Prodigy,0.0
 2015.0,Heroes Rise: The Prodigy,0.0
 2014.0,Heroine's Quest: The Herald of Ragnarok,-1.0
@@ -2604,8 +2604,8 @@ review_year,app_name,score_not_recommend
 2014.0,Hydrophobia: Prophecy,2.0
 2015.0,Hydrophobia: Prophecy,0.0
 2014.0,I Am Alive,2.0
-2014.0,I am Bread,0.9130434782608696
-2015.0,I am Bread,2.9130434782608696
+2014.0,I am Bread,0.8260869565217391
+2015.0,I am Bread,2.8260869565217392
 2014.0,IL-2 Sturmovik: Battle of Stalingrad,1.0
 2014.0,Industry Empire,2.0
 2014.0,Infectonator: Survivors,0.0
@@ -2648,16 +2648,16 @@ review_year,app_name,score_not_recommend
 2015.0,Kung Fu Strike - The Warrior's Rise,0.0
 2014.0,Kung Fu Strike: The Warrior's Rise - Master Level,0.0
 2014.0,LARA CROFT AND THE TEMPLE OF OSIRIS™,1.0
-2014.0,LEGO Batman,0.5
-2015.0,LEGO Batman,-0.5
+2014.0,LEGO Batman,0.75
+2015.0,LEGO Batman,-0.25
 2014.0,LEGO® Batman™3: Beyond Gotham,-0.125
 2015.0,LEGO® Batman™3: Beyond Gotham,0.875
 2014.0,LEGO® The Hobbit™,1.0
 2015.0,LEGO® The Hobbit™,1.0
 2014.0,LOST PLANET® 3,-0.6
 2015.0,LOST PLANET® 3,-0.6
-2014.0,LOVE,-0.25
-2015.0,LOVE,-0.25
+2014.0,LOVE,0.0
+2015.0,LOVE,0.0
 2014.0,LUFTRAUSERS,-0.2727272727272727
 2015.0,LUFTRAUSERS,-0.2727272727272727
 2014.0,LYNE,0.1111111111111111
@@ -2670,8 +2670,8 @@ review_year,app_name,score_not_recommend
 2015.0,Legend of Grimrock 2,0.0
 2014.0,Legends of Aethereus,0.0
 2014.0,Let's Sing,-1.0
-2014.0,Lethal League,-0.47619047619047616
-2015.0,Lethal League,-0.47619047619047616
+2014.0,Lethal League,-0.42857142857142855
+2015.0,Lethal League,-0.42857142857142855
 2014.0,Lichdom: Battlemage,-0.5
 2015.0,Lichdom: Battlemage,0.5
 2014.0,Life Goes On: Done to Death,-1.0
@@ -2693,10 +2693,10 @@ review_year,app_name,score_not_recommend
 2014.0,Lume,2.0
 2014.0,Lunar Flight,2.0
 2014.0,M.U.D. TV,1.0
-2014.0,METAL GEAR RISING: REVENGEANCE,0.53125
-2015.0,METAL GEAR RISING: REVENGEANCE,0.53125
-2014.0,METAL GEAR SOLID V: GROUND ZEROES,-0.7
-2015.0,METAL GEAR SOLID V: GROUND ZEROES,-0.7
+2014.0,METAL GEAR RISING: REVENGEANCE,0.5625
+2015.0,METAL GEAR RISING: REVENGEANCE,0.5625
+2014.0,METAL GEAR SOLID V: GROUND ZEROES,-0.65
+2015.0,METAL GEAR SOLID V: GROUND ZEROES,-0.65
 2014.0,METAL SLUG 3,0.7222222222222222
 2015.0,METAL SLUG 3,-0.2777777777777778
 2014.0,Mabinogi,2.111111111111111
@@ -2755,16 +2755,16 @@ review_year,app_name,score_not_recommend
 2014.0,Mountain,0.9166666666666666
 2015.0,Mountain,0.9166666666666666
 2014.0,Ms. Splosion Man,-1.0
-2014.0,Murder Miners,0.4
-2015.0,Murder Miners,0.4
+2014.0,Murder Miners,0.4666666666666667
+2015.0,Murder Miners,0.4666666666666667
 2014.0,Murdered: Soul Suspect,0.5714285714285714
 2015.0,Murdered: Soul Suspect,-0.42857142857142855
 2014.0,My Lands: Black Gem Hunting,-0.5
 2015.0,My Lands: Black Gem Hunting,-0.5
 2014.0,My Riding Stables: Life with Horses,-1.0
 2015.0,My Riding Stables: Life with Horses,-1.0
-2014.0,NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD,-0.3870967741935484
-2015.0,NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD,-0.3870967741935484
+2014.0,NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD,-0.3548387096774194
+2015.0,NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD,-0.3548387096774194
 2014.0,NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution,-0.6363636363636364
 2015.0,NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution,-0.6363636363636364
 2014.0,NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution - DLC10 Reanimation-Before Death Pack,-1.0
@@ -2773,15 +2773,15 @@ review_year,app_name,score_not_recommend
 2014.0,NEOTOKYO,1.6666666666666667
 2014.0,NaissanceE,-1.0
 2014.0,Nancy Drew®: Legend of the Crystal Skull,1.0
-2014.0,Nancy Drew®: The White Wolf of Icicle Creek,-1.0
-2014.0,Narcissu 1st & 2nd,-0.5625
-2015.0,Narcissu 1st & 2nd,-0.5625
+2014.0,Nancy Drew®: The White Wolf of Icicle Creek,0.0
+2014.0,Narcissu 1st & 2nd,-0.5
+2015.0,Narcissu 1st & 2nd,-0.5
 2014.0,Naval War: Arctic Circle,-1.0
 2014.0,Neighbours from Hell Compilation,1.0
-2014.0,Next Car Game: Wreckfest,0.5555555555555556
-2015.0,Next Car Game: Wreckfest,0.5555555555555556
-2014.0,Nidhogg,1.5769230769230769
-2015.0,Nidhogg,1.5769230769230769
+2014.0,Next Car Game: Wreckfest,0.5185185185185186
+2015.0,Next Car Game: Wreckfest,0.5185185185185186
+2014.0,Nidhogg,1.5384615384615383
+2015.0,Nidhogg,1.5384615384615383
 2014.0,Nightmares from the Deep: The Cursed Heart,0.0
 2014.0,Nihilumbra,-1.0
 2014.0,Nimble Quest,-1.0
@@ -2792,16 +2792,16 @@ review_year,app_name,score_not_recommend
 2014.0,Nuclear Throne,-0.12195121951219512
 2015.0,Nuclear Throne,-0.12195121951219512
 2014.0,Numen: Contest of Heroes,-1.0
-2014.0,OMSI 2: Steam Edition,-0.5
-2015.0,OMSI 2: Steam Edition,1.5
+2014.0,OMSI 2: Steam Edition,-0.375
+2015.0,OMSI 2: Steam Edition,1.625
 2014.0,OTTTD,-0.3333333333333333
 2015.0,OTTTD,-0.3333333333333333
 2014.0,Obscure,-1.0
 2015.0,Obscure,-1.0
 2014.0,Obscure II (Obscure: The Aftermath),-1.0
 2014.0,Obulis,-1.0
-2014.0,Octodad: Dadliest Catch,-0.5151515151515151
-2015.0,Octodad: Dadliest Catch,-0.5151515151515151
+2014.0,Octodad: Dadliest Catch,-0.36363636363636365
+2015.0,Octodad: Dadliest Catch,-0.36363636363636365
 2014.0,Oddworld: Stranger's Wrath HD,-0.6
 2015.0,Oddworld: Stranger's Wrath HD,-0.6
 2014.0,Off-Road Drive,0.0
@@ -2809,8 +2809,8 @@ review_year,app_name,score_not_recommend
 2014.0,OlliOlli,0.75
 2015.0,OlliOlli,0.75
 2014.0,One Day For Ched,1.0
-2014.0,One Finger Death Punch,-0.13043478260869565
-2015.0,One Finger Death Punch,-0.13043478260869565
+2014.0,One Finger Death Punch,-0.15217391304347827
+2015.0,One Finger Death Punch,-0.15217391304347827
 2014.0,One Way Heroics,-0.16666666666666666
 2015.0,One Way Heroics,0.8333333333333334
 2014.0,Only If,1.0
@@ -2823,8 +2823,8 @@ review_year,app_name,score_not_recommend
 2014.0,Organic Panic,-1.0
 2014.0,Outland,-1.0
 2014.0,Over 9000 Zombies!,-1.0
-2014.0,PAC-MAN™ Championship Edition DX+,-0.42105263157894735
-2015.0,PAC-MAN™ Championship Edition DX+,-0.42105263157894735
+2014.0,PAC-MAN™ Championship Edition DX+,-0.3157894736842105
+2015.0,PAC-MAN™ Championship Edition DX+,-0.3157894736842105
 2014.0,PAC-MAN™ and the Ghostly Adventures,1.0
 2014.0,PAYDAY 2: Clover Character Pack,0.5
 2015.0,PAYDAY 2: Clover Character Pack,0.5
@@ -2845,7 +2845,7 @@ review_year,app_name,score_not_recommend
 2014.0,Pajama Sam: No Need to Hide When It's Dark Outside,-1.0
 2015.0,Pajama Sam: No Need to Hide When It's Dark Outside,-1.0
 2014.0,Paper Sorcerer,-1.0
-2014.0,Papo & Yo,0.0
+2014.0,Papo & Yo,0.33333333333333337
 2014.0,Penguins Arena: Sedna's World,-0.5
 2015.0,Penguins Arena: Sedna's World,-0.5
 2014.0,Pid,-0.75
@@ -2857,11 +2857,11 @@ review_year,app_name,score_not_recommend
 2014.0,Planet Explorers,1.2222222222222223
 2015.0,Planet Explorers,-0.7777777777777778
 2014.0,Plant Tycoon,-1.0
-2014.0,Plants vs. Zombies GOTY Edition,-0.2857142857142857
-2015.0,Plants vs. Zombies GOTY Edition,-0.2857142857142857
+2014.0,Plants vs. Zombies GOTY Edition,-0.14285714285714285
+2015.0,Plants vs. Zombies GOTY Edition,-0.14285714285714285
 2014.0,PlayClaw 5 - Game Recording and Streaming,-1.0
-2014.0,Portal 2 Soundtrack,-1.0
-2015.0,Portal 2 Soundtrack,-1.0
+2014.0,Portal 2 Soundtrack,-0.6666666666666666
+2015.0,Portal 2 Soundtrack,-0.6666666666666666
 2014.0,Postal III,2.6666666666666665
 2015.0,Postal III,2.6666666666666665
 2014.0,Potatoman Seeks the Troof,0.3333333333333333
@@ -2905,7 +2905,7 @@ review_year,app_name,score_not_recommend
 2014.0,Reflex Arena,-1.0
 2015.0,Reflex Arena,-1.0
 2014.0,ReignMaker,2.0
-2014.0,Retro/Grade,-1.0
+2014.0,Retro/Grade,0.0
 2014.0,Reversion - The Escape (1st Chapter),-1.0
 2014.0,Richard & Alice,1.0
 2014.0,Rise of Nations: Extended Edition,0.5
@@ -2915,8 +2915,8 @@ review_year,app_name,score_not_recommend
 2014.0,Road Not Taken,0.0
 2014.0,Road Redemption,-0.5454545454545454
 2015.0,Road Redemption,2.4545454545454546
-2014.0,Robocraft,22.61918604651163
-2015.0,Robocraft,20.61918604651163
+2014.0,Robocraft,22.6453488372093
+2015.0,Robocraft,20.6453488372093
 2014.0,Robot Roller-Derby Disco Dodgeball,-0.5
 2015.0,Robot Roller-Derby Disco Dodgeball,-0.5
 2014.0,Rocketbirds: Hardboiled Chicken,2.25
@@ -2928,25 +2928,25 @@ review_year,app_name,score_not_recommend
 2015.0,RollerCoaster Tycoon®: Deluxe,-1.0
 2014.0,Roogoo,-0.6666666666666666
 2015.0,Roogoo,-0.6666666666666666
-2014.0,Rooster Teeth vs. Zombiens,-1.0
-2015.0,Rooster Teeth vs. Zombiens,-1.0
+2014.0,Rooster Teeth vs. Zombiens,-0.5
+2015.0,Rooster Teeth vs. Zombiens,-0.5
 2014.0,Royal Quest,0.1428571428571429
 2015.0,Royal Quest,-0.8571428571428571
 2014.0,Rugby League Live 3 Demo,-1.0
 2015.0,Rugby League Live 3 Demo,-1.0
 2014.0,Rugby Union Team Manager 2015,-1.0
-2014.0,Runers,-1.0
+2014.0,Runers,0.0
 2014.0,Rush Bros.,1.6
 2014.0,Ryse: Son of Rome,-0.875
 2015.0,Ryse: Son of Rome,0.125
-2014.0,SPINTIRES™,0.825
-2015.0,SPINTIRES™,0.825
-2014.0,STAR WARS™ - Dark Forces,-1.0
-2015.0,STAR WARS™ - Dark Forces,-1.0
+2014.0,SPINTIRES™,0.85
+2015.0,SPINTIRES™,0.85
+2014.0,STAR WARS™ - Dark Forces,-0.8
+2015.0,STAR WARS™ - Dark Forces,-0.8
 2014.0,STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition,0.1111111111111111
 2015.0,STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition,3.111111111111111
-2014.0,STAR WARS™ Empire at War - Gold Pack,-1.0
-2015.0,STAR WARS™ Empire at War - Gold Pack,-1.0
+2014.0,STAR WARS™ Empire at War - Gold Pack,-0.8
+2015.0,STAR WARS™ Empire at War - Gold Pack,-0.8
 2014.0,STAR WARS™ Jedi Knight: Dark Forces II,-1.0
 2015.0,STAR WARS™ Jedi Knight: Dark Forces II,-1.0
 2014.0,STARWHAL,-0.5714285714285714
@@ -2968,8 +2968,8 @@ review_year,app_name,score_not_recommend
 2014.0,School of Dragons,4.0
 2015.0,School of Dragons,1.0
 2014.0,Scourge: Outbreak,-1.0
-2014.0,Screencheat,-0.8571428571428571
-2015.0,Screencheat,-0.8571428571428571
+2014.0,Screencheat,-0.7142857142857143
+2015.0,Screencheat,-0.7142857142857143
 2014.0,Secret Ponchos,0.4
 2015.0,Secret Ponchos,1.4
 2014.0,Serena,-0.42857142857142855
@@ -2995,10 +2995,10 @@ review_year,app_name,score_not_recommend
 2015.0,ShootMania Storm,0.5
 2014.0,Shovel Knight: Treasure Trove,-0.29411764705882354
 2015.0,Shovel Knight: Treasure Trove,-0.29411764705882354
-2014.0,Sid Meier's Civilization V: Brave New World,-1.0
-2015.0,Sid Meier's Civilization V: Brave New World,-1.0
-2014.0,Sid Meier's Civilization®: Beyond Earth™,3.5789473684210527
-2015.0,Sid Meier's Civilization®: Beyond Earth™,5.578947368421053
+2014.0,Sid Meier's Civilization V: Brave New World,-0.8
+2015.0,Sid Meier's Civilization V: Brave New World,-0.8
+2014.0,Sid Meier's Civilization®: Beyond Earth™,3.6052631578947367
+2015.0,Sid Meier's Civilization®: Beyond Earth™,5.605263157894737
 2014.0,Sid Meier's Pirates!,-0.25
 2015.0,Sid Meier's Pirates!,-0.25
 2014.0,Signs of Life,1.0
@@ -3014,14 +3014,14 @@ review_year,app_name,score_not_recommend
 2014.0,Skyward Collapse,-1.0
 2014.0,Sleeping Dogs - High Resolution Texture Pack,2.0
 2014.0,Sniper Art of Victory,0.5
-2014.0,Sniper Elite 3,1.380952380952381
-2015.0,Sniper Elite 3,-0.6190476190476191
+2014.0,Sniper Elite 3,1.4285714285714286
+2015.0,Sniper Elite 3,-0.5714285714285714
 2014.0,SolForge,-1.0
 2014.0,Sonic Adventure DX,1.0
 2015.0,Sonic Adventure DX,1.0
 2014.0,Soundodger+,0.0
-2014.0,South Park™: The Stick of Truth™,1.4782608695652173
-2015.0,South Park™: The Stick of Truth™,-0.5217391304347826
+2014.0,South Park™: The Stick of Truth™,1.5434782608695652
+2015.0,South Park™: The Stick of Truth™,-0.45652173913043476
 2014.0,Space Farmers,-0.5
 2014.0,Space Hack,0.0
 2014.0,Space Hulk Ascension,-1.0
@@ -3030,19 +3030,19 @@ review_year,app_name,score_not_recommend
 2014.0,Space Trader: Merchant Marine,2.3333333333333335
 2014.0,Spacebase DF-9,1.0
 2015.0,Spacebase DF-9,1.0
-2014.0,Sparkle 2 Evo,0.6666666666666667
+2014.0,Sparkle 2 Evo,0.33333333333333337
 2014.0,Spate,2.0
 2014.0,Spiral Knights: Operation Crimson Hammer,-1.0
 2014.0,Spirited Heart Deluxe,-1.0
-2014.0,Spirits,-1.0
+2014.0,Spirits,0.0
 2014.0,Spoiler Alert,0.6666666666666666
 2015.0,Spoiler Alert,0.6666666666666666
 2014.0,Sprint Cars Road to Knoxville,-1.0
 2014.0,Spy Chameleon - RGB Agent,-0.3333333333333333
 2015.0,Spy Chameleon - RGB Agent,-0.3333333333333333
 2014.0,"Spy Fox 2 ""Some Assembly Required""",-1.0
-2014.0,Squishy the Suicidal Pig,-0.5
-2015.0,Squishy the Suicidal Pig,1.5
+2014.0,Squishy the Suicidal Pig,-0.4
+2015.0,Squishy the Suicidal Pig,1.6
 2014.0,Stacking,-1.0
 2014.0,Star Swarm Stress Test,-1.0
 2014.0,StarDrive,0.0
@@ -3061,7 +3061,7 @@ review_year,app_name,score_not_recommend
 2015.0,Stronghold Crusader 2,0.0
 2014.0,Stronghold Crusader HD,0.8
 2015.0,Stronghold Crusader HD,-0.2
-2014.0,Stronghold HD,0.0
+2014.0,Stronghold HD,0.5
 2014.0,Styx: Master of Shadows,0.75
 2014.0,Sudeki,-1.0
 2014.0,Super Game Jam,-1.0
@@ -3077,11 +3077,11 @@ review_year,app_name,score_not_recommend
 2014.0,Sword of the Samurai,-1.0
 2014.0,Sword of the Stars II: Enhanced Edition,2.0
 2014.0,Sword of the Stars: Complete Collection,-1.0
-2014.0,Sword of the Stars: The Pit,-0.3333333333333333
-2015.0,Sword of the Stars: The Pit,0.6666666666666667
+2014.0,Sword of the Stars: The Pit,0.0
+2015.0,Sword of the Stars: The Pit,1.0
 2014.0,T.E.C. 3001,1.0
-2014.0,THE KING OF FIGHTERS XIII STEAM EDITION,0.0
-2015.0,THE KING OF FIGHTERS XIII STEAM EDITION,0.0
+2014.0,THE KING OF FIGHTERS XIII STEAM EDITION,-0.14285714285714285
+2015.0,THE KING OF FIGHTERS XIII STEAM EDITION,-0.14285714285714285
 2014.0,TUG,-0.5
 2015.0,TUG,-0.5
 2014.0,Tabletop Simulator,0.0
@@ -3101,8 +3101,8 @@ review_year,app_name,score_not_recommend
 2014.0,The Age of Decadence,-1.0
 2014.0,The Banner Saga,0.33333333333333337
 2015.0,The Banner Saga,-0.6666666666666666
-2014.0,The Binding of Isaac: Rebirth,-0.3783783783783784
-2015.0,The Binding of Isaac: Rebirth,-0.3783783783783784
+2014.0,The Binding of Isaac: Rebirth,-0.34459459459459457
+2015.0,The Binding of Isaac: Rebirth,-0.34459459459459457
 2014.0,The Blue Flamingo,-1.0
 2014.0,The Castle Doctrine,1.5
 2014.0,The Cat Lady,-0.5
@@ -3114,20 +3114,20 @@ review_year,app_name,score_not_recommend
 2014.0,The Dark Eye: Chains of Satinav,-1.0
 2014.0,The Deer God,0.0
 2015.0,The Deer God,0.0
-2014.0,The Elder Scrolls® Online: Tamriel Unlimited™,0.8529411764705882
-2015.0,The Elder Scrolls® Online: Tamriel Unlimited™,2.8529411764705883
-2014.0,The Escapists,-0.3125
-2015.0,The Escapists,2.6875
+2014.0,The Elder Scrolls® Online: Tamriel Unlimited™,0.9117647058823529
+2015.0,The Elder Scrolls® Online: Tamriel Unlimited™,2.911764705882353
+2014.0,The Escapists,-0.25
+2015.0,The Escapists,2.75
 2014.0,The Evil Within,0.6666666666666666
 2015.0,The Evil Within,0.6666666666666666
-2014.0,The Expendabros,-0.40476190476190477
-2015.0,The Expendabros,-0.40476190476190477
+2014.0,The Expendabros,-0.38095238095238093
+2015.0,The Expendabros,-0.38095238095238093
 2014.0,The Fall,0.8888888888888888
 2015.0,The Fall,-0.1111111111111111
 2014.0,The Fifth Day,-0.2
 2015.0,The Fifth Day,0.8
-2014.0,The Forest,9.629268292682926
-2015.0,The Forest,1.629268292682927
+2014.0,The Forest,9.658536585365853
+2015.0,The Forest,1.6585365853658536
 2014.0,The Great Jitters: Pudding Panic,1.0
 2014.0,The Impossible Game,0.0
 2015.0,The Impossible Game,0.0
@@ -3136,16 +3136,16 @@ review_year,app_name,score_not_recommend
 2014.0,The LEGO® Movie - Videogame,-0.16666666666666666
 2015.0,The LEGO® Movie - Videogame,-0.16666666666666666
 2014.0,The Last Tinker™: City of Colors,-1.0
-2014.0,The Long Dark,-0.2926829268292683
-2015.0,The Long Dark,-0.2926829268292683
+2014.0,The Long Dark,-0.2682926829268293
+2015.0,The Long Dark,-0.2682926829268293
 2014.0,The Moon Sliver,1.0
 2015.0,The Moon Sliver,0.0
 2014.0,The Nightmare Cooperative,0.0
 2014.0,The Novelist,-1.0
 2014.0,The Old City: Leviathan,-1.0
 2015.0,The Old City: Leviathan,-1.0
-2014.0,The Plan,3.776315789473684
-2015.0,The Plan,-0.2236842105263158
+2014.0,The Plan,3.7894736842105265
+2015.0,The Plan,-0.21052631578947367
 2014.0,The Promised Land,-1.0
 2014.0,The Repopulation,2.0
 2014.0,The Sandbox,0.3333333333333333
@@ -3159,21 +3159,21 @@ review_year,app_name,score_not_recommend
 2014.0,The Tiny Bang Story,-1.0
 2014.0,The Vanishing of Ethan Carter,-0.6666666666666666
 2015.0,The Vanishing of Ethan Carter,-0.6666666666666666
-2014.0,The Way of Life Free Edition,-0.125
-2015.0,The Way of Life Free Edition,7.875
+2014.0,The Way of Life Free Edition,-0.1
+2015.0,The Way of Life Free Edition,7.9
 2014.0,The World II: Hunting BOSS,-1.0
 2014.0,The Yawhg,1.0
 2014.0,They Breathe,0.0
-2014.0,Thief,4.777777777777778
-2015.0,Thief,2.7777777777777777
+2014.0,Thief,4.814814814814815
+2015.0,Thief,2.814814814814815
 2014.0,Thief: Deadly Shadows,-0.3333333333333333
 2014.0,Thief™ Gold,-0.5
 2015.0,Thief™ Gold,-0.5
 2014.0,Thief™ II: The Metal Age,-1.0
-2014.0,Thinking with Time Machine,0.625
-2015.0,Thinking with Time Machine,0.625
-2014.0,This War of Mine,-0.12280701754385964
-2015.0,This War of Mine,-0.12280701754385964
+2014.0,Thinking with Time Machine,0.6666666666666667
+2015.0,Thinking with Time Machine,0.6666666666666667
+2014.0,This War of Mine,-0.08771929824561403
+2015.0,This War of Mine,-0.08771929824561403
 2014.0,Thunder Wolves,-1.0
 2014.0,"Time Gentlemen, Please! and Ben There, Dan That! Special Edition  Double Pack",0.0
 2014.0,Time Ramesside (A New Reckoning),2.0
@@ -3194,8 +3194,8 @@ review_year,app_name,score_not_recommend
 2014.0,Tom Clancy's Splinter Cell®,1.5
 2014.0,Tomb Raider II,-1.0
 2014.0,Tomb Raider: Tomb of the Lost Adventurer,2.0
-2014.0,Toribash,5.72093023255814
-2015.0,Toribash,3.7209302325581395
+2014.0,Toribash,5.77906976744186
+2015.0,Toribash,3.7790697674418605
 2014.0,TorqueL prototype,0.0
 2014.0,Total War: ROME II - Blood & Gore,0.0
 2015.0,Total War: ROME II - Blood & Gore,0.0
@@ -3237,13 +3237,13 @@ review_year,app_name,score_not_recommend
 2014.0,Unearthed: Trail of Ibn Battuta - Episode 1 - Gold Edition,2.0
 2014.0,Unholy Heights,-1.0
 2014.0,Unity of Command: Stalingrad Campaign,1.0
-2014.0,Unturned,34.68089233753637
-2015.0,Unturned,34.68089233753637
+2014.0,Unturned,34.71193016488846
+2015.0,Unturned,34.71193016488846
 2014.0,Unturned - Permanent Gold Upgrade,-0.4375
 2015.0,Unturned - Permanent Gold Upgrade,-0.4375
-2014.0,Urban Trial Freestyle,0.4
-2014.0,Uriel's Chasm,3.25
-2015.0,Uriel's Chasm,5.25
+2014.0,Urban Trial Freestyle,0.6
+2014.0,Uriel's Chasm,3.1666666666666665
+2015.0,Uriel's Chasm,5.166666666666667
 2014.0,Valdis Story: Abyssal City,-1.0
 2015.0,Valdis Story: Abyssal City,0.0
 2014.0,Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™,-0.4666666666666667
@@ -3280,18 +3280,18 @@ review_year,app_name,score_not_recommend
 2014.0,WRC 4 FIA World Rally Championship,0.0
 2014.0,Waking Mars,-1.0
 2014.0,War Thunder - Steam Pack,2.0
-2014.0,War of the Human Tanks,1.0
-2015.0,War of the Human Tanks,1.0
-2014.0,Warface,19.875
-2015.0,Warface,7.875
-2014.0,Wargame: Red Dragon,0.7777777777777778
-2015.0,Wargame: Red Dragon,-0.2222222222222222
+2014.0,War of the Human Tanks,0.6666666666666666
+2015.0,War of the Human Tanks,0.6666666666666666
+2014.0,Warface,19.8875
+2015.0,Warface,7.8875
+2014.0,Wargame: Red Dragon,0.8888888888888888
+2015.0,Wargame: Red Dragon,-0.1111111111111111
 2014.0,"Warhammer 40,000: Kill Team",0.0
 2015.0,"Warhammer 40,000: Kill Team",1.0
 2014.0,"Warhammer® 40,000: Dawn of War® - Soulstorm",-0.5454545454545454
 2015.0,"Warhammer® 40,000: Dawn of War® - Soulstorm",0.4545454545454546
-2014.0,Watch_Dogs™,14.964285714285714
-2015.0,Watch_Dogs™,4.964285714285714
+2014.0,Watch_Dogs™,14.982142857142858
+2015.0,Watch_Dogs™,4.982142857142857
 2014.0,We Slay Monsters,-1.0
 2014.0,White Noise Online,1.0
 2014.0,Wild Warfare,-0.8
@@ -3300,19 +3300,19 @@ review_year,app_name,score_not_recommend
 2014.0,Windosill,-1.0
 2014.0,Wings of Vi,0.14285714285714285
 2015.0,Wings of Vi,0.14285714285714285
-2014.0,Wolfenstein: The New Order,0.5
-2015.0,Wolfenstein: The New Order,1.5
+2014.0,Wolfenstein: The New Order,0.5416666666666667
+2015.0,Wolfenstein: The New Order,1.5416666666666667
 2014.0,Woodcutter Simulator 2013,3.0
-2014.0,Woodle Tree Adventures,2.923076923076923
-2015.0,Woodle Tree Adventures,0.9230769230769231
+2014.0,Woodle Tree Adventures,3.0
+2015.0,Woodle Tree Adventures,1.0
 2014.0,World Basketball Tycoon,0.0
 2014.0,World War III: Black Gold,2.0
 2014.0,World of Guns: Gun Disassembly,4.470588235294118
 2015.0,World of Guns: Gun Disassembly,0.47058823529411764
 2014.0,Worms,0.0
 2014.0,Worms Crazy Golf,1.0
-2014.0,Worms Ultimate Mayhem,0.3333333333333333
-2015.0,Worms Ultimate Mayhem,1.3333333333333333
+2014.0,Worms Ultimate Mayhem,0.6666666666666666
+2015.0,Worms Ultimate Mayhem,1.6666666666666665
 2014.0,Wyv and Keep: The Temple of the Lost Idol,-1.0
 2014.0,X-COM: Enforcer,1.0
 2014.0,X-Plane 10 Global - 64 Bit,0.0
@@ -3340,8 +3340,8 @@ review_year,app_name,score_not_recommend
 2014.0,Zuma's Revenge!,-0.5
 2014.0,bit Dungeon II,2.0
 2015.0,bit Dungeon II,1.0
-2014.0,ibb & obb,-0.8333333333333334
-2015.0,ibb & obb,-0.8333333333333334
+2014.0,ibb & obb,-0.6666666666666666
+2015.0,ibb & obb,-0.6666666666666666
 2014.0,liteCam Game: 100 FPS Game Capture,-1.0
 2015.0,liteCam Game: 100 FPS Game Capture,-1.0
 2014.0,nail'd,2.0
@@ -3362,19 +3362,19 @@ review_year,app_name,score_not_recommend
 2015.0,404Sight,0.6666666666666667
 2015.0,60 Seconds!,0.5
 2015.0,8BitBoy™,-1.0
-2015.0,911: First Responders®,-0.6
+2015.0,911: First Responders®,-0.4
 2015.0,A Study in Steampunk: Choice by Gaslight,-1.0
 2015.0,A Wizard's Lizard,-1.0
 2015.0,ACE Academy,-0.5
 2015.0,AGFPPROV3 Premium,-1.0
 2015.0,AKIBA'S TRIP: Undead ＆ Undressed,-0.16666666666666666
-2015.0,ARK: Survival Evolved,35.75585284280937
-2015.0,ARMA: Gold Edition,-1.0
+2015.0,ARK: Survival Evolved,35.792642140468224
+2015.0,ARMA: Gold Edition,0.0
 2015.0,AXYOS,1.0
 2015.0,Absolute Drift,-0.5714285714285714
 2015.0,Act of Aggression - Reboot Edition,1.0
 2015.0,Action Henk,1.0
-2015.0,AdVenture Capitalist,3.7086614173228347
+2015.0,AdVenture Capitalist,3.7244094488188977
 2015.0,Adam's Venture Chronicles,2.0
 2015.0,Aero's Quest,0.0
 2015.0,Afterlife Empire,2.0
@@ -3396,7 +3396,7 @@ review_year,app_name,score_not_recommend
 2015.0,Ampu-Tea,2.0
 2015.0,Amygdala,-1.0
 2015.0,Angels That Kill Demo,-1.0
-2015.0,Angry Video Game Nerd: The Movie,1.0
+2015.0,Angry Video Game Nerd: The Movie,1.5
 2015.0,Anna's Quest,-1.0
 2015.0,Anno 2205™,1.6666666666666665
 2015.0,Anno Online,1.5
@@ -3436,17 +3436,17 @@ review_year,app_name,score_not_recommend
 2015.0,Bad Bots,1.0
 2015.0,Ballistic Overkill,0.0
 2015.0,Bardbarian,0.0
-2015.0,Basement,0.6666666666666667
-2015.0,Batman™: Arkham Knight,18.029411764705884
+2015.0,Basement,1.0
+2015.0,Batman™: Arkham Knight,18.044117647058822
 2015.0,Battle for Blood - Epic battles within 30 seconds!,-1.0
-2015.0,Battle of Empires : 1914-1918,0.33333333333333337
+2015.0,Battle of Empires : 1914-1918,0.6666666666666667
 2015.0,Battle of Empires : 1914-1918 -  British Empire,-1.0
 2015.0,Battle of Empires : 1914-1918 - Russian Empire,-1.0
 2015.0,Beach Bounce,2.0
-2015.0,Besiege,0.46478873239436624
+2015.0,Besiege,0.47887323943661975
 2015.0,Better Late Than DEAD,0.25
 2015.0,Beware Planet Earth,2.0
-2015.0,Beyond Gravity,1.0
+2015.0,Beyond Gravity,0.0
 2015.0,Bierzerkers,0.75
 2015.0,Big Fish Legend,-1.0
 2015.0,Big Pharma,2.0
@@ -3456,7 +3456,7 @@ review_year,app_name,score_not_recommend
 2015.0,Bionic Dues,-0.6666666666666666
 2015.0,Bitardia,0.0
 2015.0,Bitweb,0.5
-2015.0,Black Mesa,1.4583333333333335
+2015.0,Black Mesa,1.5
 2015.0,Blackguards: Untold Legends,0.0
 2015.0,Blender,-0.3333333333333333
 2015.0,Block N Load - 560 Platinum Bar Pack,0.0
@@ -3474,7 +3474,7 @@ review_year,app_name,score_not_recommend
 2015.0,Borderlands 2: Tiny Tina's Assault on Dragon Keep,-1.0
 2015.0,Borderless Gaming,-0.5
 2015.0,Borealis,0.0
-2015.0,Boring Man - Online Tactical Stickman Combat,-0.5
+2015.0,Boring Man - Online Tactical Stickman Combat,-0.4375
 2015.0,Boring Man: Premium!,-1.0
 2015.0,BossConstructor,-1.0
 2015.0,Boston Lockdown Campaign Book pdf,-1.0
@@ -3484,7 +3484,7 @@ review_year,app_name,score_not_recommend
 2015.0,Burning Man: Beyond Black Rock,0.0
 2015.0,Burstfire,0.5
 2015.0,CAFE 0 ~The Drowned Mermaid~,2.0
-2015.0,CLANNAD,-1.0
+2015.0,CLANNAD,0.0
 2015.0,CPUCores :: Maximize Your FPS,-1.0
 2015.0,CRYPTARK,1.5
 2015.0,CS:GO Player Profiles,-0.5555555555555556
@@ -3492,17 +3492,17 @@ review_year,app_name,score_not_recommend
 2015.0,Calibre 10 Racing,2.0
 2015.0,Call of Duty®: Advanced Warfare - Havoc,1.0
 2015.0,Call of Duty®: Black Ops II - Aqua Personalization Pack,0.0
-2015.0,Call of Duty®: Black Ops III,32.94
+2015.0,Call of Duty®: Black Ops III,32.946666666666665
 2015.0,Call to Arms,-1.0
 2015.0,Canabalt,-1.0
 2015.0,Card Hunter,-0.5
-2015.0,Cards and Castles,-1.0
+2015.0,Cards and Castles,-0.6666666666666666
 2015.0,Carpe Diem,-0.22727272727272727
 2015.0,Castaway Paradise - Town Building Sim,-1.0
 2015.0,Caster,2.090909090909091
 2015.0,Castle,0.5
 2015.0,Castle Crashers - Blacksmith Pack,-1.0
-2015.0,Castle Crashers - Pink Knight Pack,-1.0
+2015.0,Castle Crashers - Pink Knight Pack,-0.5
 2015.0,Castle In The Darkness,-1.0
 2015.0,Cat Goes Fishing,-0.5
 2015.0,Catacomb Kids,1.0
@@ -3515,9 +3515,9 @@ review_year,app_name,score_not_recommend
 2015.0,Chronology,-1.0
 2015.0,Cinders,-1.0
 2015.0,Cities XXL,3.3333333333333335
-2015.0,Cities: Skylines,-0.3375
+2015.0,Cities: Skylines,-0.3125
 2015.0,Clergy Splode,1.0
-2015.0,Clicker Heroes,2.7395833333333335
+2015.0,Clicker Heroes,2.7291666666666665
 2015.0,Cloning Clyde,-1.0
 2015.0,Clown House (Palyaço Evi),2.3333333333333335
 2015.0,CoH 2 - Soviet Commander: Soviet Industry Tactics,0.0
@@ -3527,7 +3527,7 @@ review_year,app_name,score_not_recommend
 2015.0,Comedy Quest,0.5
 2015.0,ComiPo!: Business Person,1.0
 2015.0,Commander Cool 2,-0.4
-2015.0,Commando Jack,-1.0
+2015.0,Commando Jack,0.0
 2015.0,Commandos: Behind Enemy Lines,0.0
 2015.0,Community College Hero: Trial by Fire,-1.0
 2015.0,Company of Heroes: Tales of Valor,0.0
@@ -3542,28 +3542,28 @@ review_year,app_name,score_not_recommend
 2015.0,Cradle,-1.0
 2015.0,Cricket Captain 2015,1.0
 2015.0,Croixleur Sigma,-1.0
-2015.0,CrossCode,-1.0
+2015.0,CrossCode,-0.8
 2015.0,Crusaders of the Lost Idols,-1.0
 2015.0,Crystal Caves,-1.0
-2015.0,Crystal Story II,-1.0
+2015.0,Crystal Story II,-0.5
 2015.0,CubeZ,2.0
 2015.0,Cubemen 2,-1.0
 2015.0,Cult of the Wind,0.0
 2015.0,Cursed Sight,0.0
 2015.0,D4: Dark Dreams Don’t Die -Season One-,-0.5
-2015.0,DARK SOULS™ II: Scholar of the First Sin,1.88
-2015.0,DEAD OR ALIVE 5 Last Round: Core Fighters,3.7142857142857144
+2015.0,DARK SOULS™ II: Scholar of the First Sin,1.92
+2015.0,DEAD OR ALIVE 5 Last Round: Core Fighters,3.857142857142857
 2015.0,DETOUR,1.0
 2015.0,DOOM 3 Resurrection of Evil,2.0
-2015.0,DRAGON BALL XENOVERSE,-0.6129032258064516
+2015.0,DRAGON BALL XENOVERSE,-0.5483870967741935
 2015.0,DYNASTY WARRIORS® 8 Empires,-1.0
 2015.0,Daikatana,2.0
-2015.0,Darkest Dungeon®,3.973684210526316
+2015.0,Darkest Dungeon®,4.026315789473684
 2015.0,Darkstar One,-1.0
 2015.0,David.,-1.0
 2015.0,Dead Horde,0.0
 2015.0,Dead In Bermuda,-1.0
-2015.0,Dead Realm,-0.38095238095238093
+2015.0,Dead Realm,-0.3333333333333333
 2015.0,Dead Sea,0.0
 2015.0,Dead Synchronicity: Tomorrow Comes Today,1.0
 2015.0,Death Skid Marks,-1.0
@@ -3573,13 +3573,13 @@ review_year,app_name,score_not_recommend
 2015.0,Deep Eclipse: New Space Odyssey,-1.0
 2015.0,Deepworld,0.25
 2015.0,Deer Hunt Legends,2.0
-2015.0,Delta Force 2,-1.0
-2015.0,Depth - Corsair Knife Skin,-1.0
+2015.0,Delta Force 2,0.0
+2015.0,Depth - Corsair Knife Skin,0.0
 2015.0,Despair,0.75
 2015.0,Destination Sol,0.5
 2015.0,Destiny Warriors RPG,-1.0
 2015.0,Deus Ex: Revision,-1.0
-2015.0,Dev Guy,0.0
+2015.0,Dev Guy,0.14285714285714285
 2015.0,Devil May Cry® 4 Special Edition,-0.5
 2015.0,Devilian,-0.6666666666666666
 2015.0,DiRT Rally,-0.38461538461538464
@@ -3587,7 +3587,7 @@ review_year,app_name,score_not_recommend
 2015.0,Digger Online,4.0
 2015.0,"Dimmdrive :: Gaming Ramdrive @ 10,000+ MB/s",-1.0
 2015.0,Dinosaur Hunt,0.8333333333333334
-2015.0,Dirty Bomb®,34.648809523809526
+2015.0,Dirty Bomb®,34.67261904761905
 2015.0,Disciples III - Renaissance Steam Special Edition,-1.0
 2015.0,Dishonored - Void Walker Arsenal,0.0
 2015.0,Disillusions Manga Horror,0.0
@@ -3620,7 +3620,7 @@ review_year,app_name,score_not_recommend
 2015.0,Electric Highways,-0.5
 2015.0,Electronic Super Joy: Groove City,-1.0
 2015.0,Eleusis,0.0
-2015.0,Elite Dangerous,7.888888888888889
+2015.0,Elite Dangerous,7.916666666666667
 2015.0,Else Heart.Break(),-1.0
 2015.0,Emily Wants To Play,0.6666666666666666
 2015.0,Emily is Away,8.812865497076023
@@ -3649,7 +3649,7 @@ review_year,app_name,score_not_recommend
 2015.0,FTL: Faster Than Light - Soundtrack,-1.0
 2015.0,Face It - A game to fight inner demons,2.0
 2015.0,Fairy Fencer F,0.25
-2015.0,Fallout 4,12.6
+2015.0,Fallout 4,12.608888888888888
 2015.0,Fallout New Vegas: Old World Blues,-0.5
 2015.0,Fallout New Vegas®: Gun Runners’ Arsenal™,-1.0
 2015.0,Famaze,0.0
@@ -3659,7 +3659,7 @@ review_year,app_name,score_not_recommend
 2015.0,Fingered,-1.0
 2015.0,Fishing Planet,1.1818181818181817
 2015.0,Five Nights at Freddy's 3,0.7857142857142857
-2015.0,Five Nights at Freddy's 4,0.88
+2015.0,Five Nights at Freddy's 4,0.84
 2015.0,Flesh Eaters,-0.5
 2015.0,Ford Racing 3,-0.6666666666666666
 2015.0,Ford Racing Off Road,0.0
@@ -3676,7 +3676,7 @@ review_year,app_name,score_not_recommend
 2015.0,Fury Of The Gods,0.0
 2015.0,Fuse,-1.0
 2015.0,GASP,1.0
-2015.0,GRAV,4.916666666666667
+2015.0,GRAV,5.0
 2015.0,GTGD S1: More Than a Gamer,-1.0
 2015.0,GabeN: The Final Decision,0.0
 2015.0,Galactic Civilizations III,-0.7142857142857143
@@ -3696,17 +3696,17 @@ review_year,app_name,score_not_recommend
 2015.0,Golden Rush,-1.0
 2015.0,Gon' E-Choo!,-1.0
 2015.0,Grand Ages: Medieval,1.0
-2015.0,Grand Theft Auto V,40.71207430340557
+2015.0,Grand Theft Auto V,40.72136222910217
 2015.0,Grandia® II Anniversary Edition,-1.0
 2015.0,Grass Simulator,0.375
 2015.0,Grave Prosperity: Redux- part 1,-1.0
 2015.0,Grey Cubes,-1.0
-2015.0,Grey Goo,-1.0
+2015.0,Grey Goo,-0.75
 2015.0,Greyfox RPG,0.5
 2015.0,Grim Fandango Remastered,0.2
 2015.0,Grimoire: Manastorm,0.33333333333333337
 2015.0,Guild of Dungeoneering,-1.0
-2015.0,Gunjitsu,0.0
+2015.0,Gunjitsu,0.5
 2015.0,Gunslingers,0.0
 2015.0,HELLDIVERS™,0.16666666666666666
 2015.0,HIS (Heroes In the Sky),2.0
@@ -3714,7 +3714,7 @@ review_year,app_name,score_not_recommend
 2015.0,"Hack, Slash, Loot",0.0
 2015.0,Hacknet,-0.5
 2015.0,Half Minute Hero: The Second Coming,-0.3333333333333333
-2015.0,Half-Life 2 Soundtrack,-1.0
+2015.0,Half-Life 2 Soundtrack,-0.5
 2015.0,Half-Life 2: Update,-0.5
 2015.0,Half-Life: Blue Shift,-0.8
 2015.0,Halo: Spartan Strike,1.0
@@ -3733,16 +3733,16 @@ review_year,app_name,score_not_recommend
 2015.0,Highschool Romance,-0.5
 2015.0,Higurashi When They Cry Hou - Ch.1 Onikakushi,0.5
 2015.0,Hocus Pocus,-1.0
-2015.0,Homeworld Remastered Collection,-0.5
+2015.0,Homeworld Remastered Collection,-0.4
 2015.0,Hook,-0.3
 2015.0,Hospital Manager,2.0
-2015.0,Hotline Miami 2: Wrong Number,0.9523809523809523
+2015.0,Hotline Miami 2: Wrong Number,1.0
 2015.0,Hover,-1.0
 2015.0,How to Survive 2,1.0
 2015.0,Human Resource Machine,-1.0
 2015.0,HuniePop,-0.23255813953488372
 2015.0,Hunted: The Demon’s Forge™,-1.0
-2015.0,Hurtworld,0.9166666666666666
+2015.0,Hurtworld,0.9583333333333334
 2015.0,Hyperdimension Neptunia Re;Birth1 / 超次次元ゲイム ネプテューヌRe;Birth1 / 超次次元遊戲戰機少女重生1,0.3793103448275862
 2015.0,Hyperdimension Neptunia Re;Birth2: Sisters Generation / 超次次元ゲイム ネプテューヌRe;Birth2,1.0
 2015.0,Hyperdimension Neptunia Re;Birth3 V Generation / 神次次元ゲイム ネプテューヌRe;Birth3 V CENTURY,-0.16666666666666666
@@ -3771,13 +3771,13 @@ review_year,app_name,score_not_recommend
 2015.0,Joint Operations: Combined Arms Gold,-1.0
 2015.0,Judge Dredd: Dredd vs. Death,-1.0
 2015.0,Jumpdrive,1.0
-2015.0,Just Cause™ 3,9.7
+2015.0,Just Cause™ 3,9.728571428571428
 2015.0,KINGDOMS,-0.5
 2015.0,Kane and Lynch: Dead Men™,0.0
 2015.0,Karate Master 2 Knock Down Blow,2.0
 2015.0,Keep Talking and Nobody Explodes,-0.5
 2015.0,Kholat,1.0
-2015.0,Killing Floor 2,11.716417910447761
+2015.0,Killing Floor 2,11.723880597014926
 2015.0,Killing Floor: Uncovered,1.9166666666666667
 2015.0,King's Bounty: Armored Princess,-1.0
 2015.0,King's Bounty: Warriors of the North,1.0
@@ -3786,7 +3786,7 @@ review_year,app_name,score_not_recommend
 2015.0,Kold War Pack,-1.0
 2015.0,Kombat Pack,1.0
 2015.0,Korwin The Game,0.0
-2015.0,Kung Fury,1.5074626865671643
+2015.0,Kung Fury,1.5522388059701493
 2015.0,Kung Fury: Street Rage,-0.4444444444444444
 2015.0,LEGO Batman 3: Beyond Gotham DLC: Heroines and Villainesses Character Pack,-1.0
 2015.0,LEGO® Jurassic World,-1.0
@@ -3802,14 +3802,14 @@ review_year,app_name,score_not_recommend
 2015.0,Leadwerks Game Engine,-1.0
 2015.0,Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded,2.0
 2015.0,Let the Cat in,1.75
-2015.0,Life is Strange - Episode 1,4.561111111111111
+2015.0,Life is Strange - Episode 1,4.594444444444444
 2015.0,Liftoff,0.5
 2015.0,Litil Divil,1.0
 2015.0,Locoland,-1.0
 2015.0,Lords of Xulima,-1.0
 2015.0,Lost Saga NA,0.5
 2015.0,MASSIVE CHALICE,0.0
-2015.0,METAL GEAR SOLID V: THE PHANTOM PAIN,4.958904109589041
+2015.0,METAL GEAR SOLID V: THE PHANTOM PAIN,4.904109589041096
 2015.0,METAL SLUG DEFENSE,0.0
 2015.0,MIND: Path to Thalamus Enhanced Edition,-1.0
 2015.0,MISSING: An Interactive Thriller - Episode One,-1.0
@@ -3819,7 +3819,7 @@ review_year,app_name,score_not_recommend
 2015.0,Mad Games Tycoon,-1.0
 2015.0,Mad Max,3.549019607843137
 2015.0,Magic Barrage - Bitferno,0.0
-2015.0,Magic Duels,4.285714285714286
+2015.0,Magic Duels,4.321428571428571
 2015.0,Magicka 2,3.6666666666666665
 2015.0,Magicka: Wizards of the Square Tablet,0.0
 2015.0,Magicmaker,-1.0
@@ -3843,7 +3843,7 @@ review_year,app_name,score_not_recommend
 2015.0,Might & Magic Heroes Online,3.6666666666666665
 2015.0,Might & Magic® Heroes® VII,2.5
 2015.0,Millie,0.0
-2015.0,Minecraft: Story Mode - A Telltale Games Series,3.75
+2015.0,Minecraft: Story Mode - A Telltale Games Series,3.8
 2015.0,Missing Translation,-0.3333333333333333
 2015.0,Mitos.is: The Game,2.6666666666666665
 2015.0,Modular Combat,2.1666666666666665
@@ -3852,7 +3852,7 @@ review_year,app_name,score_not_recommend
 2015.0,Montague's Mount,1.0
 2015.0,Montas,1.0
 2015.0,Morphopolis,2.25
-2015.0,Mortal Kombat X,13.046511627906977
+2015.0,Mortal Kombat X,13.069767441860465
 2015.0,Mortal Kombat: Legacy,-1.0
 2015.0,Mortal Kombat: Legacy II,-1.0
 2015.0,Mortal Online,-0.3333333333333333
@@ -3875,7 +3875,7 @@ review_year,app_name,score_not_recommend
 2015.0,Nomad,0.0
 2015.0,NotGTAV,0.6470588235294117
 2015.0,Notrium,0.0
-2015.0,Nyan Cat: Lost In Space,-0.25
+2015.0,Nyan Cat: Lost In Space,0.0
 2015.0,Nyctophilia,1.0
 2015.0,O3DX,0.0
 2015.0,OCEAN CITY RACING: Redux,0.0
@@ -3906,8 +3906,8 @@ review_year,app_name,score_not_recommend
 2015.0,PAYDAY 2: Dragan Character Pack,0.0
 2015.0,PAYDAY 2: Gage Chivalry Pack,0.6666666666666667
 2015.0,PAYDAY 2: Gage Ninja Pack,0.4
-2015.0,PAYDAY 2: Gage Sniper Pack,-1.0
-2015.0,PAYDAY 2: Gage Weapon Pack #02,-1.0
+2015.0,PAYDAY 2: Gage Sniper Pack,0.0
+2015.0,PAYDAY 2: Gage Weapon Pack #02,0.0
 2015.0,PAYDAY 2: Sokol Character Pack,-0.3333333333333333
 2015.0,PAYDAY 2: The Alesso Heist,1.0
 2015.0,PAYDAY 2: The Butcher's AK/CAR Mod Pack,-1.0
@@ -3919,11 +3919,11 @@ review_year,app_name,score_not_recommend
 2015.0,PAYDAY 2: The Point Break Heists,-0.5
 2015.0,PAYDAY 2: Yakuza Character Pack,0.6666666666666667
 2015.0,PAYDAY: The Heist Soundtrack,0.0
-2015.0,PAYDAY: The Web Series,-1.0
+2015.0,PAYDAY: The Web Series,-0.8
 2015.0,POSTAL 2: Paradise Lost,0.0
 2015.0,PULSAR: Lost Colony,-0.6
 2015.0,Pac-Man Championship Edition DX+: Pac is Back Skin,0.0
-2015.0,Paint the Town Red,-0.5
+2015.0,Paint the Town Red,-0.4375
 2015.0,Pandora: First Contact,-1.0
 2015.0,Panzer Corps,-1.0
 2015.0,Particula,-1.0
@@ -3952,7 +3952,7 @@ review_year,app_name,score_not_recommend
 2015.0,Pongo,-1.0
 2015.0,"Pool Nation - Cues, Balls and Decals Pack",1.0
 2015.0,Pool Nation FX - Unlock Online,2.0
-2015.0,Port of Call,0.5
+2015.0,Port of Call,1.0
 2015.0,Portal Stories: Mel,0.2962962962962963
 2015.0,Pregnancy,0.0
 2015.0,Princess Evangile All Ages Version,-1.0
@@ -3971,19 +3971,19 @@ review_year,app_name,score_not_recommend
 2015.0,RPG MO,-0.5
 2015.0,RPG Maker 2003,0.0
 2015.0,RPG Maker MV,-1.0
-2015.0,RWBY: Grimm Eclipse,-0.6538461538461539
+2015.0,RWBY: Grimm Eclipse,-0.6153846153846154
 2015.0,Raiden Legacy - Steam Edition,-1.0
 2015.0,Rake,0.0
-2015.0,Rampage Knights,-0.3333333333333333
+2015.0,Rampage Knights,-0.6666666666666666
 2015.0,Ratz Instagib,-0.35294117647058826
 2015.0,Real Boxing™,1.0
 2015.0,Real Warfare 1242,2.0
 2015.0,Reassembly,-0.2
 2015.0,Rebel Galaxy,-0.25
-2015.0,Red Crucible®: Firestorm,3.772727272727273
+2015.0,Red Crucible®: Firestorm,3.8181818181818183
 2015.0,Regency Solitaire,-1.0
-2015.0,Reign Of Kings,14.068965517241379
-2015.0,Relic Hunters Zero,0.5
+2015.0,Reign Of Kings,14.086206896551724
+2015.0,Relic Hunters Zero,0.375
 2015.0,Renowned Explorers: International Society,-1.0
 2015.0,Reprisal Universe,-0.5
 2015.0,Republique,-1.0
@@ -3999,7 +3999,7 @@ review_year,app_name,score_not_recommend
 2015.0,Risen 3 - Titan Lords,0.0
 2015.0,Rising World,0.6666666666666667
 2015.0,Rivals of Aether,-0.3076923076923077
-2015.0,Rocket League®,2.612781954887218
+2015.0,Rocket League®,2.6466165413533833
 2015.0,Rocket League® - Back to the Future™ Car Pack,0.375
 2015.0,Rocket League® - Revenge of the Battle-Cars DLC Pack,-1.0
 2015.0,Rocket League® - Supersonic Fury DLC Pack,-1.0
@@ -4015,7 +4015,7 @@ review_year,app_name,score_not_recommend
 2015.0,SAGA,1.0
 2015.0,SAMURAI WARRIORS 4-II,-1.0
 2015.0,SC2VN - The eSports Visual Novel,-0.6
-2015.0,SMITE®,0.4838709677419355
+2015.0,SMITE®,0.5161290322580645
 2015.0,SMITE® - Ultimate God Pack,-0.3333333333333333
 2015.0,SOMA,0.25
 2015.0,SPORE™ Galactic Adventures,-0.25
@@ -4027,7 +4027,7 @@ review_year,app_name,score_not_recommend
 2015.0,Saints Row IV - The Super Saints Pack,-1.0
 2015.0,Saints Row IV: Commander-In-Chief Pack,-0.5
 2015.0,Saints Row IV: Dubstep Gun (Remix) Pack,-1.0
-2015.0,Saints Row: Gat out of Hell,2.888888888888889
+2015.0,Saints Row: Gat out of Hell,2.9444444444444446
 2015.0,Saints Row: The Third - Gangstas in Space,0.0
 2015.0,Salt,0.3333333333333333
 2015.0,Samudai,-1.0
@@ -4043,11 +4043,11 @@ review_year,app_name,score_not_recommend
 2015.0,Shadowrun: Dragonfall - Director's Cut,-1.0
 2015.0,Shadows on the Vatican Act I: Greed,0.5
 2015.0,Shank,-1.0
-2015.0,Shantae and the Pirate's Curse,0.0
+2015.0,Shantae and the Pirate's Curse,-0.5
 2015.0,Shark Attack Deathmatch 2,-1.0
 2015.0,Shelter 2,0.0
 2015.0,Shelter 2 Soundtrack,0.0
-2015.0,Shoppe Keep,-0.6666666666666666
+2015.0,Shoppe Keep,-0.5
 2015.0,Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad,2.0
 2015.0,Showtime!,-1.0
 2015.0,Shrooms,1.0
@@ -4056,7 +4056,7 @@ review_year,app_name,score_not_recommend
 2015.0,Sid Meier's Railroads!,-1.0
 2015.0,Silent Hill Homecoming,0.0
 2015.0,Silver Creek Falls: Chapter 1,0.0
-2015.0,SimplePlanes,-0.08333333333333333
+2015.0,SimplePlanes,0.0
 2015.0,Simply Chess,-0.25
 2015.0,Sirius Online,0.0
 2015.0,Skullgirls: Big Band,-1.0
@@ -4067,7 +4067,7 @@ review_year,app_name,score_not_recommend
 2015.0,Sleeping Dogs: Definitive Edition,-0.4
 2015.0,Sleeping Dogs: Nightmare in North Point,-1.0
 2015.0,Smashball,2.0
-2015.0,Smooth Operators,0.3333333333333333
+2015.0,Smooth Operators,0.6666666666666666
 2015.0,Sneaky Sneaky,0.0
 2015.0,Sniper Elite 3 Season Pass,-1.0
 2015.0,Soccer Manager 2015,-1.0
@@ -4099,10 +4099,10 @@ review_year,app_name,score_not_recommend
 2015.0,Stigmat,0.5
 2015.0,Stock Car Extreme,0.0
 2015.0,Stonehearth,0.33333333333333337
-2015.0,Stranded Deep,5.632352941176471
+2015.0,Stranded Deep,5.647058823529412
 2015.0,Stray Cat Crossing,-1.0
 2015.0,Strife®,0.6666666666666667
-2015.0,Subnautica,-0.39285714285714285
+2015.0,Subnautica,-0.36904761904761907
 2015.0,Subspace Continuum,-1.0
 2015.0,Super 3-D Noah's Ark,1.0
 2015.0,Super Chibi Knight,-1.0
@@ -4112,19 +4112,19 @@ review_year,app_name,score_not_recommend
 2015.0,SuperPower 2 Steam Edition,1.0
 2015.0,Supreme Ruler 1936,0.0
 2015.0,Supreme Ruler 2020 Gold,-1.0
-2015.0,Survarium,7.88
+2015.0,Survarium,7.84
 2015.0,Survival: Postapocalypse Now,3.6923076923076925
 2015.0,Survivalist,1.0
 2015.0,TDP4:Team Battle,1.0
-2015.0,TERA,1.4693877551020407
+2015.0,TERA,1.510204081632653
 2015.0,THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION,1.0
 2015.0,THE KING OF FIGHTERS 2002 UNLIMITED MATCH,0.0
 2015.0,TIS-100,-1.0
-2015.0,TOXIKK™,0.8571428571428572
+2015.0,TOXIKK™,1.0
 2015.0,TY the Tasmanian Tiger 4,-1.0
 2015.0,Tales Runner,0.5
 2015.0,Tales of Aravorn: Seasons Of The Wolf,-1.0
-2015.0,Tales of Zestiria,0.875
+2015.0,Tales of Zestiria,1.0
 2015.0,Tap Tap Infinity,1.0
 2015.0,Tasty Blue,-0.3333333333333333
 2015.0,Tea Party Simulator 2015™,2.0
@@ -4135,11 +4135,11 @@ review_year,app_name,score_not_recommend
 2015.0,Templar Battleforce,-1.0
 2015.0,Tengami,-1.0
 2015.0,TeraBlaster,0.5
-2015.0,TerraTech,1.5
+2015.0,TerraTech,1.5833333333333333
 2015.0,Terrorhedron Tower Defense,1.0
 2015.0,Tesla Effect: A Tex Murphy Adventure,1.0
-2015.0,The Beginner's Guide,2.9166666666666665
-2015.0,The Binding of Isaac: Afterbirth,-0.391304347826087
+2015.0,The Beginner's Guide,2.9375
+2015.0,The Binding of Isaac: Afterbirth,-0.43478260869565216
 2015.0,The Black Watchmen,-1.0
 2015.0,The Crew™ Extreme Car Pack,1.0
 2015.0,The Crew™ Season Pass,-0.5
@@ -4165,12 +4165,12 @@ review_year,app_name,score_not_recommend
 2015.0,The Legend of Heroes: Trails in the Sky,-1.0
 2015.0,The Magic Circle,-1.0
 2015.0,The Masterplan,-0.3333333333333333
-2015.0,The Mean Greens - Plastic Warfare,2.875
+2015.0,The Mean Greens - Plastic Warfare,3.0
 2015.0,The Music Machine,-1.0
 2015.0,The Mystery of the Druids,-1.0
 2015.0,The Next Penelope,-1.0
 2015.0,The Night of the Rabbit,-1.0
-2015.0,The Old Tree,-0.3333333333333333
+2015.0,The Old Tree,-0.16666666666666666
 2015.0,The Park,2.0
 2015.0,The Quest,-1.0
 2015.0,The Settlers Online,1.6666666666666667
@@ -4187,19 +4187,19 @@ review_year,app_name,score_not_recommend
 2015.0,Timberman,-1.0
 2015.0,Time Clickers,-0.6875
 2015.0,Tinboy,1.0
-2015.0,Titan Souls,0.2
+2015.0,Titan Souls,0.0
 2015.0,Tokyo School Life,-0.3333333333333333
 2015.0,Tom Clancy's Rainbow Six Lockdown™,1.0
-2015.0,Tom Clancy's Rainbow Six® Siege,6.840425531914893
+2015.0,Tom Clancy's Rainbow Six® Siege,6.872340425531915
 2015.0,Tom Clancy's Rainbow Six® Siege - Ultra HD Texture Pack,-0.5
 2015.0,Tomb Raider: Anniversary,-1.0
 2015.0,Total Annihilation,-0.6
 2015.0,Total War Battles: KINGDOM,4.428571428571429
 2015.0,Total War: ATTILA,0.17647058823529416
 2015.0,Total War: ATTILA - Blood & Burning,0.0
-2015.0,Total War: ATTILA - The Last Roman Campaign Pack,-1.0
+2015.0,Total War: ATTILA - The Last Roman Campaign Pack,0.0
 2015.0,TowerFall Ascension,0.75
-2015.0,Town of Salem,1.8235294117647058
+2015.0,Town of Salem,1.8529411764705883
 2015.0,TrackMania² Valley,-1.0
 2015.0,Train Fever: USA DLC,-1.0
 2015.0,Train Simulator: DB BR232 Loco Add-On,-1.0
@@ -4212,18 +4212,18 @@ review_year,app_name,score_not_recommend
 2015.0,Trine 3: The Artifacts of Power,1.8
 2015.0,Trino,2.0
 2015.0,Tropico 4: Megalopolis DLC,0.0
-2015.0,Trove,19.711409395973153
+2015.0,Trove,19.74496644295302
 2015.0,Turbo Pug,-0.3076923076923077
 2015.0,Turok,0.0
 2015.0,Tycoon City: New York,1.0
 2015.0,Typer Shark! Deluxe,0.0
 2015.0,TyranoBuilder Visual Novel Studio,-0.6666666666666666
-2015.0,UBERMOSH,-0.25
+2015.0,UBERMOSH,-0.5
 2015.0,UFO: Afterlight,1.0
 2015.0,UNDERTALE Soundtrack,-0.3333333333333333
 2015.0,Ultimate Tic-Tac-Toe,0.25
 2015.0,Undead Overlord,-1.0
-2015.0,Undertale,3.663677130044843
+2015.0,Undertale,3.672645739910314
 2015.0,Unium,1.0
 2015.0,Universal Combat CE,2.0
 2015.0,Universe Sandbox ²,0.7777777777777778
@@ -4233,16 +4233,16 @@ review_year,app_name,score_not_recommend
 2015.0,VEGAS Movie Studio 13 Platinum - Steam Powered,-1.0
 2015.0,Vapour,0.0
 2015.0,Vector Thrust,1.0
-2015.0,Velocibox,-0.5
+2015.0,Velocibox,0.0
 2015.0,Vertical Drop Heroes HD,0.0
 2015.0,Vessel,1.0
 2015.0,Victim of Xen,-0.5
-2015.0,Victor Vran ARPG,-0.75
+2015.0,Victor Vran ARPG,-0.5
 2015.0,Viridi,1.7333333333333334
 2015.0,Voices from the Sea,-0.2857142857142857
 2015.0,VoidExpanse,-1.0
 2015.0,Voxelized,2.875
-2015.0,WARMODE,14.757575757575758
+2015.0,WARMODE,14.727272727272727
 2015.0,WORLD END ECONOMiCA episode.01,-0.5
 2015.0,WORLD END ECONOMiCA episode.02,-1.0
 2015.0,WRC 5 FIA World Rally Championship,1.0
@@ -4254,19 +4254,19 @@ review_year,app_name,score_not_recommend
 2015.0,"Warhammer 40,000: Space Marine - Iron Hands Chapter Pack DLC",-1.0
 2015.0,"Warhammer 40,000: Space Marine - Power Sword",1.0
 2015.0,Warhammer Quest,1.0
-2015.0,Warhammer: End Times - Vermintide,1.3636363636363638
+2015.0,Warhammer: End Times - Vermintide,1.4090909090909092
 2015.0,Warhammer: End Times - Vermintide Sigmar's Blessing,0.75
 2015.0,Warlock 2: The Exiled,-1.0
-2015.0,Waveform,0.6
+2015.0,Waveform,0.8
 2015.0,Way of the Samurai 4,2.0
 2015.0,Westerado: Double Barreled,-0.4
 2015.0,Wick,0.0
 2015.0,Wild Season,1.0
-2015.0,Wildlife Park 2,-1.0
+2015.0,Wildlife Park 2,0.0
 2015.0,Windward,-0.16666666666666666
 2015.0,Winter Sports Trilogy Super Pack,0.0
 2015.0,Winter Voices,0.0
-2015.0,Without Within,2.1538461538461537
+2015.0,Without Within,2.230769230769231
 2015.0,Wolfenstein: The Old Blood,-0.5
 2015.0,Word Rescue,-1.0
 2015.0,World of Soccer online,0.8571428571428572
@@ -4297,5 +4297,5 @@ review_year,app_name,score_not_recommend
 2015.0,inMomentum,-1.0
 2015.0,oO,-0.6666666666666666
 2015.0,sZone-Online,0.5714285714285714
-2015.0,the static speaks my name,2.9375
+2015.0,the static speaks my name,3.0
 2015.0,Астролорды: Облако Оорта,-1.0
