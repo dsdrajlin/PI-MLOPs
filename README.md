@@ -39,7 +39,7 @@ las librerias destacadas son:
 | <img src="./assets/matplotlib_logo.svg" width="100"> <img src="./assets/seaborn_logo.svg" width="100"> | Graficación |
 | <img src="./assets/sklearn_logo.png" width="100"> | Procesamiento de datos y aprendizaje automático |
 | <img src="./assets/textblob_logo.png" width="100"> | Análisis de sentimientos |
-| <img src="./assets/PyPI_logo.png" width="100">  (wordcloud/langdetect)| Operaciones sobre texto |
+| <img src="./assets/PyPI_logo.png" width="100">   (wordcloud/langdetect)| Operaciones sobre texto |
 | <img src="./assets/fastapi_logo.png" width="100"> <img src="./assets/uvicorn_logo.png" width="100"> | Montado de la API |
 
 
