@@ -23,7 +23,7 @@ En este proyecto se realizó un sistema de recomendación de juegos de la plataf
 * Crear un `modelo de aprendizaje automático` como sistema de recomendación.
 
 ## Stack tecnológico
-El proyecto está llevado a cabo en `python` en archivos .py y .ipynb. Algunas de
+El proyecto está llevado a cabo en `Python` en archivos .py y .ipynb. Algunas de
 las librerias destacadas son:
 
 | Librería | Uso |
