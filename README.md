@@ -33,6 +33,15 @@ las librerias destacadas son:
 * __langdetect/wordcloud__: operaciones sobre texto.
 * __fastapi/uvicorn__: montado de la API.
 
+| Librería | Uso |
+|---|---|
+| <img src="./assets/pandas_logo.png" width="100"> <img src="./assets/numpy_logo.png" width="100"> | Operaciones con Series y DataFrames |
+| <img src="./assets/matplotlib_logo.svg" width="100"> <img src="./assets/seaborn_logo.svg" width="100"> | Graficación |
+| <img src="./assets/sklearn_logo.png" width="100"> | Procesamiento de datos y aprendizaje automático |
+| <img src="./assets/textblob_logo.png" width="100"> | Análisis de sentimientos |
+| <img src="./assets/PyPI_logo.png" width="100">  (wordcloud/langdetect)| Operaciones sobre texto |
+| <img src="./assets/fastapi_logo.png" width="100"> <img src="./assets/uvicorn_logo.png" width="100"> | Montado de la API |
+
 Adicionalmente se hizo uso del sitio [__render.com__](https://render.com/) para el despliegue de la API.
 
 ## Archivos
