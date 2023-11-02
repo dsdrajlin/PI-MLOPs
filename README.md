@@ -47,8 +47,10 @@ Los principales archivos de este repositorio son:
 * [main.py](main.py): Funciones de la API.
 * [assets](assets/): Imágenes del README.
 
+Se sugiere consultarlos en el orden en el que son presentados.
+
 ## Demo
 En este [video](https://youtu.be/zsVhxv65iCk) se muestra el esquema general de trabajo y las consultas a la API.
 
 ## Despliegue de la API
-En este [link](https://pi-mlops-4j8c.onrender.com/docs) se podrá acceder a la API y realizar consultas. (Nota: al estar incorporado en una capa gratuita, puede demorar unos minutos en levantar el servicio)
+En este [link](https://pi-mlops-4j8c.onrender.com/docs) se podrá acceder a la API y realizar consultas. (Nota: Al estar incorporado en una capa gratuita, puede demorar unos minutos en levantar el servicio).
