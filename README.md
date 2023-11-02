@@ -1,4 +1,4 @@
-![](https://upload.wikimedia.org/wikipedia/commons/8/87/New_Steam_Logo_with_name.jpg)
+<img src="./assets/steam_logo.jpeg">
 
 <h1 align="center"><b> Steam Game Recommender </b></h1>
 <hr>
@@ -23,15 +23,8 @@ En este proyecto se realizó un sistema de recomendación de juegos de la plataf
 * Crear un `modelo de aprendizaje automático` como sistema de recomendación.
 
 ## Stack tecnológico
-El proyecto está llevado a cabo en `python` en archivos .py y .ipynb. Algunas de 
+El proyecto está llevado a cabo en `python` en archivos .py y .ipynb. Algunas de
 las librerias destacadas son:
-* __json/gzip/ast__: lectura de archivos.
-* __pandas/numpy__: operaciones sobre DataFrames.
-* __matplotlib/seaborn__: graficación.
-* __scikit-learn__: procesamiento de datos y aprendizaje automático.
-* __textblob__: análisis de sentimientos.
-* __langdetect/wordcloud__: operaciones sobre texto.
-* __fastapi/uvicorn__: montado de la API.
 
 | Librería | Uso |
 |:---:|---|
@@ -41,9 +34,6 @@ las librerias destacadas son:
 | <img src="./assets/textblob_logo.png" width="100"> | Análisis de sentimientos |
 | <img src="./assets/PyPI_logo.png" width="100"><br>(wordcloud/langdetect)| Operaciones sobre texto |
 | <img src="./assets/fastapi_logo.png" width="100"> <img src="./assets/uvicorn_logo.png" width="100"> | Montado de la API |
-
-
-
 
 Adicionalmente se hizo uso del sitio [__render.com__](https://render.com/) para el despliegue de la API.
 
@@ -55,6 +45,7 @@ Los principales archivos de este repositorio son:
 * [RS.ipynb](RS.ipynb): Desarrollo del sistema de recomendación.
 * [Datasets_API](Datasets_API/): Carpeta con los archivos de consulta de la API.
 * [main.py](main.py): Funciones de la API.
+* [assets](assets/): Imágenes del README.
 
 ## Demo
 En este [video](https://youtu.be/zsVhxv65iCk) se muestra el esquema general de trabajo y las consultas a la API.
