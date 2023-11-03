@@ -9,37 +9,36 @@
 - [Stack tecnológico](#stack-tecnológico)
 - [Archivos](#archivos)
 - [Demo](#demo)
-- [Despliegue de la API](#despliegue-de-la-api)
+- [Acceso a la API](#acceso-a-la-api)
 
 
 ## Descripción
-En este proyecto se realizó un sistema de recomendación de juegos de la plataforma STEAM. Para ello se contó con bases de datos obtenidas de la misma plataforma, se realizó un ETL, se hizo un análisis descriptivo de los mismos y se usaron como fuente para la construcción de un modelo de aprendizaje automático. Este trabajo fue disponibilizado a través de una REST API y deployado a través de un servicio web.
+En este proyecto se desarrolló un sistema de recomendación de juegos para la plataforma STEAM. Para ello, se utilizaron bases de datos obtenidas de la misma plataforma, se realizó un proceso de ETL, se llevó a cabo un análisis descriptivo de los datos y se utilizaron como fuente para la construcción de un modelo de aprendizaje automático. Finalmente, este trabajo se puso a disposición a través de una REST API y se implementó mediante un servicio web.
 
 ## Objetivos
-* Extraer, transformar y cargar los datos (`ETL`).
-* Hacer un análisis exploratorio de los datos (`EDA`).
-* Realizar `análisis de sentimientos` de las reviews de los usuarios.
-* Montar y desplegar una `API` capaz de responder GET requests.
-* Crear un `modelo de aprendizaje automático` como sistema de recomendación.
+* Realizar un proceso de `ETL` (Extraer, Transformar y Cargar) de los datos.
+* Llevar a cabo un análisis exploratorio de los datos (`EDA`).
+* Realizar un `análisis de sentimientos` de las reseñas de los usuarios.
+* Implementar y desplegar una `API` capaz de responder a solicitudes GET.
+* Construir un `modelo de aprendizaje automático` como sistema de recomendación.
 
 ## Stack tecnológico
-El proyecto está llevado a cabo en `Python` en archivos .py y .ipynb. Algunas de
-las librerias destacadas son:
+El proyecto se desarrolló en Python, utilizando archivos con extensiones .py y .ipynb. Algunas de las bibliotecas destacadas incluyen:
 
 | Librería | Uso |
 |:---:|---|
 | <img src="./assets/pandas_logo.png" width="100"> <img src="./assets/numpy_logo.png" width="100"> | Operaciones con Series y DataFrames |
-| <img src="./assets/matplotlib_logo.svg" width="100"> <img src="./assets/seaborn_logo.svg" width="100"> | Graficación |
+| <img src="./assets/matplotlib_logo.svg" width="100"> <img src="./assets/seaborn_logo.svg" width="100"> | Graficación de datos |
 | <img src="./assets/sklearn_logo.png" width="100"> | Procesamiento de datos y aprendizaje automático |
 | <img src="./assets/textblob_logo.png" width="100"> | Análisis de sentimientos |
 | <img src="./assets/PyPI_logo.png" width="100"><br>(wordcloud/langdetect)| Operaciones sobre texto |
 | <img src="./assets/fastapi_logo.png" width="100"> <img src="./assets/uvicorn_logo.png" width="100"> | Montado de la API |
 
-Adicionalmente se hizo uso del sitio [__render.com__](https://render.com/) para el despliegue de la API.
+Adicionalmente se utilizó wl servicio [__render.com__](https://render.com/) para el despliegue de la API.
 
 ## Archivos
 Los principales archivos de este repositorio son:
-* <a href="Diccionario de Datos STEAM.xlsx" download="Diccionario de Datos STEAM.xlsx">Diccionario de Datos STEAM.xlsx</a>: Información sobre la estructura de los 3 archivos de origen (no incluidos en el repositorio).
+* <a href="Diccionario de Datos STEAM.xlsx" download="Diccionario de Datos STEAM.xlsx">Diccionario de Datos STEAM.xlsx</a>: Contiene información sobre la estructura de los 3 archivos de origen (no incluidos en el repositorio).
 * [ETL.ipynb](ETL.ipynb): ETL de los 3 archivos de origen, junto con un EDA de los mismos.
 * [API.ipynb](API.ipynb): Archivo donde se generan los archivos de consulta de la API.
 * [RS.ipynb](RS.ipynb): Desarrollo del sistema de recomendación.
@@ -50,7 +49,7 @@ Los principales archivos de este repositorio son:
 Se sugiere consultarlos en el orden en el que son presentados.
 
 ## Demo
-En este [video](https://youtu.be/zsVhxv65iCk) se muestra el esquema general de trabajo y las consultas a la API.
+Puedes ver una demostración del proyecto en este [video](https://youtu.be/zsVhxv65iCk). El video muestra el esquema general de trabajo y cómo realizar consultas a la API.
 
-## Despliegue de la API
-En este [link](https://pi-mlops-4j8c.onrender.com/docs) se podrá acceder a la API y realizar consultas. (Nota: Al estar incorporado en una capa gratuita, puede demorar unos minutos en levantar el servicio).
+## Acceso a la API
+Para acceder a la API y realizar consultas, visita este [enlace](https://pi-mlops-4j8c.onrender.com/docs). Ten en cuenta que, al estar en una capa gratuita, el servicio puede tardar unos minutos en estar disponible.
