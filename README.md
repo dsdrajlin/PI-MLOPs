@@ -34,7 +34,7 @@ El proyecto se desarrolló en Python, utilizando archivos con extensiones .py y 
 | <img src="./assets/PyPI_logo.png" width="100"><br>(wordcloud/langdetect)| Operaciones sobre texto |
 | <img src="./assets/fastapi_logo.png" width="100"> <img src="./assets/uvicorn_logo.png" width="100"> | Montado de la API |
 
-Adicionalmente se utilizó wl servicio [__render.com__](https://render.com/) para el despliegue de la API.
+Adicionalmente se utilizó el servicio [__render.com__](https://render.com/) para el despliegue de la API.
 
 ## Archivos
 Los principales archivos de este repositorio son:
