@@ -10,6 +10,7 @@
 - [Archivos](#archivos)
 - [Demo](#demo)
 - [Acceso a la API](#acceso-a-la-api)
+- [Contacto](#contacto)
 
 
 ## Descripción
@@ -53,3 +54,6 @@ Puedes ver una demostración del proyecto en este [video](https://youtu.be/zsVhx
 
 ## Acceso a la API
 Para acceder a la API y realizar consultas, visita este [enlace](https://pi-mlops-4j8c.onrender.com/docs). Ten en cuenta que, al estar en una capa gratuita, el servicio puede tardar unos minutos en estar disponible.
+
+## Contacto
+Para más información o para contactarme, puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/sebastian-drajlin/).
